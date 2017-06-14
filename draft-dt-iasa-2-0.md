@@ -57,7 +57,7 @@ Approaches to thinking about the changes
 Explaining buckets of changes and the rationale of looking at three outcomes framework for the ISOC relationship part.
 
 Goals
-=====
+-----
 
 These need to be articulated, and this will also be needed for our analysis later in the document.
 
@@ -69,9 +69,19 @@ From Alissa’s document + more thinking ...
 Other potential organisatorial changes
 ======================================
 
-   Internal IAOC organisation ...
-   Staff resources ...
-   …
+Internal IAOC organisation
+--------------------------
+
+...
+
+Staff resources
+---------------
+
+...
+
+Other
+-----
+…
 
 Analysis
 ========
