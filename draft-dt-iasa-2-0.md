@@ -24,8 +24,9 @@ normative:
   RFC2119:
 
 informative:
-
-
+  RFC4071:
+  I-D.daigle-iasa-retrospective:
+  I-D.hall-iasa20-workshops-report:
 
 --- abstract
 
@@ -43,7 +44,7 @@ The system has experienced various challenges and frustrations along the way, fo
 
 The IETF community has discussed and continues to discuss these topics, most recently in the “IASA20” mailing list and BOF at IETF98. Alissa Cooper, the Chair of the IETF, asked a small design team to start evaluating potential options going forward. The purpose of the design team is to provide material that informs the community discussion, both in terms of providing a bit more worked through solution ideas, as well as supporting analysis of the implications of those options. This information, along with all other input provided in the discussion, hopefully helps the community and IETF leadership decide what next steps to take. To be clear, the community is in charge of adopting any recommendations or making any decisions. This draft, the output of the design team’s considerations, has no particular official standing.
 
-As a base for this work there is a good articulation of the set of problems we are facing in [] (#draft-hall-iasa20-workshops-report) and [](#draft-daigle-iasa-retrospective). The community discussion seems have indicated also some of the outcome properties that are expected. The scope of the solutions explored included:
+As a base for this work there is a good articulation of the set of problems we are facing in {{I-D.hall-iasa20-workshops-report}} and {{I-D.daigle-iasa-retrospective}}. The community discussion seems have indicated also some of the outcome properties that are expected. The scope of the solutions explored included:
 
 - Structural and organizational changes, both externally (with ISOC and contractors) and internally (within the IAOC and subcommittees)
 - Changes to personnel resources, both volunteer and paid
