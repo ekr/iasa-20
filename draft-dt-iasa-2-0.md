@@ -61,7 +61,20 @@ Briefly review current arrangements and point to the relevant RFCs.
 Challenges
 ==========
 
-Briefly cover the main challenges discussed in the WG, and highlight some items from Leslie’s document. Might use material from draft-arkko-ietf-iasa-thoughts.
+Discussion leading to this document has been framed by the issues discussed on IETF mailing lists and documented elsewhere  ([](#draft-daigle-iasa-retrospective), [](#draft-hall-iasa20-workshops-report), [](#draft-arkko-ietf-iasa-thoughts)).  The reader is referred to those documents and ongoing discussion on the IASA20@ietf.org mailing list for fuller details on the range of challenges facing the IETF in its handling of administrative matters.
+
+In summary, the key areas of challenge that have shaped this work are:
+
++ The range of IETF administrative tasks has grown considerably; ensure we have the right structure, community involvement and level of staffing to address them effectively and efficiently.
+
++ The relationship and division of responsibilities between the IETF and ISOC, as both organizations have grown considerably in the last decade.
+
++ Alignment of community expectations of transparency of administrative actions and delivery from the administration.
+
++ Funding and sponsorships. Manage expectations about locations of meetings (broadening of IETF engagement, sponsor preferences), balanced against operational practicalities.  Ensure that we continue to not be influenced by funding entities on the technical work of the IETF.
+
+Of the items above, the first two are largely to be addressed by structural updates, while the last two groups are more about discussing tradeoffs and updating documented expectations.
+
 
 Approaches to thinking about the changes
 ========================================
