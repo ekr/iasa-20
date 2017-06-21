@@ -90,13 +90,8 @@ Goals
 
 These need to be articulated, and this will also be needed for our analysis later in the document.
 
-Structuring the IETF’s relationship with ISOC
-=============================================
-
-From Alissa’s document + more thinking ...
-
-Other potential organisatorial changes
-======================================
+Reorganisation within IASA and IETF
+===================================
 
 Internal IAOC organisation
 --------------------------
@@ -111,6 +106,11 @@ Staff resources
 Other
 -----
 …
+
+Structuring the IETF’s relationship with ISOC
+=============================================
+
+From Alissa’s document + more thinking ...
 
 Analysis
 ========
