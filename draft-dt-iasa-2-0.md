@@ -62,7 +62,7 @@ Briefly review current arrangements and point to the relevant RFCs.
 Challenges
 ==========
 
-Discussion leading to this document has been framed by the issues discussed on IETF mailing lists and documented elsewhere  ([](#draft-daigle-iasa-retrospective), [](#draft-hall-iasa20-workshops-report), [](#draft-arkko-ietf-iasa-thoughts)).  The reader is referred to those documents and ongoing discussion on the IASA20@ietf.org mailing list for fuller details on the range of challenges facing the IETF in its handling of administrative matters.
+Discussion leading to this document has been framed by the issues discussed on IETF mailing lists and documented elsewhere  {{draft-daigle-iasa-retrospective}}, {{draft-hall-iasa20-workshops-report), {{draft-arkko-ietf-iasa-thoughts}}.  The reader is referred to those documents and ongoing discussion on the IASA20@ietf.org mailing list for fuller details on the range of challenges facing the IETF in its handling of administrative matters.
 
 In summary, the key areas of challenge that have shaped this work are:
 
