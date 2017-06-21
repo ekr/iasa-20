@@ -32,6 +32,9 @@ informative:
 
 Abstract
 
+The arrangements relating to administrative support for the IETF were created more than ten years ago. There's been considerable change in the tasks and our own expectations since then. The IETF community has discussed these changes and the problems they cause. The community has some sense of the properties they expect from our future arrangements, including structural and organizational changes, changes to volunteer and staff personnel resources, and transparency changes.
+
+This document is a product of a design team, focused on providing additional information to the community about solution options, as well as supporting analysis of the implications of those options. To be clear, the community is in charge of adopting any recommendations or making any decisions.
 
 --- middle
 
