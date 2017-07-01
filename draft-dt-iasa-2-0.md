@@ -105,10 +105,18 @@ In summary, the key areas of challenge that have shaped this work are:
 Of the items above, the first two are largely to be addressed by structural updates, while the last two groups are more about discussing tradeoffs and updating documented expectations.
 
 
-Approaches to thinking about the changes
-========================================
+Considering a Change
+====================
 
-Explaining buckets of changes and the rationale of looking at three outcomes framework for the ISOC relationship part.
+Given that a change seems necessary, what might that change include? There seems three broad categories of IETF organisation that are going to be affected:
+
+1. Organisation within IASA itself
+2. Relationship with ISOC
+3. Interfaces and expectations between IASA and the rest of the IETF
+
+The aspects are of course somewhat interconnected. For instance, how IETF defines its relationship to ISOC will have some implications for the internal organisation within IASA. A more independent, free-standing organisatorial model for IETF would imply new functions at IASA.
+
+There are a number of choices to make within the reorganisation effort. In particular, IETF's relationship to ISOC could be arranged in a fundamentally similar manner than it is today, but improved, e.g., to make clear who is expected to control a particular part of the operation. But the relationship could also be arranged in a different way, for instance, as a subsidiary of ISOC or as a more free-standing, own organisatorial unit.
 
 Goals
 -----
