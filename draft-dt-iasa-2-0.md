@@ -88,7 +88,17 @@ Explaining buckets of changes and the rationale of looking at three outcomes fra
 Goals
 -----
 
-These need to be articulated, and this will also be needed for our analysis later in the document.
+The IASA redesign effort needs to address the main challenges listed above. More specifically, a chosen new organisatorial structure needs to do at least the following:
+
++ Define the roles of the oversight entities and staff/contractors to match the grown size of the tasks. Ensure that we have a structure that can adapt to future growth and other changes.
+
++ Define the roles of IETF and ISOC in a way that helps the above structure be as clear as possible, in terms of who does what, how are things accounted, and who is in charge of adjustments and control (e.g., staff resources). Propose a starting point for the financial arrangements between IETF and ISOC, either as they are now or changed in some fashion. It shall also be clear to people outside the IETF and ISOC organisation (e.g., sponsors) what the arrangements are and what their contributions affect and do not affect.
+
++ The new organisation needs to accommodate for strategic, operational, and execution of administrative tasks, and take into account the limited availability of IETF volunteers for performing administrative tasks. The new design needs to ensure that overload in, e.g., operational decisions does not affect the ability to drive strategic changes.
+
++ Set expectations and limits of those expectations on the different parts of the system. This includes, but is not limited to community expectations of transparency.
+
++ Ensure that future IASA organizational structure and processes preserves and protects the IETF’s unique culture of individual contribution, clear separation of financial support from technical work, as well as rough consensus and running code.
 
 Reorganisation within IASA and IETF
 ===================================
