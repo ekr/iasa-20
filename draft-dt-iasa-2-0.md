@@ -85,7 +85,44 @@ The rest of the document is organised as follows. The next two sections describe
 Background
 ==========
 
-Briefly review current arrangements and point to the relevant RFCs.
+The administrative support structure intended to be responsive to the administrative needs of the IETF technical community.
+
+RFC 4071 defines the current IETF Administrative Support Activity (IASA). It is an activity housed within the Internet Society (ISOC), as is the rest of the IETF.  RFC 4071 defines the roles and responsibilities of the IETF Administrative Oversight Committee (IAOC), the IETF Administrative Director (IAD), and ISOC in the fiscal and administrative support of the IETF standards process.  It also defines the membership and selection rules for the IAOC.
+
+As RFC 4071 notes, IASA is distinct from IETF-related technical functions, such as the RFC Editor, the IANA, and the IETF standards process itself.  The IASA has no influence on the technical decisions of the IETF or on the technical contents of IETF work. 
+
+Today, IASA's activities support a number of functions within the IETF system:
+
++ Meeting planning
++ Contracting with and overseeing the secretariat
++ Contracting with the overseeing the RFC Editor (together with IAB)
++ Contracting with and overseeing IANA (together with IAB)
++ Legal ownership of IETF materials, domain names and copyright
++ Ownership of IANA-related domain names and copyright
++ IETF website
++ IETF IT services
++ Tooling support, maintenance, and development (together with volunteers)
++ Meeting network support
++ Remote attendance support
++ Communications assistance for the IETF
++ Sponsorship and funding (together with ISOC)
+
+Terminology
+-----------
+
+The following acronyms are used in this document:
+
++ IASA - IETF Administrative Support Activity - An organized activity that provides administrative support for the IETF, the IAB and the IESG.
+
++ IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely IETF-selected committee that oversees and directs IASA.  Accountable to the IETF community.
+
++ IAOC committees - Recognizing the need for specialized attention for different branches of work requiring IAOC oversight, the IAOC expanded its support by creating committees. Currently, the committees do the heavy lifting on background work, while the IAOC is the one responsible for final decisions.
+      
++ ISOC - The Internet Society - An organizational home of the IETF, and one that in the current IASA system assists the IETF with legal, administrative, and funding tasks.
+
++ IAD - IETF Administrative Director - In the current system, the sole staff member responsible for carrying out the work of the IASA.  An ISOC employee.
+
++ IETF Trust - In the current system the IETF Trust acquires, maintains, and licenses intellectual and other property used in connection with the administration of the IETF.  Same composition as IAOC.
 
 Challenges
 ==========
