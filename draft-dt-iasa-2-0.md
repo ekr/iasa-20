@@ -25,6 +25,11 @@ author:
     organization: Ericsson Research
     email: jari.arkko@piuha.net
 
+    ins: L. Daigle
+    name: Leslie Daigle
+    organization: Thinking Cat Enterprises LLC
+    email: ldaigle@thinkingcat.com
+    
     ins: J. Hall
     name: Joseph Lorenzo Hall
     organization: CDT
@@ -34,11 +39,6 @@ author:
     name: Jason Livingood
     organization: Comcast
     email: Jason_Livingood@comcast.com
-    
-    ins: L. Daigle
-    name: Leslie Daigle
-    organization: Thinking Cat Enterprises LLC
-    email: ldaigle@thinkingcat.com
     
     ins. E. Rescorla
     name: Eric Rescorla
