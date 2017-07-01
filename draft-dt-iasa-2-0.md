@@ -15,10 +15,35 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    ins: A. Author
-    name: An Author
-    organization: Not listed
-    email: devnull@example.com
+    ins: B. Haberman, Editor
+    name: Brian Haberman (Editor)
+    organization: Johns Hopkins University Applied Physics Lab
+    email: brian@innovationslab.net
+    
+    ins: J. Arkko
+    name: Jari Arkko
+    organization: Ericsson Research
+    email: jari.arkko@piuha.net
+
+    ins: J. Hall
+    name: Joseph Lorenzo Hall
+    organization: CDT
+    email: joe@cdt.org
+    
+    ins: J. Livingood
+    name: Jason Livingood
+    organization: Comcast
+    email: Jason_Livingood@comcast.com
+    
+    ins: L. Daigle
+    name: Leslie Daigle
+    organization: Thinking Cat Enterprises LLC
+    email: ldaigle@thinkingcat.com
+    
+    ins. E. Rescorla
+    name: Eric Rescorla
+    organization: RTFM, Inc.
+    email: ekr@rtfm.com
 
 normative:
   RFC2119:
@@ -127,6 +152,11 @@ Analysis
 
 Conclusions and recommendations
 ===============================
+
+Acknowledgments
+===============
+
+This text is the work of the design team, but greatly influenced by discussions in the IETF community. The team would in particular like to thank Alissa Cooper, Andrew Sullivan, Ray Pelletier, Ted Hardie, Gonzalo Camarillo, Brian Carpenter, Lucy Lynch, Stephen Farrell, Dave Crocker, Jon Peterson, Alexa Morris, Michael Richardson, Olaf Kolkman, Kathy Brown, and Melinda Shore for interesting discussions in this problem space.
 
 --- back
 
