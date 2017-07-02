@@ -185,16 +185,46 @@ But in addition to these given changes, there are a number of choices in divisio
 Internal IAOC organisation
 --------------------------
 
-...
+Two combinations of the above decision points are given here; the rest can be inferred.
+
+### Option A -- Strategic board with empowered staff
+
+In this option, the current IAOC is disbanded and replaced by a traditional oversight board, common in most non-profit organisations. This board, the IASA Board (IB), acts to set strategic director for IETF administrative matters, sets budgets, provides fiscal oversight, provides high-level oversight about major new projects. The board is also responsible for staffing all director level positions in the organisation.
+
+The staff and key contractors are responsible for operating within the limits set by the board, and are accountable to the board. Including being hired and fired as needed. The staff's responsibilities include:
+
++ preparing for and making decisions on their agreed and budgeted areas (for example, meeting venue decisions)
++ operational execution of thos decisions
++ communicating with the community
+
+The composition of the board needs some care. It is important to have regular IETF participants in the board, but at least some of the board members need to be well-networked ble to help make connections to raise money or provide advice about fundraising (which is pretty typical for a non-profit board).
+
+One potential model for populating the board is a Nomcom-selection for 2/3 of the board members and selection by IETF and ISOC leadership for 1/3 of the board members with a view for more outside, well-networked members.
+
+
+### Option B -- Strategic board with empowered staff helped by advisory board
+
+In this option, there is a board and staff just like in option A, but in addition, an Advisory Council (AC) provides an interface to the community on matters that require assessing community opinion. For instance, the current polling of community feedback relating to potential future meeting locations could be one such matter.
+
+    An advisory council canvasing and pulling for this information is probably a better approach than either freeform mailing list discussion, or the relatively opaque process that is currently used. Advisory board results could be documented in the same fashion as IESG documents documents last call results. Some IAOC site decisions have been done in this way, but not all, possibly due to lack of time.
+
+The advisory council would be comprised of IETF community members and selected by Nomcom, and would benefit from having either the IETF Chair or another IESG member as a liaison. The advisory council would not make decisions about how the IETF should run, but it would be available for the staff to consult whenever they needed a view from the community, and it would also be available to run community discussion processes or to get input from the community to funnel back to the staff. The advisory council would have a well-defined interface to the IESG as well.
+
+The separation of the board and the advisory council, with some overlap between them, allows the allocation of people to tasks according to their skills. We can have experienced managers involved in hiring/firing/reviewing the director staff and overseeing the budget, while we have experienced community people giving the perspective of the community.
 
 Staff resources
 ---------------
 
-...
+The current arrangement involves one officially designated IASA employee, but there are also many supporting employees. They are less clearly assigned for the IETF, working at contractors and at ISOC.
 
-Other
------
-…
+This document suggests a structure that involves:
+
++ An Executive Director. The person in this role is in charge of the overall IASA effort, but can rely on other staff members below as well as contractors. The Executive Director is accountable to the Board.
++ Operations Director. This person is responsible for meeting arrangements, IT, tools,
++ Communications Director. This person is responsible for working with IETF leadership (incl. IETF Chair, IESG, and IAB) on communications matters, assisting them in efficient communication and dealing with ongoing communications matters.
++ Legal Counsel. This person assists the IASA on legal matters as well as prepares and reviews all contracts that are needed with IETF's contractors.
+
+The Executive Director needs to be an employee, but the other roles can also be contractors.
 
 Structuring the IETF’s relationship with ISOC
 =============================================
