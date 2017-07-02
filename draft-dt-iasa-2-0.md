@@ -175,7 +175,12 @@ Reorganisation within IASA and IETF
 
 The design team believes that any future organisation for IASA needs to put all resources for the the IETF in a clearer and more direct control of the IETF. In addition, the staff resources need to increased or reirganised from one director to a few more specialised roles. And the role of the community members serving in IASA needs to kept at a level for which can actually expect volunteers for.
 
-But in addition to this there are a number of choices. The key decidion points are:
+The internal organisation of IASA is also obviously affected by what we decide to do with the relationship to ISOC. A bigger, more independent role for the IETF would require IASA boards to be designed for that.
+
+But in addition to these given changes, there are a number of choices in division of responsibilities and the structure of the organisation. The key decision points are:
+
++ Whether the community representative or board control of IASA is at the level of individual administrative decisions (as it is today) or at a more traditional board control, i.e., stategic direction, budgets, and key personnel choices.
++ Whether the interface to the community is via staff or a community representative or board function.
 
 Internal IAOC organisation
 --------------------------
