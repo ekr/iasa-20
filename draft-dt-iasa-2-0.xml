@@ -233,15 +233,18 @@
       seems three broad categories of IETF organisation that are going to be affected:
 
 <list style="numbers">
-   <t>Organisation within IASA itself</t>
-   <t>Relationship with ISOC</t>
-   <t>Interfaces and expectations between IASA and the rest of the IETF</t>
+  <t>overall structure,</t>
+  <t>oversight, and</t>
+  <t>interfaces and expectations to rest of the IETF.</t>
 </list></t>
 
-   <t>The aspects are of course somewhat interconnected. For instance, how IETF defines its 
-      relationship to ISOC will have some implications for the internal organisation within
-      IASA. A more independent, free-standing organisational model for IETF would imply 
-      new functions at IASA.</t>
+  <t>Overall structure includes also questions such as whether IETF is an organisation, and its the relationship to ISOC is.</t>
+
+   <t>There are some interconnections between different aspects of
+   reorganisation. For instance, how IETF defines its relationship to ISOC will
+   have some implications on what kind of oversight structure is needed, for
+   insance. And a more independent, free-standing organisational model for IETF
+   would imply new functions at IASA.</t>
 
    <t>There are a number of choices to make within the reorganisation effort. In particular, 
       IETF's relationship to ISOC could be arranged in a fundamentally similar manner than 
@@ -281,6 +284,16 @@
       support from technical work, as well as rough consensus and running code.</t>
 </list></t>
 </section>
+</section>
+
+<section title="Reorganisation Options">
+
+  <section title="Overall Structure">
+  </section>
+  <section title="Oversight">
+  </section>
+  <section title="Staff Structure">
+  </section>
 </section>
 
 <section title="Reorganisation within IASA and IETF">
