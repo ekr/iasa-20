@@ -242,12 +242,44 @@ We use the following criteria based on the goals stated earlier:
 + The arrangements are designed to evolve as situations evolve (EVOLVE)
 + Accommodates strategic tasks (STRAT TSK)
 + Accommodates operational and execution tasks (OPS TSK)
-+ Avoids overload in one class of tasks preventing progress in other (OVERLAD SEP)
++ Avoids overload in one class of tasks preventing progress in other (OVERLOAD SEP)
 + Clarifies the relationship between IETF and ISOC (CLEAR ISOC REL)
 + Allows direct IETF control of resources (e.g., staff) working on a task (DIR CONTROL)
 + Preserves IETF culture and mode of operation (CULTURE)
 + Separates IETF technical work and administrative tasks and funding (WORK SEP)
 + Sets expectations on what can or can not be expected from IASA (IASA EXP)
+
+For the internal organisation, the implications of the current situation and the two options are summarised below:
+
+|                | Current situation | Option A         | Option B        | 
+| SCALE          |                   |                  |                 |
+| EVOLVE         |                   |                  |                 |
+| STRAT TSK      |                   |                  |                 |
+| OPS TSK        |                   |                  |                 |
+| OVERLOAD SEP   |                   |                  |                 |
+| CLEAR ISOC REL |                   |                  |                 |
+| DIR CONTROL    |                   |                  |                 |
+| CULTURE        |                   |                  |                 |
+| WORK SEP       |                   |                  |                 |
+| IASA EXP       |                   |                  |                 |
+
+In addition, ...
+
+For the IETF-ISOC relationship, the implications of the current situation and the three options are summarized here:
+
+|                | Current situation | Option 1         | Option 2        | Option 3        |
+| SCALE          |                   |                  |                 |                 |
+| EVOLVE         |                   |                  |                 |                 |
+| STRAT TSK      |                   |                  |                 |                 |
+| OPS TSK        |                   |                  |                 |                 |
+| OVERLOAD SEP   |                   |                  |                 |                 |
+| CLEAR ISOC REL |                   |                  |                 |                 |
+| DIR CONTROL    |                   |                  |                 |                 |
+| CULTURE        |                   |                  |                 |                 |
+| WORK SEP       |                   |                  |                 |                 |
+| IASA EXP       |                   |                  |                 |                 |
+
+In addition, ...
 
 Conclusions and recommendations
 ===============================
