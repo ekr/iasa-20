@@ -116,25 +116,39 @@
 </section>
 </section>
 
-<section title="Challenges">
+<section anchor="challenges" title="Challenges">
 
    <t>Discussion leading to this document has been framed by the issues discussed on IETF mailing lists and documented elsewhere  <xref target="I-D.daigle-iasa-retrospective"/>, <xref target="I-D.hall-iasa20-workshops-report"/>, <xref target="I-D.arkko-ietf-iasa-thoughts"/>.  The reader is referred to those documents and ongoing discussion on the IASA20@ietf.org mailing list for fuller details on the range of challenges facing the IETF in its handling of administrative matters.</t>
 
 <t>In summary, the key areas of challenge that have shaped this work are:
 
 <list style="symbols">
-   <t>The range of IETF administrative tasks has grown considerably; ensure we have the right structure, community involvement and level of staffing to address them effectively and efficiently.</t>
-   <t>The relationship and division of responsibilities between the IETF and ISOC, as both organizations have grown considerably in the last decade.</t>
-   <t>Alignment of community expectations of transparency of administrative actions and delivery from the administration.</t>
-   <t>Funding and sponsorships. Manage expectations about locations of meetings (broadening of IETF engagement, sponsor preferences), balanced against operational practicalities.  Ensure that we continue to not be influenced by funding entities on the technical work of the IETF.</t>
+   <t>The range of IETF administrative tasks has grown considerably; ensure we 
+      have the right structure, community involvement and level of staffing to 
+      address them effectively and efficiently.</t>
+   <t>The relationship and division of responsibilities between the IETF and ISOC, 
+      as both organizations have grown considerably in the last decade.
+      <vspace blankLines="1"/>
+      The joint organisation that supports the IETF has grown rather organically, and
+      would benefit from re-assessment and possible reorganisation.
+   </t>
+   <t>Alignment of community expectations of transparency of administrative actions 
+      and delivery from the administration.</t>
+   <t>Funding and sponsorships. Manage expectations about locations of meetings 
+      (broadening of IETF engagement, sponsor preferences), balanced against 
+      operational practicalities.  Ensure that we continue to not be influenced by 
+      funding entities on the technical work of the IETF.</t>
 </list></t>
 
-   <t>Of the items above, the first two are largely to be addressed by structural updates, while the last two groups are more about discussing tradeoffs and updating documented expectations.</t>
+   <t>Of the items above, the first two are largely to be addressed by structural
+      updates, while the last two groups are more about discussing tradeoffs and 
+      updating documented expectations.</t>
 </section>
 
 <section title="Considering a Change">
 
-   <t>Given that a change seems necessary, what might that change include? There seems three broad categories of IETF organisation that are going to be affected:
+   <t>Given that a change seems necessary, what might that change include? There 
+      seems three broad categories of IETF organisation that are going to be affected:
 
 <list style="numbers">
    <t>Organisation within IASA itself</t>
@@ -142,41 +156,73 @@
    <t>Interfaces and expectations between IASA and the rest of the IETF</t>
 </list></t>
 
-   <t>The aspects are of course somewhat interconnected. For instance, how IETF defines its relationship to ISOC will have some implications for the internal organisation within IASA. A more independent, free-standing organisational model for IETF would imply new functions at IASA.</t>
+   <t>The aspects are of course somewhat interconnected. For instance, how IETF defines its 
+      relationship to ISOC will have some implications for the internal organisation within
+      IASA. A more independent, free-standing organisational model for IETF would imply 
+      new functions at IASA.</t>
 
    <t>There are a number of choices to make within the reorganisation effort. In particular, IETF's relationship to ISOC could be arranged in a fundamentally similar manner than it is today, but improved, e.g., to make clear who is expected to control a particular part of the operation. But the relationship could also be arranged in a different way, for instance, as a subsidiary of ISOC or as a more free-standing, own organisational unit.</t>
 
-<section title="Goals">
+<section anchor="goals" title="Goals">
 
    <t>The IASA redesign effort needs to address the main challenges listed above. More specifically, a new organisational structure needs to do at least the following:
 
 <list style="symbols">
-   <t>Define the roles of the oversight entities and staff/contractors to match the grown size of the tasks. Ensure that we have a structure that can adapt to future growth and other changes.</t>
+   <t>Define the roles of the oversight entities and staff/contractors to match the grown 
+      size of the tasks. Ensure that we have a structure that can adapt to future growth and 
+      other changes.</t>
 
-   <t>Define the roles of IETF and ISOC in a way that helps the above structure be as clear as possible, in terms of who does what, how are things accounted, and who is in charge of adjustments and control (e.g., staff resources). Propose a starting point for the financial arrangements between IETF and ISOC, either as they are now or changed in some fashion. It shall also be clear to people outside the IETF and ISOC organisation (e.g., sponsors) what the arrangements are and what their contributions affect and do not affect.</t>
+   <t>Define the roles of IETF and ISOC in a way that helps the above structure be as clear 
+      as possible, in terms of who does what, how are things accounted, and who is in charge 
+      of adjustments and control (e.g., staff resources). Propose a starting point for the 
+      financial arrangements between IETF and ISOC, either as they are now or changed in
+      some fashion. It shall also be clear to people outside the IETF and ISOC organisation 
+      (e.g., sponsors) what the arrangements are and what their contributions affect and 
+      do not affect.</t>
 
-   <t>The new organisation needs to accommodate for strategic, operational, and execution of administrative tasks, and take into account the limited availability of IETF volunteers for performing administrative tasks. The new design needs to ensure that overload in, e.g., operational decisions does not affect the ability to drive strategic changes.</t>
+   <t>The new organisation needs to accommodate for strategic, operational, and execution of 
+      administrative tasks, and take into account the limited availability of IETF volunteers 
+      for performing administrative tasks. The new design needs to ensure that overload in,
+      e.g., operational decisions does not affect the ability to drive strategic changes.</t>
 
-   <t>Set expectations and limits of those expectations on the different parts of the system. This includes, but is not limited to community expectations of transparency.</t>
+   <t>Set expectations and limits of those expectations on the different parts of the system. 
+      This includes, but is not limited to community expectations of transparency.</t>
 
-   <t>Ensure that future IASA organizational structure and processes preserves and protects the IETF's unique culture of individual contribution, clear separation of financial support from technical work, as well as rough consensus and running code.</t>
+   <t>Ensure that future IASA organizational structure and processes preserves and protects 
+      the IETF's unique culture of individual contribution, clear separation of financial 
+      support from technical work, as well as rough consensus and running code.</t>
 </list></t>
 </section>
 </section>
 
 <section title="Reorganisation within IASA and IETF">
 
-<t>The design team believes that any future organisation for IASA needs to put all resources for the the IETF in a clearer and more direct control of the IETF. In addition, the staff resources need to increased or reorganised from one director to a few more specialised roles. And the role of the community members serving in IASA needs to be kept at a level appropriate for volunteer service.</t>
+<t>The design team believes that staff 
+   resources need to increased or reorganised from one director to a few more specialised 
+   roles (see growth in <xref target="challenges"/>). And the role of the community members serving in IASA needs to be kept at a level 
+   appropriate for volunteer service (see community role
+   in <xref target="challenges"/> and limits in <xref target="goals"/>). 
+   In addition, the team believes that  
+   any future organisation for IASA may benefit from organising all resources
+   under a clearer and more direct control of the IETF (see
+   division of responsibilities in <xref target="challenges"/> and 
+   roles in <xref target="goals"/>).</t>
 
-<t>The internal organisation of IASA is also obviously affected by what we decide to do with the relationship to ISOC. A bigger, more independent role for the IETF would require IASA boards to be designed for that.</t>
+<t>The internal organisation of IASA is also obviously affected by what we decide to do 
+   with the relationship to ISOC. A bigger, more independent role for the IETF would require 
+   IASA boards to be designed for that.</t>
 
-<t>But in addition to these given changes, there are a number of choices in division of responsibilities and the structure of the organisation. The key decision points are:
+<t>But in addition to these given changes, there are a number of choices in division of 
+   responsibilities and the structure of the organisation. The key decision points are:
 
 <list style="symbols">
 
-<t>Whether the community representative or board control of IASA is at the level of individual administrative decisions (as it is today) or at a more traditional board control, i.e., strategic direction, budgets, and key personnel choices.</t>
+<t>Whether the community representative or board control of IASA is at the level of individual 
+   administrative decisions (as it is today) or at a more traditional board control, i.e.,
+   strategic direction, budgets, and key personnel choices.</t>
 
-<t>Whether the interface to the community is via staff or a community representative or board function.</t>
+<t>Whether the interface to the community is via staff or a community representative or board
+   function.</t>
 
 </list></t>
 
@@ -186,17 +232,27 @@
 
 <section title="Option A -- Strategic board with empowered staff">
 
-<t>In this option, the current IAOC is disbanded and replaced by a traditional oversight board, common in most non-profit organisations. This board, the IASA Board (IB), acts to set strategic direction for IETF administrative matters, sets budgets, provides fiscal oversight, provides high-level oversight about major new projects. The board is also responsible for staffing all director level positions in the organisation.</t>
+<t>In this option, the current IAOC is disbanded and replaced by a traditional oversight board, 
+   common in most non-profit organisations. This board, the IASA Board (IB), acts to set 
+   strategic direction for IETF administrative matters, sets budgets, provides fiscal 
+   oversight, provides high-level oversight about major new projects. The board is also 
+   responsible for staffing all director level positions in the organisation.</t>
 
-<t>The staff and key contractors are responsible for operating within the limits set by the board, and are accountable to the board. Including being hired and fired as needed. The staff's responsibilities include:
+<t>The staff and key contractors are responsible for operating within the limits set by 
+   the board, and are accountable to the board. Including being hired and fired as needed. 
+   The staff's responsibilities include:
 
 <list style="symbols">
-<t>preparing for and making decisions on their agreed and budgeted areas (for example, meeting venue decisions)</t>
+<t>preparing for and making decisions on their agreed and budgeted areas (for example, 
+   meeting venue decisions)</t>
 <t>operational execution of these decisions</t>
 <t>communicating with the community</t>
 </list></t>
 
-<t>The composition of the board needs careful attention. It is important to have regular IETF participants in the board, but at least some of the board members need to be well-networked ble to help make connections to raise money or provide advice about fundraising (which is pretty typical for a non-profit board).</t>
+<t>The composition of the board needs careful attention. It is important to have regular 
+   IETF participants in the board, but at least some of the board members need to be
+   well-networked ble to help make connections to raise money or provide advice about
+   fundraising (which is pretty typical for a non-profit board).</t>
 
 <t>One potential model for populating the board is a Nomcom-selection for 2/3 of the board members and selection by IETF and ISOC leadership for 1/3 of the board members with a view for more outside, well-networked members.</t>
 
