@@ -47,9 +47,19 @@
    <workgroup>Individual Submission</workgroup>
 
    <abstract>
-      <t>The arrangements relating to administrative support for the IETF were created more than ten years ago. There's been considerable change in the tasks and our own expectations since then. The IETF community has discussed these changes and the problems they cause. The community has some sense of the properties they expect from future arrangements, including structural and organizational changes, changes to volunteer and staff personnel resources, and transparency changes.</t>
+      <t>The arrangements relating to administrative support for the IETF were
+      created more than ten years ago. There's been considerable change in the
+      tasks and our own expectations since then. The IETF community has
+      discussed these changes and the problems they cause. The community has
+      some sense of the properties they expect from future arrangements,
+      including structural and organizational changes, changes to volunteer and
+      staff personnel resources, and transparency changes.</t>
 
-      <t>This document is a product of a design team, focused on providing additional information to the community about solution options, as well as supporting analysis of the implications of those options. To be clear, the community is in charge of adopting any recommendations or making any decisions.</t>
+      <t>This document is a product of a design team, focused on providing
+      additional information to the community about solution options, as well as
+      supporting analysis of the implications of those options.  To be clear,
+      the community is in charge of adopting any recommendations or making any
+      decisions.</t>
    </abstract>
 </front>
 
@@ -77,11 +87,28 @@
       worked through solution ideas, as well as supporting analysis of the implications
       of those options. This information, along with all other input provided in the 
       discussion, hopefully helps the community and IETF leadership decide what next 
-      steps to take. To be clear, the community is in charge of adopting any 
-      recommendations or making any decisions.  This draft, the output of the 
-      design team's considerations, has no particular official standing.</t>
+      steps to take.</t>
 
-   <t>As a base for this work there is a good articulation of the set of problems we
+      <t>To be clear, the community is in charge of adopting any recommendations
+      or making any decisions. This draft, the output of the design team's
+      considerations, has no particular official standing.</t>
+
+      <t>Once an initial version of this draft is published, the authors
+      would like to ask feedback particularly on two aspects:
+      <list style="symbols">
+	<t>If the set of options outlined in the draft covers the
+	options that should be looked at.</t>
+	<t>If the analysis of the implications of the options is
+	correct.</t>
+      </list></t>
+
+      <t>Once this discuss completes, it becomes feasible to discuss what the
+      conclusions or recommendations ought to be, and which recommendations the
+      community should adopt. It should also be noted that IETF administrative
+      matters have been organised jointly with ISOC, and it is important that
+      ISOC is also involved in the process of looking at the reorganisation.</t>
+
+   <t>As a base for this work there was a good articulation of the set of problems we
       are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and
       <xref target="I-D.daigle-iasa-retrospective"/>. The community discussion 
       seems have indicated also some of the outcome properties that are expected.
@@ -310,7 +337,7 @@
    meeting venue decisions)</t>
 <t>operational execution of these decisions, including contracting with vendors</t>
 <t>communicating with the community</t>
-<t>development of the IETF’s administrative operation, in consultation with the community</t>
+<t>development of the IETF's administrative operation, in consultation with the community</t>
 </list></t>
 
 <t>The primary difference between this option and the current IAOC arrangements is that
