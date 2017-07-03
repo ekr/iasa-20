@@ -301,15 +301,16 @@
    responsible for hiring and assessing the performance of the Executive Director (the 
    highest-level staff director, see <xref target="staffresources"/>).</t>
 
-<t>The staff and key contractors are responsible for operating within the limits set by 
+<t>The staff is responsible for operating within the limits set by 
    the board, and are accountable to the board. Including being hired and fired as needed. 
    The staff's responsibilities include:
 
 <list style="symbols">
 <t>preparing for and making decisions on their agreed and budgeted areas (for example, 
    meeting venue decisions)</t>
-<t>operational execution of these decisions</t>
+<t>operational execution of these decisions, including contracting with vendors</t>
 <t>communicating with the community</t>
+<t>development of the IETF’s administrative operation, in consultation with the community</t>
 </list></t>
 
 <t>The primary difference between this option and the current IAOC arrangements is that
@@ -319,9 +320,10 @@
    role.</t>
    
 <t>The composition of the board needs careful attention. It is important to have regular 
-   IETF participants in the board, but at least some of the board members need to be
-   well-networked ble to help make connections to raise money or provide advice about
-   fundraising (which is pretty typical for a non-profit board).</t>
+   IETF participants in the board, but at least some of the board members need to have
+   skills and experience less common among IETF participants, namely non-profit management,
+   budget experience, and ability to help make connections to raise money or provide advice
+   about fundraising (all of which are pretty typical for a non-profit board).</t>
 
 <t>One potential model for populating the board is a Nomcom-selection for 2/3 of
    the board members and selection by IETF and ISOC leadership for 1/3 of the board 
@@ -376,7 +378,8 @@
    Executive Director is accountable to the Board.</t>
 
 <t>Operations Director. This person is responsible for meeting arrangements, IT, 
-   tools, and vendor contracts (including RFC Editor and IANA).</t>
+   tools, managing contracts (including RFC Editor and IANA), and day-to-day budget
+   management.</t>
 
 <t>Partner Director. This person is responsible for working with IETF's sponsors 
    and other partners, and the primary responsible for fundraising.</t>
