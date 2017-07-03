@@ -287,28 +287,38 @@ For the IETF-ISOC relationship, the implications of the current situation and th
 ```
 
 |                | Current situation | Option 1         | Option 2        | Option 3        |
-| SCALE          |         NO        |                  |                 |                 |
-| EVOLVE         |         NO        |                  |                 |                 |
-| STRAT TSK      |         NO        |                  |                 |                 |
-| OPS TSK        |        YES        |                  |                 |                 |
-| OVERLOAD SEP   |        YES        |                  |                 |                 |
-| CLEAR ISOC REL |         NO        |                  |                 |                 |
-| DIR CONTROL    |         NO        |                  |                 |                 |
-| CULTURE        |        YES        |                  |                 |                 |
-| WORK SEP       |        YES        |                  |                 |                 |
-| IASA EXP       |                   |                  |                 |                 |
+| SCALE          |         NO        |        NO        |       YES       |       YES       |
+| EVOLVE         |         NO        |   NO (Note 4)    |  MAYBE (Note 4) |   YES (Note 4)  |
+| STRAT TSK      |         NO        |   NO (Note 4)    |       YES       |       YES       |
+| OPS TSK        |        YES        |       YES        |       YES       |       YES       |
+| OVERLOAD SEP   |        YES        |       YES        |       YES       |       YES       |
+| CLEAR ISOC REL |         NO        |        NO        |       YES       |       YES       |
+| DIR CONTROL    |         NO        |        NO        |       YES       |       YES       |
+| CULTURE        |        YES        |       YES        |       YES       |       YES       |
+| WORK SEP       |        YES        |       YES        |       YES       |       YES       |
+| IASA EXP       |         NO        |   MAYBE (Note 3) |  MAYBE (Note 3) |  MAYBE (Note 3) |
 
 ```
 
-Note 1:
+Note 4: Evolution in the current system is more difficult than if IETF was either clearly a subsidiary or its own organisation. This would also ease driving any strategy that the IETF wants to drive, as decisions would be more on the IETF side than something that today would require negotiation with ISOC.
 
 Financial Impacts
 -----------------
 
-There are two different classes of changes. First, both the ISOC interface change and staff changes will imply changes in what is being accounted for in budgets and reports, even in cases where the actual work or the number of people stays the same. Secondly, we expect all the alternatives
+There are two different classes of changes. First, both the ISOC interface change and staff changes will imply changes in what is being accounted for in budgets and reports, even in cases where the actual work or the number of people stays the same. Secondly, there are actual increases.
+
+We expect all the alternatives to lead to somewhat higher funding needs, and in fact shifting more work to staff from volunteers is one of the goals. For the internal reorganisation, the primary position actually being added is having both Executive Director and Operations Director, instead of one IAD. We've already had Legal Counsel and Communications Director. These chances coincide with other personnel changes in IASA, as the experienced, long-term IAD is retiring. Even from a learning curve point of view more people will be needed, but in this case it also makes sense to have the organisation be less dependent on one central person.
+
+Given the learning curve effect, and a new organisation, it is expected that the role of the Legal Counsel will also increase, e.g., in terms of reviewing contracts. Staff 
+
+The effects of ISOC relationship changes to finance are for further study.
 
 Other Impacts
 -------------
+
+Depending on the chosen option, volunteers are needed for either different roles than today (the board) or for both different roles and more volunteers (the board and the advisory council).
+
+It is for further study whether current IETF leadership (e.g., IAB Chair) should continue to be part of these boards or councils.
 
 Conclusions and recommendations
 ===============================
