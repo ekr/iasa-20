@@ -251,6 +251,7 @@ We use the following criteria based on the goals stated earlier:
 
 For the internal organisation, the implications of the current situation and the two options are summarised below:
 
+<verbatim>
 |                | Current situation | Option A         | Option B        | 
 | SCALE          |                   |                  |                 |
 | EVOLVE         |                   |                  |                 |
@@ -262,11 +263,13 @@ For the internal organisation, the implications of the current situation and the
 | CULTURE        |                   |                  |                 |
 | WORK SEP       |                   |                  |                 |
 | IASA EXP       |                   |                  |                 |
+</verbatim>
 
 In addition, ...
 
 For the IETF-ISOC relationship, the implications of the current situation and the three options are summarized here:
 
+<verbatim>
 |                | Current situation | Option 1         | Option 2        | Option 3        |
 | SCALE          |                   |                  |                 |                 |
 | EVOLVE         |                   |                  |                 |                 |
@@ -278,6 +281,7 @@ For the IETF-ISOC relationship, the implications of the current situation and th
 | CULTURE        |                   |                  |                 |                 |
 | WORK SEP       |                   |                  |                 |                 |
 | IASA EXP       |                   |                  |                 |                 |
+</verbatim>
 
 In addition, ...
 
