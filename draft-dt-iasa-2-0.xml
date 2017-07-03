@@ -296,7 +296,9 @@
     this relationship directly affect how the IASA function gets carried out. It
     should be noted that all three options require more administrative budget
     per annum than what is currently allocated for IASA functions. The following
-    subsections describe each option and highlights the pros and cons.</t>
+    subsections describe each option. <xref target="analysis"/> highlights their
+    pros and cons and effectiveness in comparison to the goals stated
+    earlier.</t>
     
     <section title="IASA++">
   
@@ -324,24 +326,6 @@
 	<t>Improve IAOC transparency.</t>
       </list></t>
 
-      <t><xref target="IASA-assess" /> highlights the pros and cons of the IASA++ option.</t>
-
-      <texttable anchor="IASA-assess" style="all" title="IASA++ Pros and Cons">
-	<ttcol align="left">Pros</ttcol>
-	<ttcol align="left">Cons</ttcol>
-	<c>Maintains familiar structures and relationships</c>
-	<c>Does not provide the IETF with true independence of funding or staff from ISOC</c>
-	<c>Start-up costs limited to those associated with hiring additional staff</c>
-	<c>Creates risk that challenges present in current IASA will not actually be solved or will
-	re-emerge over time</c>
-	<c>Does not require legal and administrative work to incorporate a new entity</c>
-	<c>Potentially requires ISOC to cede more authority to the IETF community or increase 
-	transparency beyond ISOC's comfort zone</c>
-	<c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for 
-	budget shortfalls if necessary</c>
-	<c></c>
-      </texttable>
-      
     </section>
 
     <section title="ISOC Subsidiary">
@@ -373,32 +357,6 @@
 	decision-making (e.g., committees organized by subsidiary staff).</t>
       </list></t>
 
-      <t><xref target="Subsidiary-assess" /> highlights the pros and cons of the ISOC subsidiary 
-      option.</t>
-
-      <texttable anchor="Subsidiary-assess" style="all" title="ISOC Subsidiary Pros and Cons">
-	<ttcol align="left">Pros</ttcol>
-	<ttcol align="left">Cons</ttcol>
-	<c>Forces some delineation of responsibility, staff, and funds between the IETF and ISOC</c>
-	<c>Leaves open some potential for continued lack of clarity about authority and funding 
-	between the IETF and ISOC</c>
-	<c>Provides the IETF community with greater authority over IETF administration</c>
-	<c>Potentially requires ISOC to cede more authority to the IETF community or increase 
-	transparency beyond ISOC's comfort zone</c>
-	<c>Can leverage existing ISOC legal structures and personnel to keep administratie work 
-	required to incorporate subsidiary to a minimum</c>
-	<c>Requires legal and administrative work to incorporate subsidiary</c>
-	<c>Requires less IETF community volunteer time commitment to administrative matters than 
-	current IASA</c>
-	<c>Vests more decision-making authority in paid staff than under current IASA</c>
-	<c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for 
-	budget shortfalls if necessary</c>
-	<c>Start-up costs include costs of incorporating the subsidiary and re-organizing/hiring 
-	additional staff</c>
-	<c>Allows IETF to continue to leverage expertise of ISOC administrative personnel</c>
-	<c></c>
-      </texttable>
-      
     </section>
 
     <section title="Independent Organization">
@@ -432,37 +390,6 @@
 	decision-making (e.g., committees organized by subsidiary staff).</t>
       </list></t>
       
-      <t><xref target="Independent-assess" /> highlights the pros and cons of
-      the independent organization option.</t>
-
-      <texttable anchor="Independent-assess" style="all" title="Independent Organization Pros and Cons">
-	<ttcol align="left">Pros</ttcol>
-	<ttcol align="left">Cons</ttcol>
-	<c>Eliminates all ambiguity about IETF having authority independent from
-	ISOC over staff, funds, and decisions</c>
-	<c>Start-up costs include legal and administrative costs to incorporate
-	a new entity, hire new staff, transfer contracts and funds</c>
-	<c>Provides the IETF community with potentially complete authority over
-	IETF administration and funding</c>
-	<c>ISOC's financial support for the IETF may be viewed as more tenuous
-	if the IETF is a legally separate entity from ISOC</c>
-	<c>Requires less IETF community volunteer time commitment to
-	administrative matters than current IASA</c>
-	<c>Ability for the IETF to rely on ISOC in the event of budget
-	shortfalls may be more limited</c>
-	<c>Allows for direct investment in small number of professional staff
-	specifically tailored to the IETF's needs and culture, while continuing
-	to rely heavily on contractors</c>
-	<c>Vests more decision-making authority in paid staff than under current
-	IASA (i.e., risks of capture)</c>
-	<c>Provides opportunity to structure board in such a way to overcome
-	current challenges with IAOC structure</c>
-	<c>Requires more from board members than what is currently required of
-	IAOC insofar as hiring and evaluating staff</c>
-	<c></c>
-	<c>Requires IETF to assume legal risk currently assumed by ISOC</c>
-      </texttable>
-
     </section>
     
   </section>
@@ -620,7 +547,7 @@
   </section>
 </section>
 
-<section title="Analysis">
+<section anchor="analysis" title="Analysis">
 
 <t>This section provides a basic analysis of the effects of the different
 options.</t>
@@ -645,57 +572,98 @@ options.</t>
 
 </section>
 
-<section title="Internal Organisation">
+<section title="Overall Structure">
 
-<t>For the internal organisation, the implications of the current situation and the two 
-   options are summarised in <xref target="Internal-Org-assess"/>.</t>
+<section title="Pros and Cons">
 
-<texttable anchor="Internal-Org-assess" style="all" title="Internal Organization Implications">
-   <ttcol>Criteria</ttcol><ttcol>Current Situation</ttcol><ttcol>Option A</ttcol><ttcol>Option B</ttcol>
-   <c>SCALE</c>          <c>NO</c>             <c>YES</c>            <c>YES</c>
-   <c>EVOLVE</c>         <c>MAYBE (Note 1)</c> <c>MAYBE (Note 1)</c> <c>YES (Note 1)</c>
-   <c>STRAT TSK</c>      <c>NO</c>             <c>YES (Note 2)</c>   <c>YES</c>
-   <c>OPS TSK</c>        <c>YES</c>            <c>YES (Note 2)</c>   <c>YES</c>
-   <c>OVERLOAD SEP</c>   <c>NO</c>             <c>YES (Note 2)</c>   <c>YES</c>
-   <c>CLEAR ISOC REL</c> <c>n.a.</c>           <c>n.a.</c>           <c>n.a.</c>
-   <c>DIR CONTROL</c>    <c>n.a.</c>           <c>n.a.</c>           <c>n.a.</c>
-   <c>CULTURE</c>        <c>YES</c>            <c>YES</c>            <c>YES</c>
-   <c>WORK SEP</c>       <c>YES</c>            <c>YES</c>            <c>YES</c>
-   <c>IASA EXP</c>       <c>NO</c>             <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c>
-</texttable>
+      <t><xref target="IASA-assess" /> highlights the pros and cons of the IASA++ option.</t>
 
-<t>Note 1: Given that IASA is being reorganised, even the current system is capable of evolving.
-   However, the operational focus and overload in the current arrangements are making this harder
-   than is necessary. Change requires action from outside IASA, rather than being a normal task 
-   within IASA to evolve their own model. Option A maybe a bit weaker than option B in evolution,
-   given that in Option B there is a dedicated advisory council that can help determine community 
-   concerns.</t>
+      <texttable anchor="IASA-assess" style="all" title="IASA++ Pros and Cons">
+	<ttcol align="left">Pros</ttcol>
+	<ttcol align="left">Cons</ttcol>
+	<c>Maintains familiar structures and relationships</c>
+	<c>Does not provide the IETF with true independence of funding or staff from ISOC</c>
+	<c>Start-up costs limited to those associated with hiring additional staff</c>
+	<c>Creates risk that challenges present in current IASA will not actually be solved or will
+	re-emerge over time</c>
+	<c>Does not require legal and administrative work to incorporate a new entity</c>
+	<c>Potentially requires ISOC to cede more authority to the IETF community or increase 
+	transparency beyond ISOC's comfort zone</c>
+	<c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for 
+	budget shortfalls if necessary</c>
+	<c></c>
+      </texttable>
+      
+      <t><xref target="Subsidiary-assess" /> highlights the pros and cons of the ISOC subsidiary 
+      option.</t>
 
-<t>Note 2: There may be a difference between Option A and Option B in how overload situations 
-   and the separation of different tasks goes. The existence of an advisory board may take off
-   some board or staff load to deal with community opinion determination, freeing the board to 
-   do its strategic work and staff to concentrate on operations and execution.</t>
+      <texttable anchor="Subsidiary-assess" style="all" title="ISOC Subsidiary Pros and Cons">
+	<ttcol align="left">Pros</ttcol>
+	<ttcol align="left">Cons</ttcol>
+	<c>Forces some delineation of responsibility, staff, and funds between the IETF and ISOC</c>
+	<c>Leaves open some potential for continued lack of clarity about authority and funding 
+	between the IETF and ISOC</c>
+	<c>Provides the IETF community with greater authority over IETF administration</c>
+	<c>Potentially requires ISOC to cede more authority to the IETF community or increase 
+	transparency beyond ISOC's comfort zone</c>
+	<c>Can leverage existing ISOC legal structures and personnel to keep administratie work 
+	required to incorporate subsidiary to a minimum</c>
+	<c>Requires legal and administrative work to incorporate subsidiary</c>
+	<c>Requires less IETF community volunteer time commitment to administrative matters than 
+	current IASA</c>
+	<c>Vests more decision-making authority in paid staff than under current IASA</c>
+	<c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for 
+	budget shortfalls if necessary</c>
+	<c>Start-up costs include costs of incorporating the subsidiary and re-organizing/hiring 
+	additional staff</c>
+	<c>Allows IETF to continue to leverage expertise of ISOC administrative personnel</c>
+	<c></c>
+      </texttable>
+      
+      <t><xref target="Independent-assess" /> highlights the pros and cons of
+      the independent organization option.</t>
 
-<t>Note 3: Setting expectations is difficult merely based on an organisational model. 
-   Certainly a clear separation between roles of the board and staff helps. However, 
-   expectations are also a matter of documentation, which would have be created and 
-   communicated. Finally, expectations are a cultural matter, current IAOC arrangements
-   and community views have ended up in a situation where there is a lack of trust and 
-   unclear models for what can or can not be expected.</t>
+      <texttable anchor="Independent-assess" style="all" title="Independent Organization Pros and Cons">
+	<ttcol align="left">Pros</ttcol>
+	<ttcol align="left">Cons</ttcol>
+	<c>Eliminates all ambiguity about IETF having authority independent from
+	ISOC over staff, funds, and decisions</c>
+	<c>Start-up costs include legal and administrative costs to incorporate
+	a new entity, hire new staff, transfer contracts and funds</c>
+	<c>Provides the IETF community with potentially complete authority over
+	IETF administration and funding</c>
+	<c>ISOC's financial support for the IETF may be viewed as more tenuous
+	if the IETF is a legally separate entity from ISOC</c>
+	<c>Requires less IETF community volunteer time commitment to
+	administrative matters than current IASA</c>
+	<c>Ability for the IETF to rely on ISOC in the event of budget
+	shortfalls may be more limited</c>
+	<c>Allows for direct investment in small number of professional staff
+	specifically tailored to the IETF's needs and culture, while continuing
+	to rely heavily on contractors</c>
+	<c>Vests more decision-making authority in paid staff than under current
+	IASA (i.e., risks of capture)</c>
+	<c>Provides opportunity to structure board in such a way to overcome
+	current challenges with IAOC structure</c>
+	<c>Requires more from board members than what is currently required of
+	IAOC insofar as hiring and evaluating staff</c>
+	<c></c>
+	<c>Requires IETF to assume legal risk currently assumed by ISOC</c>
+      </texttable>
 
 </section>
 
-<section title="IETF-ISOC Relationship">
+<section title="Comparison to Criteria">
 
-<t>For the IETF-ISOC relationship, the implications of the current situation and the three 
-   options are summarized in <xref target="Relationship-assess"/>.</t>
+<t>For the overall structure, the implications of the current situation and
+the three options are summarized in <xref target="Relationship-assess"/>.</t>
 
 <texttable anchor="Relationship-assess" style="all" title="IETF-ISOC Relationship Implications">
    <ttcol>Criteria</ttcol>
    <ttcol>Current situation</ttcol>
-   <ttcol>Option 1</ttcol>
-   <ttcol>Option 2</ttcol>
-   <ttcol>Option 3</ttcol>
+   <ttcol>IASA++</ttcol>
+   <ttcol>ISOC Subsidiary</ttcol>
+   <ttcol>Independent Organization</ttcol>
    <c>SCALE</c>          <c>NO</c>  <c>NO</c>             <c>YES</c>            <c>YES</c>
    <c>EVOLVE</c>         <c>NO</c>  <c>NO (Note 4)</c>    <c>MAYBE (Note 4)</c> <c>YES (Note 4)</c>
    <c>STRAT TSK</c>      <c>NO</c>  <c>NO (Note 4)</c>    <c>YES</c>            <c>YES</c>
@@ -712,6 +680,52 @@ options.</t>
    a subsidiary or its own organisation. This would also ease driving any strategy that the 
    IETF wants to drive, as decisions would be more on the IETF side than something that 
    today would require negotiation with ISOC.</t>
+
+</section>
+
+
+</section>
+
+<section title="Oversight">
+
+<t>For the internal organisation, the implications of the current situation and the two 
+   options are summarised in <xref target="Internal-Org-assess"/>.</t>
+
+<texttable anchor="Internal-Org-assess" style="all" title="Internal Organization Implications">
+   <ttcol>Criteria</ttcol><ttcol>Current Situation</ttcol><ttcol>Strategic Board</ttcol><ttcol>Strategic Board and an Advisory Council</ttcol>
+   <c>SCALE</c>          <c>NO</c>             <c>YES</c>            <c>YES</c>
+   <c>EVOLVE</c>         <c>MAYBE (Note 1)</c> <c>MAYBE (Note 1)</c> <c>YES (Note 1)</c>
+   <c>STRAT TSK</c>      <c>NO</c>             <c>YES (Note 2)</c>   <c>YES</c>
+   <c>OPS TSK</c>        <c>YES</c>            <c>YES (Note 2)</c>   <c>YES</c>
+   <c>OVERLOAD SEP</c>   <c>NO</c>             <c>YES (Note 2)</c>   <c>YES</c>
+   <c>CLEAR ISOC REL</c> <c>n.a.</c>           <c>n.a.</c>           <c>n.a.</c>
+   <c>DIR CONTROL</c>    <c>n.a.</c>           <c>n.a.</c>           <c>n.a.</c>
+   <c>CULTURE</c>        <c>YES</c>            <c>YES</c>            <c>YES</c>
+   <c>WORK SEP</c>       <c>YES</c>            <c>YES</c>            <c>YES</c>
+   <c>IASA EXP</c>       <c>NO</c>             <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c>
+</texttable>
+
+<t>Note 1: Given that IASA is being reorganised, even the current system is capable of evolving.
+   However, the operational focus and overload in the current arrangements are making this harder
+   than is necessary. Change requires action from outside IASA, rather than being a normal task 
+   within IASA to evolve their own model. A strategic board without an advisory council maybe a bit weaker in evolution,
+   given that a dedicated advisory council can help determine community 
+   concerns.</t>
+
+   <t>Note 2: There may be a difference between the strategic board with and
+   without an advisory councilin how overload situations and the separation of
+   different tasks goes. The existence of an advisory board may take off some
+   board or staff load to deal with community opinion determination, freeing the
+   board to do its strategic work and staff to concentrate on operations and
+   execution.</t>
+
+   <t>Note 3: Setting expectations is difficult merely based on an
+   organisational model.  Certainly a clear separation between roles of the
+   board and staff helps. However, expectations are also a matter of
+   documentation, which would have be created and communicated. Finally,
+   expectations are a cultural matter, current IAOC arrangements and community
+   views have ended up in a situation where there is a lack of trust and unclear
+   models for what can or can not be expected.</t>
 
 </section>
 
