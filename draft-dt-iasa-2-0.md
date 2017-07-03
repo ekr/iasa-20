@@ -234,8 +234,25 @@ From Alissa’s document + more thinking ...
 Analysis
 ========
 
+This section provides a basic analysis of the effects of the different options. The current situation is evaluated and compared along with the different options for both IETF's relationship with ISOC and internal organisation of IASA. Note that a final proposal for changes needs to provide a model for both the ISOC relationship and internal organisation. For instance, option "3B" would signify an independent IETF organisation with a strategic board and an advisory council.
+
+We use the following criteria based on the goals stated earlier:
+
++ The arrangements match the scale of the task (SCALE)
++ The arrangements are designed to evolve as situations evolve (EVOLVE)
++ Accommodates strategic tasks (STRAT TSK)
++ Accommodates operational and execution tasks (OPS TSK)
++ Avoids overload in one class of tasks preventing progress in other (OVERLAD SEP)
++ Clarifies the relationship between IETF and ISOC (CLEAR ISOC REL)
++ Allows direct IETF control of resources (e.g., staff) working on a task (DIR CONTROL)
++ Preserves IETF culture and mode of operation (CULTURE)
++ Separates IETF technical work and administrative tasks and funding (WORK SEP)
++ Sets expectations on what can or can not be expected from IASA (IASA EXP)
+
 Conclusions and recommendations
 ===============================
+
+Clearly more work is needed, and thoughts and contributions regarding either new options or their implications is welcome.
 
 Acknowledgments
 ===============
