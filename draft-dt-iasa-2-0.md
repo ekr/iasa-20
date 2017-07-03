@@ -220,7 +220,8 @@ The current arrangement involves one officially designated IASA employee, but th
 This document suggests a structure that involves:
 
 + An Executive Director. The person in this role is in charge of the overall IASA effort, but can rely on other staff members below as well as contractors. The Executive Director is accountable to the Board.
-+ Operations Director. This person is responsible for meeting arrangements, IT, tools,
++ Operations Director. This person is responsible for meeting arrangements, IT, tools, and vendor contracts (including RFC Editor and IANA).
++ Partner Director. This person is responsible for working with IETF's sponsors and other partners, and the primary responsible for fundraising.
 + Communications Director. This person is responsible for working with IETF leadership (incl. IETF Chair, IESG, and IAB) on communications matters, assisting them in efficient communication and dealing with ongoing communications matters.
 + Legal Counsel. This person assists the IASA on legal matters as well as prepares and reviews all contracts that are needed with IETF's contractors.
 
