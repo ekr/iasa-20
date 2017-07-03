@@ -56,32 +56,71 @@
 <middle>
 
 <section title="Introduction">
-   <t>The arrangements relating to administrative support for the IETF (IASA <xref target="RFC4071"/>) were created more than ten years ago, when the IETF initially took charge of its own administration. The arrangements have reasonably served the IETF, but there's been considerable change in the necessary tasks, in the world around us, and our own expectations since the creation of the IASA. What administrative arrangements best support the IETF in the next ten years?</t>
+   <t>The arrangements relating to administrative support for the IETF 
+      (IASA <xref target="RFC4071"/>) were created more than ten years ago,
+      when the IETF initially took charge of its own administration. The 
+      arrangements have reasonably served the IETF, but there's been considerable
+      change in the necessary tasks, in the world around us, and our own
+      expectations since the creation of the IASA. What administrative arrangements
+      best support the IETF in the next ten years?</t>
 
-   <t>The system has experienced various challenges and frustrations along the way, for instance around meeting arrangements. There are also some bigger questions about how the organisations are structured, for instance about the division of responsibilities between IETF and ISOC.</t>
+   <t>The system has experienced various challenges and frustrations along the 
+      way, for instance around meeting arrangements. There are also some bigger 
+      questions about how the organisations are structured, for instance about the 
+      division of responsibilities between IETF and ISOC.</t>
 
-   <t>The IETF community has discussed and continues to discuss these topics, most recently on the "IASA20" mailing list and BOF at IETF98. Alissa Cooper, the Chair of the IETF, asked a small design team to start evaluating potential options going forward. The purpose of the design team is to provide material that informs the community discussion, both in terms of providing a bit more worked through solution ideas, as well as supporting analysis of the implications of those options. This information, along with all other input provided in the discussion, hopefully helps the community and IETF leadership decide what next steps to take. To be clear, the community is in charge of adopting any recommendations or making any decisions.  This draft, the output of the design team's considerations, has no particular official standing.</t>
+   <t>The IETF community has discussed and continues to discuss these topics, most 
+      recently on the "IASA20" mailing list and BOF at IETF98. Alissa Cooper, the 
+      Chair of the IETF, asked a small design team to start evaluating potential 
+      options going forward. The purpose of the design team is to provide material 
+      that informs the community discussion, both in terms of providing a bit more 
+      worked through solution ideas, as well as supporting analysis of the implications
+      of those options. This information, along with all other input provided in the 
+      discussion, hopefully helps the community and IETF leadership decide what next 
+      steps to take. To be clear, the community is in charge of adopting any 
+      recommendations or making any decisions.  This draft, the output of the 
+      design team's considerations, has no particular official standing.</t>
 
-   <t>As a base for this work there is a good articulation of the set of problems we are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and <xref target="I-D.daigle-iasa-retrospective"/>. The community discussion seems have indicated also some of the outcome properties that are expected. The scope of the solutions explored included:
+   <t>As a base for this work there is a good articulation of the set of problems we
+      are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and
+      <xref target="I-D.daigle-iasa-retrospective"/>. The community discussion 
+      seems have indicated also some of the outcome properties that are expected.
+      The scope of the solutions explored included:
 
 <list style="symbols">
-   <t>Structural and organizational changes, both externally (with ISOC and contractors) and internally (within the IAOC and subcommittees)</t>
+   <t>Structural and organizational changes, both externally (with ISOC and contractors)
+      and internally (within the IAOC and subcommittees)</t>
    <t>Changes to personnel resources, both volunteer and paid</t>
    <t>Transparency changes</t>
 </list></t>
 
-<t>Changes to the funding model are out of scope to the extent they fall outside the categories above.</t>
+<t>Changes to the funding model are out of scope to the extent they fall outside the
+   categories above.</t>
 
-<t>The rest of the document is organised as follows. The next two sections describe the background and summarise the challenges noted in the community discussion. The two sections after that explain what categories of changes were considered, and describe the primary options for structural changes. The following section discusses other changes, followed by two sections on analysis of the different options along with a recommendation.</t>
+<t>The rest of the document is organised as follows. The next two sections describe 
+   the background and summarise the challenges noted in the community discussion. 
+   The two sections after that explain what categories of changes were considered, 
+   and describe the primary options for structural changes. The following section 
+   discusses other changes, followed by two sections on analysis of the different 
+   options along with a recommendation.</t>
 </section>
 
 <section title="Background">
 
-<t>The administrative support structure intended to be responsive to the administrative needs of the IETF technical community.</t>
+<t>The administrative support structure intended to be responsive to the administrative 
+   needs of the IETF technical community.</t>
 
-<t>RFC 4071 <xref target="RFC4071" /> defines the current IETF Administrative Support Activity (IASA). It is an activity housed within the Internet Society (ISOC), as is the rest of the IETF.  RFC 4071 defines the roles and responsibilities of the IETF Administrative Oversight Committee (IAOC), the IETF Administrative Director (IAD), and ISOC in the fiscal and administrative support of the IETF standards process.  It also defines the membership and selection rules for the IAOC.</t>
+<t>RFC 4071 <xref target="RFC4071" /> defines the current IETF Administrative Support 
+   Activity (IASA). It is an activity housed within the Internet Society (ISOC), as is 
+   the rest of the IETF.  RFC 4071 defines the roles and responsibilities of the IETF
+   Administrative Oversight Committee (IAOC), the IETF Administrative Director (IAD), 
+   and ISOC in the fiscal and administrative support of the IETF standards process.  
+   It also defines the membership and selection rules for the IAOC.</t>
 
-<t>As RFC 4071 notes, IASA is distinct from IETF-related technical functions, such as the RFC Editor, the IANA, and the IETF standards process itself.  The IASA has no influence on the technical decisions of the IETF or on the technical contents of IETF work.</t>
+<t>As RFC 4071 notes, IASA is distinct from IETF-related technical functions, such 
+   as the RFC Editor, the IANA, and the IETF standards process itself.  The IASA has 
+   no influence on the technical decisions of the IETF or on the technical contents 
+   of IETF work.</t>
 
 <t>Today, IASA's activities support a number of functions within the IETF system:
 
@@ -106,19 +145,35 @@
 <t>The following acronyms are used in this document:
 
 <list style="symbols">
-   <t>IASA - IETF Administrative Support Activity - An organized activity that provides administrative support for the IETF, the IAB and the IESG.</t>
-   <t>IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely IETF-selected committee that oversees and directs IASA.  Accountable to the IETF community.</t>
-   <t>IAOC committees - Recognizing the need for specialized attention for different branches of work requiring IAOC oversight, the IAOC expanded its support by creating committees. Currently, the committees do the heavy lifting on background work, while the IAOC is the one responsible for final decisions.</t>
-   <t>ISOC - The Internet Society - An organizational home of the IETF, and one that in the current IASA system assists the IETF with legal, administrative, and funding tasks.</t>
-   <t>IAD - IETF Administrative Director - In the current system, the sole staff member responsible for carrying out the work of the IASA.  An ISOC employee.</t>
-   <t>IETF Trust - In the current system the IETF Trust acquires, maintains, and licenses intellectual and other property used in connection with the administration of the IETF.  Same composition as IAOC.</t>
+   <t>IASA - IETF Administrative Support Activity - An organized activity that provides a
+      dministrative support for the IETF, the IAB and the IESG.</t>
+   <t>IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely 
+      IETF-selected committee that oversees and directs IASA.  Accountable to the IETF 
+      community.</t>
+   <t>IAOC committees - Recognizing the need for specialized attention for different 
+      branches of work requiring IAOC oversight, the IAOC expanded its support by creating
+      committees. Currently, the committees do the heavy lifting on background work, while 
+      the IAOC is the one responsible for final decisions.</t>
+   <t>ISOC - The Internet Society - An organizational home of the IETF, and one that in the 
+      current IASA system assists the IETF with legal, administrative, and funding tasks.</t>
+   <t>IAD - IETF Administrative Director - In the current system, the sole staff member 
+      responsible for carrying out the work of the IASA.  An ISOC employee.</t>
+   <t>IETF Trust - In the current system the IETF Trust acquires, maintains, and licenses 
+      intellectual and other property used in connection with the administration of the IETF. 
+      Same composition as IAOC.</t>
 </list></t>
 </section>
 </section>
 
 <section anchor="challenges" title="Challenges">
 
-   <t>Discussion leading to this document has been framed by the issues discussed on IETF mailing lists and documented elsewhere  <xref target="I-D.daigle-iasa-retrospective"/>, <xref target="I-D.hall-iasa20-workshops-report"/>, <xref target="I-D.arkko-ietf-iasa-thoughts"/>.  The reader is referred to those documents and ongoing discussion on the IASA20@ietf.org mailing list for fuller details on the range of challenges facing the IETF in its handling of administrative matters.</t>
+   <t>Discussion leading to this document has been framed by the issues discussed on IETF 
+      mailing lists and documented elsewhere  <xref target="I-D.daigle-iasa-retrospective"/>,
+      <xref target="I-D.hall-iasa20-workshops-report"/>, 
+      <xref target="I-D.arkko-ietf-iasa-thoughts"/>.  The reader is referred to those 
+      documents and ongoing discussion on the IASA20@ietf.org mailing list for fuller 
+      details on the range of challenges facing the IETF in its handling of administrative
+      matters.</t>
 
 <t>In summary, the key areas of challenge that have shaped this work are:
 
@@ -161,11 +216,17 @@
       IASA. A more independent, free-standing organisational model for IETF would imply 
       new functions at IASA.</t>
 
-   <t>There are a number of choices to make within the reorganisation effort. In particular, IETF's relationship to ISOC could be arranged in a fundamentally similar manner than it is today, but improved, e.g., to make clear who is expected to control a particular part of the operation. But the relationship could also be arranged in a different way, for instance, as a subsidiary of ISOC or as a more free-standing, own organisational unit.</t>
+   <t>There are a number of choices to make within the reorganisation effort. In particular, 
+      IETF's relationship to ISOC could be arranged in a fundamentally similar manner than 
+      it is today, but improved, e.g., to make clear who is expected to control a particular
+      part of the operation. But the relationship could also be arranged in a different way, 
+      for instance, as a subsidiary of ISOC or as a more free-standing, own organisational 
+      unit.</t>
 
 <section anchor="goals" title="Goals">
 
-   <t>The IASA redesign effort needs to address the main challenges listed above. More specifically, a new organisational structure needs to do at least the following:
+   <t>The IASA redesign effort needs to address the main challenges listed above. More 
+      specifically, a new organisational structure needs to do at least the following:
 
 <list style="symbols">
    <t>Define the roles of the oversight entities and staff/contractors to match the grown 
@@ -199,7 +260,8 @@
 
 <t>The design team believes that staff 
    resources need to increased or reorganised from one director to a few more specialised 
-   roles (see growth in <xref target="challenges"/>). And the role of the community members serving in IASA needs to be kept at a level 
+   roles (see growth in <xref target="challenges"/>). And the role of the community members 
+   serving in IASA needs to be kept at a level 
    appropriate for volunteer service (see community role
    in <xref target="challenges"/> and limits in <xref target="goals"/>). 
    In addition, the team believes that  
@@ -349,16 +411,23 @@
 
 <section title="IASA++">
 
-   <t>In the IASA++ option, the IETF and ISOC maintain the current structural relationship. This means that the IETF remains an organized activity of ISOC, ISOC maintains funds and contracting authority on behalf of the IETF, and all IASA staff are ISOC employees.</t>
+   <t>In the IASA++ option, the IETF and ISOC maintain the current structural relationship. 
+      This means that the IETF remains an organized activity of ISOC, ISOC maintains funds 
+      and contracting authority on behalf of the IETF, and all IASA staff are ISOC employees.</t>
 
-   <t>While the relationship remains the same, the IETF and ISOC will make improvements to the relationship in order to enhance the functionality of the IETF. The following are some potential improvements that could be made under this approach:
+   <t>While the relationship remains the same, the IETF and ISOC will make improvements to the 
+      relationship in order to enhance the functionality of the IETF. The following are some 
+      potential improvements that could be made under this approach:
 
 <list style="symbols">
-   <t>Provide clarity and transparency about authority, responsibility, budgeting, and allocation of staff time for all IETF-related work and activities.</t>
+   <t>Provide clarity and transparency about authority, responsibility, budgeting, and allocation 
+      of staff time for all IETF-related work and activities.</t>
    <t>Add IASA staff.</t>
    <t>Provide clarity about authority of the IAOC in reviewing performance of IASA staff.</t>
-   <t>Re-structure the internal IETF organization and appointment processes for the IAOC and the IETF Trust to address current challenges.</t>
-   <t>Establish IETF community consensus about who has policy authority for administrative decisions where there is currently a lack of clarity.</t>
+   <t>Re-structure the internal IETF organization and appointment processes for the IAOC and 
+      the IETF Trust to address current challenges.</t>
+   <t>Establish IETF community consensus about who has policy authority for administrative 
+      decisions where there is currently a lack of clarity.</t>
    <t>Improve IAOC transparency.</t>
 </list></t>
 
@@ -370,10 +439,13 @@
       <c>Maintains familiar structures and relationships</c>
       <c>Does not provide the IETF with true independence of funding or staff from ISOC</c>
       <c>Start-up costs limited to those associated with hiring additional staff</c>
-      <c>Creates risk that challenges present in current IASA will not actually be solved or will re-emerge over time</c>
+      <c>Creates risk that challenges present in current IASA will not actually be solved or will
+         re-emerge over time</c>
       <c>Does not require legal and administrative work to incorporate a new entity</c>
-      <c>Potentially requires ISOC to cede more authority to the IETF community or increase transparency beyond ISOC's comfort zone</c>
-      <c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for budget shortfalls if necessary</c>
+      <c>Potentially requires ISOC to cede more authority to the IETF community or increase 
+         transparency beyond ISOC's comfort zone</c>
+      <c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for 
+         budget shortfalls if necessary</c>
       <c></c>
    </texttable>
 
@@ -381,34 +453,51 @@
 
 <section title="ISOC Subsidiary">
 
-   <t>In this option, an ISOC subsidiary would be created as the new legal home of the IETF. A subsidiary can have its own bank account, by-laws, charter, board of directors/trustees, staff, and corporate identity. As a subsidiary of ISOC, the IETF and ISOC can share overhead and resources. The IETF would rely heavily on contractors for most administrative tasks.</t>
+   <t>In this option, an ISOC subsidiary would be created as the new legal home of the IETF. 
+      A subsidiary can have its own bank account, by-laws, charter, board of directors/trustees,
+      staff, and corporate identity. As a subsidiary of ISOC, the IETF and ISOC can share 
+      overhead and resources. The IETF would rely heavily on contractors for most 
+      administrative tasks.</t>
 
-   <t>As a subsidiary of ISOC, the IETF could eliminate the IAOC and replace it with a board of directors/trustees. Administrative decision-making authority would primarily with the administrative staff, with oversight provided by the board. Exception cases could be developed where board approval would be required to authorize strategic decisions.</t>
+   <t>As a subsidiary of ISOC, the IETF could eliminate the IAOC and replace it with a board
+      of directors/trustees. Administrative decision-making authority would primarily with 
+      the administrative staff, with oversight provided by the board. Exception cases could 
+      be developed where board approval would be required to authorize strategic decisions.</t>
 
    <t>Other possible changes could include:
 
    <list style="symbols">
       <t>Eliminate the IETF Trust and have the IETF subsidiary assume responsibility for IETF IPR.</t>
-      <t>Transfer existing ISOC funds earmarked for the IETF to the subsidiary bank account, and have future IETF income held in subsidiary bank account.</t>
-      <t>Transfer existing IETF-related contracts between ISOC and contractors to be between the subsidiary and contractors.</t>
-      <t>Multiple options to structure community involvement in administrative decision-making (e.g., committees organized by subsidiary staff).</t>
+      <t>Transfer existing ISOC funds earmarked for the IETF to the subsidiary bank account, and 
+         have future IETF income held in subsidiary bank account.</t>
+      <t>Transfer existing IETF-related contracts between ISOC and contractors to be between the 
+         subsidiary and contractors.</t>
+      <t>Multiple options to structure community involvement in administrative decision-making 
+         (e.g., committees organized by subsidiary staff).</t>
    </list></t>
 
-   <t><xref target="Subsidiary-assess" /> highlights the pros and cons of the ISOC subsidiary option.</t>
+   <t><xref target="Subsidiary-assess" /> highlights the pros and cons of the ISOC subsidiary 
+      option.</t>
 
    <texttable anchor="Subsidiary-assess" style="all" title="ISOC Subsidiary Pros and Cons">
       <ttcol align="left">Pros</ttcol>
       <ttcol align="left">Cons</ttcol>
       <c>Forces some delineation of responsibility, staff, and funds between the IETF and ISOC</c>
-      <c>Leaves open some potential for continued lack of clarity about authority and funding between the IETF and ISOC</c>
+      <c>Leaves open some potential for continued lack of clarity about authority and funding 
+         between the IETF and ISOC</c>
       <c>Provides the IETF community with greater authority over IETF administration</c>
-      <c>Potentially requires ISOC to cede more authority to the IETF community or increase transparency beyond ISOC's comfort zone</c>
-      <c>Can leverage existing ISOC legal structures and personnel to keep administratie work required to incorporate subsidiary to a minimum</c>
+      <c>Potentially requires ISOC to cede more authority to the IETF community or increase 
+         transparency beyond ISOC's comfort zone</c>
+      <c>Can leverage existing ISOC legal structures and personnel to keep administratie work 
+         required to incorporate subsidiary to a minimum</c>
       <c>Requires legal and administrative work to incorporate subsidiary</c>
-      <c>Requires less IETF community volunteer time commitment to administrative matters than current IASA</c>
+      <c>Requires less IETF community volunteer time commitment to administrative matters than 
+         current IASA</c>
       <c>Vests more decision-making authority in paid staff than under current IASA</c>
-      <c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for budget shortfalls if necessary</c>
-      <c>Start-up costs include costs of incorporating the subsidiary and re-organizing/hiring additional staff</c>
+      <c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for 
+         budget shortfalls if necessary</c>
+      <c>Start-up costs include costs of incorporating the subsidiary and re-organizing/hiring 
+         additional staff</c>
       <c>Allows IETF to continue to leverage expertise of ISOC administrative personnel</c>
       <c></c>
    </texttable>
@@ -417,34 +506,59 @@
 
 <section title="Independent Organization">
 
-   <t>In this option, a new non-profit organization (e.g., IETForg) is created independent from ISOC as the new legal home of the IETF. IETForg would have its own bank account, by-laws, charter, board of directors/trustees, staff, and corporate identity. The administrative staff for IETForg could be kept lean and would rely on contractors for the bulk of administrative tasks. Minimally, the IETForg staff would be responsible for administration, development/fundraising, communications, and personnel management.</t>
+   <t>In this option, a new non-profit organization (e.g., IETForg) is created independent from 
+      ISOC as the new legal home of the IETF. IETForg would have its own bank account, by-laws,
+      charter, board of directors/trustees, staff, and corporate identity. The administrative 
+      staff for IETForg could be kept lean and would rely on contractors for the bulk of 
+      administrative tasks. Minimally, the IETForg staff would be responsible for administration,
+      development/fundraising, communications, and personnel management.</t>
 
-   <t>As an independent organization, the IETF could eliminate the IAOC and replace it with a board of directors/trustees. Administrative decision-making authority would primarily with IETForg staff and contractors, with oversight provided by the board. Exception cases could be developed where board approval would be required to authorize strategic decisions.</t>
+   <t>As an independent organization, the IETF could eliminate the IAOC and replace it with a 
+      board of directors/trustees. Administrative decision-making authority would primarily 
+      with IETForg staff and contractors, with oversight provided by the board. Exception 
+      cases could be developed where board approval would be required to authorize strategic
+      decisions.</t>
 
    <t>Other possible changes could include:
 
    <list style="symbols">
       <t>Eliminate the IETF Trust and have IETForg assume responsibility for IETF IPR.</t>
-      <t>Transfer existing ISOC funds earmarked for the IETF to IETForg, and have future IETF income held by IETForg. ISOC would still be largest IETForg sponsor, if funding maintained at current projections.</t>
-      <t>Transfer existing IETF-related contracts between ISOC and contractors to be between IETForg and contractors.</t>
-      <t>Multiple options to structure community involvement in administrative decision-making (e.g., committees organized by subsidiary staff).</t>
+      <t>Transfer existing ISOC funds earmarked for the IETF to IETForg, and have future IETF
+         income held by IETForg. ISOC would still be largest IETForg sponsor, if funding 
+         maintained at current projections.</t>
+      <t>Transfer existing IETF-related contracts between ISOC and contractors to be between
+         IETForg and contractors.</t>
+      <t>Multiple options to structure community involvement in administrative decision-making
+         (e.g., committees organized by subsidiary staff).</t>
    </list></t>
 
-   <t><xref target="Independent-assess" /> highlights the pros and cons of the independent organization option.</t>
+   <t><xref target="Independent-assess" /> highlights the pros and cons of the independent 
+      organization option.</t>
 
    <texttable anchor="Independent-assess" style="all" title="Independent Organization Pros and Cons">
       <ttcol align="left">Pros</ttcol>
       <ttcol align="left">Cons</ttcol>
-      <c>Eliminates all ambiguity about IETF having authority independent from ISOC over staff, funds, and decisions</c>
-      <c>Start-up costs include legal and administrative costs to incorporate a new entity, hire new staff, transfer contracts and funds</c>
-      <c>Provides the IETF community with potentially complete authority over IETF administration and funding</c>
-      <c>ISOC's financial support for the IETF may be viewed as more tenuous if the IETF is a legally separate entity from ISOC</c>
-      <c>Requires less IETF community volunteer time commitment to administrative matters than current IASA</c>
-      <c>Ability for the IETF to rely on ISOC in the event of budget shortfalls may be more limited</c>
-      <c>Allows for direct investment in small number of professional staff specifically tailored to the IETF's needs and culture, while continuing to rely heavily on contractors</c>
-      <c>Vests more decision-making authority in paid staff than under current IASA (i.e., risks of capture)</c>
-      <c>Provides opportunity to structure board in such a way to overcome current challenges with IAOC structure</c>
-      <c>Requires more from board members than what is currently required of IAOC insofar as hiring and evaluating staff</c>
+      <c>Eliminates all ambiguity about IETF having authority independent from ISOC over staff, 
+         funds, and decisions</c>
+      <c>Start-up costs include legal and administrative costs to incorporate a new entity, hire 
+         new staff, transfer contracts and funds</c>
+      <c>Provides the IETF community with potentially complete authority over IETF administration 
+         and funding</c>
+      <c>ISOC's financial support for the IETF may be viewed as more tenuous if the IETF is a 
+         legally separate entity from ISOC</c>
+      <c>Requires less IETF community volunteer time commitment to administrative matters than 
+         current IASA</c>
+      <c>Ability for the IETF to rely on ISOC in the event of budget shortfalls may be more 
+         limited</c>
+      <c>Allows for direct investment in small number of professional staff specifically 
+         tailored to the IETF's needs and culture, while continuing to rely heavily
+         on contractors</c>
+      <c>Vests more decision-making authority in paid staff than under current IASA (i.e., 
+         risks of capture)</c>
+      <c>Provides opportunity to structure board in such a way to overcome current challenges 
+         with IAOC structure</c>
+      <c>Requires more from board members than what is currently required of IAOC insofar as
+         hiring and evaluating staff</c>
       <c></c>
       <c>Requires IETF to assume legal risk currently assumed by ISOC</c>
    </texttable>
@@ -455,7 +569,12 @@
 
 <section title="Analysis">
 
-<t>This section provides a basic analysis of the effects of the different options. The current situation is evaluated and compared along with the different options for both IETF's relationship with ISOC and internal organisation of IASA. Note that a final proposal for changes needs to provide a model for both the ISOC relationship and internal organisation. For instance, option "3B" would signify an independent IETF organisation with a strategic board and an advisory council.</t>
+<t>This section provides a basic analysis of the effects of the different options. 
+   The current situation is evaluated and compared along with the different options 
+   for both IETF's relationship with ISOC and internal organisation of IASA. Note 
+   that a final proposal for changes needs to provide a model for both the ISOC 
+   relationship and internal organisation. For instance, option "3B" would signify
+   an independent IETF organisation with a strategic board and an advisory council.</t>
 
 <section title="Criteria">
 
@@ -479,7 +598,8 @@
 
 <section title="Internal Organisation">
 
-<t>For the internal organisation, the implications of the current situation and the two options are summarised in <xref target="Internal-Org-assess"/>.</t>
+<t>For the internal organisation, the implications of the current situation and the two 
+   options are summarised in <xref target="Internal-Org-assess"/>.</t>
 
 <texttable anchor="Internal-Org-assess" style="all" title="Internal Organization Implications">
    <ttcol>Criteria</ttcol><ttcol>Current Situation</ttcol><ttcol>Option A</ttcol><ttcol>Option B</ttcol>
@@ -495,17 +615,31 @@
    <c>IASA EXP</c>       <c>NO</c>             <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c>
 </texttable>
 
-<t>Note 1: Given that IASA is being reorganised, even the current system is capable of evolving. However, the operational focus and overload in the current arrangements are making this harder than is necessary. Change requires action from outside IASA, rather than being a normal task within IASA to evolve their own model. Option A maybe a bit weaker than option B in evolution, given that in Option B there is a dedicated advisory council that can help determine community concerns.</t>
+<t>Note 1: Given that IASA is being reorganised, even the current system is capable of evolving.
+   However, the operational focus and overload in the current arrangements are making this harder
+   than is necessary. Change requires action from outside IASA, rather than being a normal task 
+   within IASA to evolve their own model. Option A maybe a bit weaker than option B in evolution,
+   given that in Option B there is a dedicated advisory council that can help determine community 
+   concerns.</t>
 
-<t>Note 2: There may be a difference between Option A and Option B in how overload situations and the separation of different tasks goes. The existence of an advisory board may take off some board or staff load to deal with community opinion determination, freeing the board to do its strategic work and staff to concentrate on operations and execution.</t>
+<t>Note 2: There may be a difference between Option A and Option B in how overload situations 
+   and the separation of different tasks goes. The existence of an advisory board may take off
+   some board or staff load to deal with community opinion determination, freeing the board to 
+   do its strategic work and staff to concentrate on operations and execution.</t>
 
-<t>Note 3: Setting expectations is difficult merely based on an organisational model. Certainly a clear separation between roles of the board and staff helps. However, expectations are also a matter of documentation, which would have be created and communicated. Finally, expectations are a cultural matter, current IAOC arrangements and community views have ended up in a situation where there is a lack of trust and unclear models for what can or can not be expected.</t>
+<t>Note 3: Setting expectations is difficult merely based on an organisational model. 
+   Certainly a clear separation between roles of the board and staff helps. However, 
+   expectations are also a matter of documentation, which would have be created and 
+   communicated. Finally, expectations are a cultural matter, current IAOC arrangements
+   and community views have ended up in a situation where there is a lack of trust and 
+   unclear models for what can or can not be expected.</t>
 
 </section>
 
 <section title="IETF-ISOC Relationship">
 
-<t>For the IETF-ISOC relationship, the implications of the current situation and the three options are summarized in <xref target="Relationship-assess"/>.</t>
+<t>For the IETF-ISOC relationship, the implications of the current situation and the three 
+   options are summarized in <xref target="Relationship-assess"/>.</t>
 
 <texttable anchor="Relationship-assess" style="all" title="IETF-ISOC Relationship Implications">
    <ttcol>Criteria</ttcol>
@@ -525,17 +659,31 @@
    <c>IASA EXP</c>       <c>NO</c>  <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c>
 </texttable>
 
-<t>Note 4: Evolution in the current system is more difficult than if IETF was either clearly a subsidiary or its own organisation. This would also ease driving any strategy that the IETF wants to drive, as decisions would be more on the IETF side than something that today would require negotiation with ISOC.</t>
+<t>Note 4: Evolution in the current system is more difficult than if IETF was either clearly 
+   a subsidiary or its own organisation. This would also ease driving any strategy that the 
+   IETF wants to drive, as decisions would be more on the IETF side than something that 
+   today would require negotiation with ISOC.</t>
 
 </section>
 
 <section title="Financial Impacts">
 
-<t>There are two different classes of changes. First, both the ISOC interface change and staff changes will imply changes in what is being accounted for in budgets and reports, even in cases where the actual work or the number of people stays the same. Secondly, there are actual increases.</t>
+<t>There are two different classes of changes. First, both the ISOC interface change and 
+   staff changes will imply changes in what is being accounted for in budgets and reports,
+   even in cases where the actual work or the number of people stays the same. Secondly,
+   there are actual increases.</t>
 
-<t>We expect all the alternatives to lead to somewhat higher funding needs, and in fact shifting more work to staff from volunteers is one of the goals. For the internal reorganisation, the primary position actually being added is having both Executive Director and Operations Director, instead of one IAD. We've already had Legal Counsel and Communications Director. These chances coincide with other personnel changes in IASA, as the experienced, long-term IAD is retiring. Even from a learning curve point of view more people will be needed, but in this case it also makes sense to have the organisation be less dependent on one central person.</t>
+<t>We expect all the alternatives to lead to somewhat higher funding needs, and in fact
+   shifting more work to staff from volunteers is one of the goals. For the internal 
+   reorganisation, the primary position actually being added is having both Executive
+   Director and Operations Director, instead of one IAD. We've already had Legal Counsel
+   and Communications Director. These chances coincide with other personnel changes in IASA, 
+   as the experienced, long-term IAD is retiring. Even from a learning curve point of view 
+   more people will be needed, but in this case it also makes sense to have the organisation 
+   be less dependent on one central person.</t>
 
-<t>Given the learning curve effect, and a new organisation, it is expected that the role of the Legal Counsel will also increase, e.g., in terms of reviewing contracts.</t>
+<t>Given the learning curve effect, and a new organisation, it is expected that the role
+   of the Legal Counsel will also increase, e.g., in terms of reviewing contracts.</t>
 
 <t>The effects of ISOC relationship changes to finance are for further study.</t>
 
@@ -543,22 +691,31 @@
 
 <section title="Other Impacts">
 
-<t>Depending on the chosen option, volunteers are needed for either different roles than today (the board) or for both different roles and more volunteers (the board and the advisory council).</t>
+<t>Depending on the chosen option, volunteers are needed for either different roles than 
+   today (the board) or for both different roles and more volunteers (the board and the 
+   advisory council).</t>
 
-<t>It is for further study whether current IETF leadership (e.g., IAB Chair) should continue to be part of these boards or councils.</t>
+<t>It is for further study whether current IETF leadership (e.g., IAB Chair) should 
+   continue to be part of these boards or councils.</t>
 
 </section>
 </section>
 
 <section title="Conclusions and recommendations">
 
-<t>Clearly more work is needed, and thoughts and contributions regarding either new options or their implications is welcome.</t>
+<t>Clearly more work is needed, and thoughts and contributions regarding either new 
+   options or their implications is welcome.</t>
 
 </section>
 
 <section title="Acknowledgments">
 
-   <t>This text is the work of the design team, but greatly influenced by discussions in the IETF community. The team would in particular like to thank Alissa Cooper, Andrew Sullivan, Ray Pelletier, Ted Hardie, Gonzalo Camarillo, Brian Carpenter, Lucy Lynch, Stephen Farrell, Dave Crocker, Jon Peterson, Alexa Morris, Michael Richardson, Olaf Kolkman, Kathy Brown, and Melinda Shore for interesting discussions in this problem space.</t>
+   <t>This text is the work of the design team, but greatly influenced by discussions in 
+      the IETF community. The team would in particular like to thank Alissa Cooper, 
+      Andrew Sullivan, Ray Pelletier, Ted Hardie, Gonzalo Camarillo, Brian Carpenter, 
+      Lucy Lynch, Stephen Farrell, Dave Crocker, Jon Peterson, Alexa Morris, 
+      Michael Richardson, Olaf Kolkman, Kathy Brown, and Melinda Shore for interesting
+      discussions in this problem space.</t>
 </section>
 
 </middle>
