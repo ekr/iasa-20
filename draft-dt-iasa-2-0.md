@@ -236,6 +236,9 @@ Analysis
 
 This section provides a basic analysis of the effects of the different options. The current situation is evaluated and compared along with the different options for both IETF's relationship with ISOC and internal organisation of IASA. Note that a final proposal for changes needs to provide a model for both the ISOC relationship and internal organisation. For instance, option "3B" would signify an independent IETF organisation with a strategic board and an advisory council.
 
+Criteria
+--------
+
 We use the following criteria based on the goals stated earlier:
 
 + The arrangements match the scale of the task (SCALE)
@@ -249,45 +252,63 @@ We use the following criteria based on the goals stated earlier:
 + Separates IETF technical work and administrative tasks and funding (WORK SEP)
 + Sets expectations on what can or can not be expected from IASA (IASA EXP)
 
+Internal Organisation
+---------------------
+
 For the internal organisation, the implications of the current situation and the two options are summarised below:
 
 ```
 
 |                | Current situation | Option A         | Option B        | 
-| SCALE          |                   |                  |                 |
-| EVOLVE         |                   |                  |                 |
-| STRAT TSK      |                   |                  |                 |
-| OPS TSK        |                   |                  |                 |
-| OVERLOAD SEP   |                   |                  |                 |
-| CLEAR ISOC REL |                   |                  |                 |
-| DIR CONTROL    |                   |                  |                 |
-| CULTURE        |                   |                  |                 |
-| WORK SEP       |                   |                  |                 |
-| IASA EXP       |                   |                  |                 |
+| SCALE          |        NO         |       YES        |       YES       |
+| EVOLVE         |   MAYBE (Note 1)  |   MAYBE (Note 1) |  YES (Note 1)   |
+| STRAT TSK      |        NO         |   YES (Note 2)   |       YES       |
+| OPS TSK        |        YES        |   YES (Note 2)   |       YES       |
+| OVERLOAD SEP   |        NO         |   YES (Note 2)   |       YES       |
+| CLEAR ISOC REL |        n.a.       |       n.a.       |       n.a.      |
+| DIR CONTROL    |        n.a.       |       n.a.       |       n.a.      |
+| CULTURE        |        YES        |       YES        |       YES       |
+| WORK SEP       |        YES        |       YES        |       YES       |
+| IASA EXP       |         NO        |   MAYBE (Note 3) |  MAYBE (Note 3) |
 
 ```
 
-In addition, ...
+Note 1: Given that IASA is being reorganised, even the current system is capable of evolving. However, the operational focus and overload in the current arrangements are making this harder than is necessary. Change requires action from outside IASA, rather than being a normal task within IASA to evolve their own model. Option A maybe a bit weaker than option B in evolution, given that in Option B there is a dedicatd advisory council that can help determine community concerns.
+
+Note 2: There may be a difference between Option A and Option B in how overload situations and the separation of different tasks goes. The existence of an advisory board may take off some board or staff load to deal with community opinion determination, freeing the board to do its strategic work and staff to concentrate on operations and execution.
+
+Note 3: Setting expectations is difficult merely based on an organisatorial model. Certainly a clear separation between roles of the board and staff helps. However, expectations are also a matter of documentation, which would have be created and communicated. Finally, expectations are a cultural matter, current IAOC arrangements and community views 
+
+IETF-ISOC Relationship
+----------------------
 
 For the IETF-ISOC relationship, the implications of the current situation and the three options are summarized here:
 
 ```
 
 |                | Current situation | Option 1         | Option 2        | Option 3        |
-| SCALE          |                   |                  |                 |                 |
-| EVOLVE         |                   |                  |                 |                 |
-| STRAT TSK      |                   |                  |                 |                 |
-| OPS TSK        |                   |                  |                 |                 |
-| OVERLOAD SEP   |                   |                  |                 |                 |
-| CLEAR ISOC REL |                   |                  |                 |                 |
-| DIR CONTROL    |                   |                  |                 |                 |
-| CULTURE        |                   |                  |                 |                 |
-| WORK SEP       |                   |                  |                 |                 |
+| SCALE          |         NO        |                  |                 |                 |
+| EVOLVE         |         NO        |                  |                 |                 |
+| STRAT TSK      |         NO        |                  |                 |                 |
+| OPS TSK        |        YES        |                  |                 |                 |
+| OVERLOAD SEP   |        YES        |                  |                 |                 |
+| CLEAR ISOC REL |         NO        |                  |                 |                 |
+| DIR CONTROL    |         NO        |                  |                 |                 |
+| CULTURE        |        YES        |                  |                 |                 |
+| WORK SEP       |        YES        |                  |                 |                 |
 | IASA EXP       |                   |                  |                 |                 |
 
 ```
 
-In addition, ...
+Note 1:
+
+Financial Impacts
+-----------------
+
+There are two different classes of changes. First, both the ISOC interface change and staff changes will imply changes in what is being accounted for in budgets and reports, even in cases where the actual work or the number of people stays the same. Secondly, we expect all the alternatives
+
+Other Impacts
+-------------
 
 Conclusions and recommendations
 ===============================
