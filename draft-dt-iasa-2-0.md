@@ -206,7 +206,7 @@ One potential model for populating the board is a Nomcom-selection for 2/3 of th
 
 In this option, there is a board and staff just like in option A, but in addition, an Advisory Council (AC) provides an interface to the community on matters that require assessing community opinion. For instance, the current polling of community feedback relating to potential future meeting locations could be one such matter.
 
-    An advisory council canvasing and pulling for this information is probably a better approach than either freeform mailing list discussion, or the relatively opaque process that is currently used. Advisory board results could be documented in the same fashion as IESG documents documents last call results. Some IAOC site decisions have been done in this way, but not all, possibly due to lack of time.
+(An advisory council canvasing and pulling for this information is probably a better approach than either freeform mailing list discussion, or the relatively opaque process that is currently used. Advisory board results could be documented in the same fashion as IESG documents documents last call results. Some IAOC site decisions have been done in this way, but not all, possibly due to lack of time.)
 
 The advisory council would be comprised of IETF community members and selected by Nomcom, and would benefit from having either the IETF Chair or another IESG member as a liaison. The advisory council would not make decisions about how the IETF should run, but it would be available for the staff to consult whenever they needed a view from the community, and it would also be available to run community discussion processes or to get input from the community to funnel back to the staff. The advisory council would have a well-defined interface to the IESG as well.
 
@@ -277,7 +277,7 @@ Note 1: Given that IASA is being reorganised, even the current system is capable
 
 Note 2: There may be a difference between Option A and Option B in how overload situations and the separation of different tasks goes. The existence of an advisory board may take off some board or staff load to deal with community opinion determination, freeing the board to do its strategic work and staff to concentrate on operations and execution.
 
-Note 3: Setting expectations is difficult merely based on an organisatorial model. Certainly a clear separation between roles of the board and staff helps. However, expectations are also a matter of documentation, which would have be created and communicated. Finally, expectations are a cultural matter, current IAOC arrangements and community views 
+Note 3: Setting expectations is difficult merely based on an organisatorial model. Certainly a clear separation between roles of the board and staff helps. However, expectations are also a matter of documentation, which would have be created and communicated. Finally, expectations are a cultural matter, current IAOC arrangements and community views have ended up in a situation where there is a lack of trust and unclear models for what can or can not be expected.
 
 IETF-ISOC Relationship
 ----------------------
