@@ -413,7 +413,7 @@
 
       <t>Whether the community representative or board control of IASA is at the
       level of individual administrative decisions (as it is today) or at a more
-      traditional board control, i.e., strategic direction, budgets, and key
+      traditional board level of control, i.e., strategic direction, budgets, and key
       personnel choices.</t>
 
       <t>Whether the interface to the community is via staff or a community
@@ -427,7 +427,7 @@
       traditional oversight board, common in most non-profit organisations. This
       board, the IASA Board (IB), acts to set strategic direction for IETF
       administrative matters, sets budgets, provides fiscal oversight, provides
-      high-level oversight about major new projects. The board is also
+      high-level oversight about major new projects, and so on. The board is also
       responsible for hiring and assessing the performance of the Executive
       Director (the highest-level staff director, see <xref
       target="staffresources"/>).</t>
@@ -463,8 +463,9 @@
 
       <t>One potential model for populating the board is a Nomcom-selection for
       2/3 of the board members and selection by IETF and ISOC leadership for 1/3
-      of the board members with a view for more outside, well-networked
-      members.</t>
+      of the board members with a view for more independent, well-networked
+      members. However, the responsibilty of the board and the manner in which
+      board members are selected are separable design matters.</t>
 
     </section>
 
@@ -476,11 +477,11 @@
       opinion. For instance, the current polling of community feedback relating
       to potential future meeting locations could be one such matter.</t>
 
-      <t>An advisory council canvassing and pulling for this information is
-      probably a better approach than either freeform mailing list discussion,
+      <t>An advisory council canvassing and pulling for this information
+      might be a better approach than either free-form mailing list discussion,
       or the relatively opaque process that is currently used. Advisory board
       results could be documented in the same fashion as IESG documents
-      documents last call results. Some IAOC site decisions have been done in
+      last call results. Some IAOC site decisions have been done in
       this way, but not all, possibly due to lack of time.</t>
 
       <t>The advisory council would be comprised of IETF community members and
@@ -503,11 +504,11 @@
   </section>
   <section anchor="staffresources" title="Staff Structure">
     
-    <t>The design team believes that staff resources need to increased or
-    reorganised from one director to a few more specialised roles (see growth in
+    <t>The design team believes that staff resources need to increase and/or 
+    be reorganised in order to move from one director to a few more specialised roles (see growth in
     <xref target="challenges"/>). And In addition, the team believes that future
-    organisation for IASA may benefit from organising all resources under a
-    clearer and more direct control of the IETF (see division of
+    organisation for IASA may benefit from organising all resources under the more
+    clear and direct control of the IETF (see division of
     responsibilities in <xref target="challenges"/> and roles in <xref
     target="goals"/>).</t>
     
@@ -515,11 +516,11 @@
     but there are also many supporting employees. They are less clearly assigned
     for the IETF, working at contractors and at ISOC.</t>
 
-    <t>This document suggests a structure that involves:
+    <t>This document suggests a structure that involves the following roles:
 
     <list style="symbols">
 
-      <t>An Executive Director. The person in this role is in charge of the
+      <t>Executive Director. The person in this role is in charge of the
       overall IASA effort, but can rely on other staff members below as well as
       contractors. The Executive Director is accountable to the Board.</t>
 
@@ -528,12 +529,13 @@
       IANA), and day-to-day budget management.</t>
 
       <t>Partner Director. This person is responsible for working with IETF's
-      sponsors and other partners, and the primary responsible for
-      fundraising.</t>
+      sponsors and other partners, and his or her primary responsiblity
+      is fundraising for the IETF.</t>
 
       <t>Communications Director. This person is responsible for working with
-      IETF leadership (incl. IETF Chair, IESG, and IAB) on communications
-      matters, assisting them in efficient communication and dealing with
+      IETF leadership (including the IETF Chair, IESG, and IAB) on communications
+      matters (primarily but not exclusively external communications),
+      assisting them in efficient communication and dealing with
       ongoing communications matters.</t>
 
       <t>Legal Counsel (likely an outside counsel, contracted). This person
