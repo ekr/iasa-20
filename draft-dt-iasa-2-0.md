@@ -217,15 +217,15 @@ Staff resources
 
 The current arrangement involves one officially designated IASA employee, but there are also many supporting employees. They are less clearly assigned for the IETF, working at contractors and at ISOC.
 
-This document suggests a structure that involves:
+This document suggests a structure that involves the following roles:
 
-+ An Executive Director. The person in this role is in charge of the overall IASA effort, but can rely on other staff members below as well as contractors. The Executive Director is accountable to the Board.
++ Executive Director. The person in this role is in charge of the overall IASA effort, but can rely on other staff members below as well as contractors. The Executive Director is accountable to the Board.
 + Operations Director. This person is responsible for meeting arrangements, IT, tools, and vendor contracts (including RFC Editor and IANA).
-+ Partner Director. This person is responsible for working with IETF's sponsors and other partners, and the primary responsible for fundraising.
-+ Communications Director. This person is responsible for working with IETF leadership (incl. IETF Chair, IESG, and IAB) on communications matters, assisting them in efficient communication and dealing with ongoing communications matters.
-+ Legal Counsel. This person assists the IASA on legal matters as well as prepares and reviews all contracts that are needed with IETF's contractors.
++ Partner Director. This person is responsible for working with IETF's sponsors and other partners, and their primary responsiblity is fundraising for the IETF.
++ Communications Director. This person is responsible for working with IETF leadership (including the IETF Chair, IESG, and IAB) on communications matters (primarily but not exclusively external communications), assisting them in efficient communication and dealing with ongoing communications matters.
++ Legal Counsel. This person assists the IASA on legal matters as well as prepares and reviews all contracts that are needed with IETF's contractors. 
 
-The Executive Director needs to be an employee, but the other roles can also be contractors.
+The Executive Director needs to be a full-time employee, but the other roles can also be contractors and/or part-time roles.
 
 Structuring the IETF’s relationship with ISOC
 =============================================
