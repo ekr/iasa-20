@@ -65,9 +65,9 @@
 
 <middle>
 
-<section title="Introduction">
+<section title="Introduction" anchor="intro">
    <t>The arrangements relating to administrative support for the IETF 
-      (IASA <xref target="RFC4071"/>) were created more than ten years ago,
+      (referred to as the "IETF Administrative Support Activity" (IASA) <xref target="RFC4071"/>) were created more than ten years ago,
       when the IETF initially took charge of its own administration. The 
       arrangements have reasonably served the IETF, but there's been considerable
       change in the necessary tasks, in the world around us, and our own
@@ -124,17 +124,16 @@
 <t>Changes to the funding model are out of scope to the extent they fall outside the
    categories above.</t>
 
-<t>The rest of the document is organised as follows. The next two sections describe 
+<t>The rest of the document is organised as follows. The next two sections (<xref target="background" /> and <xref target="challenges" />) describe 
    the background and summarise the challenges noted in the community discussion. 
-   The two sections after that explain what categories of changes were considered, 
-   and describe the primary options for structural changes. The following section 
-   discusses other changes, followed by two sections on analysis of the different 
-   options along with a recommendation.</t>
+   The two sections after that (<xref target="consider_change" /> and <xref target="reorg_options" />) explain what categories of changes were considered, 
+   and describe the primary options for structural changes. The following two sections (<xref target="analysis" /> and <xref target="conc_recs" />) focus on analysis of the different 
+   options along with conclusions and recommendations.</t>
 </section>
 
-<section title="Background">
+<section title="Background" anchor="background">
 
-<t>The administrative support structure intended to be responsive to the administrative 
+<t>The administrative support structure is intended to be responsive to the administrative 
    needs of the IETF technical community.</t>
 
 <t>RFC 4071 <xref target="RFC4071" /> defines the current IETF Administrative Support 
@@ -167,13 +166,12 @@
    <t>Sponsorship and funding (together with ISOC)</t>
 </list></t>
 
-<section title="Terminology">
+<section title="Terminology"  anchor="terms">
 
 <t>The following acronyms are used in this document:
 
 <list style="symbols">
-   <t>IASA - IETF Administrative Support Activity - An organized activity that provides a
-      dministrative support for the IETF, the IAB and the IESG.</t>
+   <t>IASA - IETF Administrative Support Activity - An organized activity that provides administrative support for the IETF, the IAB and the IESG.</t>
    <t>IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely 
       IETF-selected committee that oversees and directs IASA.  Accountable to the IETF 
       community.</t>
@@ -205,20 +203,20 @@
 <t>In summary, the key areas of challenge that have shaped this work are:
 
 <list style="symbols">
-   <t>The range of IETF administrative tasks have grown considerably; ensure we 
+   <t>The range of IETF administrative tasks have grown considerably; we must ensure that we 
       have the right structure, community involvement and level of staffing to 
       address them effectively and efficiently.</t>
-   <t>The relationship and division of responsibilities between the IETF and ISOC, 
+   <t>The relationship and division of responsibilities between the IETF and ISOC have changed, 
       as both organizations have grown considerably in the last decade.
       <vspace blankLines="1"/>
       The joint organisation that supports the IETF has grown rather organically, and
       would benefit from re-assessment and possible reorganisation.
    </t>
-   <t>Alignment of community expectations of transparency of administrative actions 
-      and delivery from the administration.</t>
-   <t>Funding and sponsorships. Manage expectations about locations of meetings 
-      (broadening of IETF engagement, sponsor preferences), balanced against 
-      operational practicalities.  Ensure that we continue to not be influenced by 
+   <t>Community expectations of transparency of administrative actions 
+      and execution from the administration could be better aligned.</t>
+   <t>We face continued challenges related to funding IETF activities on a background of increasing costs. We must properly manage expectations about locations of meetings 
+      (broadening of IETF engagement, sponsor preferences) while balancing against 
+      operational practicalities.  And we must ensure that we continue to not be influenced by 
       funding entities on the technical work of the IETF.</t>
 </list></t>
 
@@ -227,7 +225,7 @@
       updating documented expectations.</t>
 </section>
 
-<section title="Considering a Change">
+<section title="Considering a Change" anchor="consider_change">
 
    <t>Given that a change seems necessary, what might that change include? There 
       seem to be three broad categories of IETF organisation that will be affected:
@@ -238,12 +236,12 @@
   <t>interfaces and expectations to rest of the IETF.</t>
 </list></t>
 
-  <t>Overall structure includes also questions such as whether IETF is an organisation, and its the relationship to ISOC is.</t>
+  <t>The overall structure also includes questions such as whether IETF is an organisation and its relationship to ISOC.</t>
 
    <t>There are some interconnections between different aspects of
    reorganisation. For instance, how IETF defines its relationship to ISOC will
-   have some implications on what kind of oversight structure is needed, for
-   insance. For example, a more independent, free-standing organisational model for IETF
+   have some implications on what kind of oversight structure is needed.
+   For example, a more independent, free-standing organisational model for IETF
    would imply new functions for the IASA.</t>
 
    <t>There are a number of choices to make within the reorganisation effort. In particular, 
@@ -264,20 +262,20 @@
       other changes.</t>
 
    <t>Define the roles of IETF and ISOC in a way that helps the above structure be as clear 
-      as possible, in terms of who does what, how are things accounted, and who is in charge 
-      of adjustments and control (e.g., staff resources). Propose a starting point for the 
+      as possible, in terms of who does what, how are things accounted for, and who is in charge 
+      of adjustments and control (e.g., staff resources). A redesign needs to propose a starting point for the 
       financial arrangements between IETF and ISOC, either as they are now or changed in
-      some fashion. It shall also be clear to people outside the IETF and ISOC organisation 
+      some fashion. It must also be clear to people outside the IETF and ISOC organisation 
       (e.g., sponsors) what the arrangements are and what their contributions affect and 
       do not affect.</t>
 
-   <t>The new organisation needs to accommodate for strategic, operational, and execution of 
+   <t>Accommodate strategic, operational, and execution of 
       administrative tasks, and take into account the limited availability of IETF volunteers 
       for performing administrative tasks. The new design needs to ensure that overload in such things 
       as operational decisions does not affect the ability to drive strategic changes.</t>
 
    <t>Set expectations and limits of those expectations on the different parts of the system. 
-      This includes, but is not limited to community expectations of transparency.</t>
+      This includes but is not limited to community expectations of transparency.</t>
 
    <t>Ensure that future IASA organizational structure and processes preserves and protects 
       the IETF's unique culture of individual contribution, clear separation of financial 
@@ -286,7 +284,7 @@
 </section>
 </section>
 
-<section title="Reorganisation Options">
+<section title="Reorganisation Options" anchor="reorg_options">
 
   <section title="Overall Structure">
 
@@ -295,7 +293,7 @@
     generally focus on the relationship between the IETF and ISOC. Changes to
     this relationship directly affect how the IASA function gets carried out. It
     should be noted that all three options require more administrative budget
-    per annum than what is currently allocated for IASA functions. The following
+    per year than what is currently allocated for IASA functions. The following
     subsections describe each option. <xref target="analysis"/> highlights their
     pros and cons and effectiveness in comparison to the goals stated
     earlier.</t>
@@ -316,7 +314,8 @@
 	<t>Provide clarity and transparency about authority, responsibility,
 	budgeting, and allocation of staff time for all IETF-related work and
 	activities.</t>
-	<t>Add IASA staff.</t>
+	<t>Add IASA staff to better reflect the increased workload on what is
+	now a single staff member.</t>
 	<t>Provide clarity about authority of the IAOC in reviewing performance
 	of IASA staff.</t>
 	<t>Re-structure the internal IETF organization and appointment processes
@@ -542,12 +541,10 @@
       assists the IASA on legal matters as well as prepares and reviews all
       contracts that are needed with IETF's contractors.</t>
 	    
-      <t>Note: The Executive Director likely needs to be a full-time employee, 
+    </list></t>
+    <t>Note: The Executive Director likely needs to be a full-time employee, 
       as is likely the case for the other Director-level positions, with the 
       possible exception of the Legal Counsel.</t>
-
-    </list></t>
-
   </section>
 </section>
 
@@ -718,7 +715,7 @@ the three options are summarized in <xref target="Relationship-assess"/>.</t>
 
    <t>Note 2: There may be a difference between the strategic board with and
    without an advisory council, in how overload situations and the separation of
-   different tasks goes. The existence of an advisory council alleviate some workload on
+   different tasks goes. The existence of an advisory council alleviates some workload on
    board or staff, particularly in dealing with community opinion determination, freeing the
    board to do its strategic work and staff to concentrate on operations and
    execution.</t>
@@ -735,7 +732,7 @@ the three options are summarized in <xref target="Relationship-assess"/>.</t>
 
 <section title="Financial Impacts">
 
-<t>There are two different classes of changes. First, both the ISOC interface change and 
+<t>There are two different classes of financially-relevant changes. First, both the ISOC interface change and 
    staff changes will imply changes in what is being accounted for in budgets and reports,
    even in cases where the actual work or the number of people stays the same. Secondly,
    there are actual increases in required financial resources.</t>
@@ -768,7 +765,7 @@ the three options are summarized in <xref target="Relationship-assess"/>.</t>
 </section>
 </section>
 
-<section title="Conclusions and recommendations">
+<section title="Conclusions and recommendations" anchor="conc_recs">
 
 <t>While there are some initial conclusions in the analysis in the previous
 sections, clearly more work is needed. In particular, we request and welcome thoughts and contributions
@@ -777,7 +774,7 @@ options or the implications of options being considered here.</t>
 
 </section>
 
-<section title="Acknowledgments">
+<section title="Acknowledgments" anchor="acks">
 
    <t>This text is the work of the design team, but greatly influenced by discussions in 
       the IETF community. The team would in particular like to thank Alissa Cooper, 
