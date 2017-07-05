@@ -212,6 +212,7 @@
         The joint organisation that supports the IETF has grown rather organically, and
         would benefit from re-assessment and possible reorganisation.
         </t>
+        <t>Lack of predictably of funding levels combined with regular shortfalls.</t>
         <t>Community expectations of transparency of administrative actions
         and execution from the administration could be better aligned.</t>
         <t>We face continued challenges related to funding IETF activities on a background of increasing costs. We must properly manage expectations about locations of meetings
@@ -294,7 +295,11 @@
         generally focus on the relationship between the IETF and ISOC. Changes to
         this relationship directly affect how the IASA function gets carried out. It
         should be noted that all three options require more administrative budget
-        per year than what is currently allocated for IASA functions. The following
+        per year than what is currently allocated for IASA functions. In addition,
+        they will most likely require a more predictable level of ISOC funding,
+        rather than the current model of a base funding level combined with
+        periodic infusions to cover shortfalls.
+        The following
         subsections describe each option. <xref target="analysis"/> highlights their
         pros and cons and effectiveness in comparison to the goals stated
         earlier.</t>
@@ -592,7 +597,7 @@
             transparency beyond ISOC's comfort zone</c>
             <c>Allows IETF to continue to rely on ISOC to somewhat frictionlessly compensate for
             budget shortfalls if necessary</c>
-            <c></c>
+            <c>Continuing confusion about alignment between ISOC and IETF on policy and standards matters.</c>
           </texttable>
 
           <t><xref target="Subsidiary-assess" /> highlights the pros and cons of the ISOC subsidiary
@@ -618,7 +623,7 @@
             <c>Start-up costs include costs of incorporating the subsidiary and re-organizing/hiring
             additional staff</c>
             <c>Allows IETF to continue to leverage expertise of ISOC administrative personnel</c>
-            <c></c>
+            <c>Continuing confusion about alignment between ISOC and IETF on policy and standards matters.</c>
           </texttable>
 
           <t><xref target="Independent-assess" /> highlights the pros and cons of
@@ -648,7 +653,7 @@
             current challenges with IAOC structure</c>
             <c>Requires more from board members than what is currently required of
             IAOC insofar as hiring and evaluating staff</c>
-            <c></c>
+            <c>Removes need for alignment between ISOC and IETF on policy and standards matters.</c>
             <c>Requires IETF to assume legal risk currently assumed by ISOC</c>
           </texttable>
 
