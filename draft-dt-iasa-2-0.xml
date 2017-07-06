@@ -203,22 +203,30 @@
       <t>In summary, the key areas of challenge that have shaped this work are:
 
       <list style="symbols">
+
         <t>The range of IETF administrative tasks have grown considerably; we must ensure that we
         have the right structure, community involvement and level of staffing to
         address them effectively and efficiently.</t>
+
         <t>The relationship and division of responsibilities between the IETF and ISOC have changed,
         as both organizations have grown considerably in the last decade.
         <vspace blankLines="1"/>
         The joint organisation that supports the IETF has grown rather organically, and
         would benefit from re-assessment and possible reorganisation.
         </t>
-        <t>Lack of predictably of funding levels combined with regular shortfalls.</t>
+
         <t>Community expectations of transparency of administrative actions
         and execution from the administration could be better aligned.</t>
-        <t>We face continued challenges related to funding IETF activities on a background of increasing costs. We must properly manage expectations about locations of meetings
+
+        <t>Lack of predictably of funding levels combined with regular shortfalls.
+	<vspace blankLines="1"/>
+
+        We face continued challenges related to funding IETF activities on a background of
+	increasing costs. We must properly manage expectations about locations of meetings
         (broadening of IETF engagement, sponsor preferences) while balancing against
         operational practicalities.  And we must ensure that we continue to not be influenced by
         funding entities on the technical work of the IETF.</t>
+
       </list></t>
 
       <t>Of the items above, the first two are largely to be addressed by structural
@@ -271,8 +279,8 @@
           size of the tasks. Ensure that we have a structure that can adapt to future growth and
           other changes.</t>
 
-          <t>Accommodate strategic, operational, and execution of
-          administrative tasks, and take into account the limited availability of IETF volunteers
+          <t>Accommodate strategic, operational, and execution tasks within the administrative
+	  efforts, and take into account the limited availability of IETF volunteers
           for performing administrative tasks. The new design needs to ensure that overload in such things
           as operational decisions does not affect the ability to drive strategic changes.</t>
 
@@ -293,13 +301,16 @@
         <t>The design team, in discussion with the IETF chair, believes that there
         are three general approaches to evolving the IASA function. The options
         generally focus on the relationship between the IETF and ISOC. Changes to
-        this relationship directly affect how the IASA function gets carried out. It
+        this relationship directly affect how the IASA function gets carried out.</t>
+
+	<t>It
         should be noted that all three options require more administrative budget
         per year than what is currently allocated for IASA functions. In addition,
         they will most likely require a more predictable level of ISOC funding,
         rather than the current model of a base funding level combined with
-        periodic infusions to cover shortfalls.
-        The following
+        periodic infusions to cover shortfalls.</t>
+
+        <t>The following
         subsections describe each option. <xref target="analysis"/> highlights their
         pros and cons and effectiveness in comparison to the goals stated
         earlier.</t>
@@ -466,7 +477,7 @@
           fundraising (all of which are typical for a non-profit board).</t>
 
           <t>One potential model for populating the board is a Nomcom-selection for
-          2/3 of the board members and selection by IETF and ISOC leadership for 1/3
+          2/3 of the board members and some other type of selection for 1/3
           of the board members with a view for more independent, well-networked
           members. However, the responsibilty of the board and the manner in which
           board members are selected are separable design matters.</t>
@@ -486,7 +497,8 @@
           or the relatively opaque process that is currently used. Advisory board
           results could be documented in the same fashion as IESG documents
           last call results. Some IAOC site decisions have been done in
-          this way, but not all, possibly due to lack of time.</t>
+          this way, summarising feedback received, others with less
+	  information.</t>
 
           <t>The advisory council would be comprised of IETF community members and
           selected by Nomcom, and would benefit from having either the IETF Chair or
@@ -648,7 +660,7 @@
             specifically tailored to the IETF's needs and culture, while continuing
             to rely heavily on contractors</c>
             <c>Vests more decision-making authority in paid staff than under current
-            IASA (i.e., risks of capture)</c>
+            IASA</c>
             <c>Provides opportunity to structure board in such a way to overcome
             current challenges with IAOC structure</c>
             <c>Requires more from board members than what is currently required of
@@ -659,7 +671,7 @@
 
         </section>
 
-        <section title="Comparison to Criteria">
+        <section anchor="comp-criteria-overall" title="Comparison to Criteria">
 
           <t>For the overall structure, the implications of the current situation and
           the three options are summarized in <xref target="Relationship-assess"/>.</t>
@@ -671,21 +683,29 @@
             <ttcol>ISOC Subsidiary</ttcol>
             <ttcol>Independent Organization</ttcol>
             <c>SCALE</c>          <c>NO</c>  <c>NO</c>             <c>YES</c>            <c>YES</c>
-            <c>EVOLVE</c>         <c>NO</c>  <c>NO (Note 4)</c>    <c>MAYBE (Note 4)</c> <c>YES (Note 4)</c>
-            <c>STRAT TSK</c>      <c>NO</c>  <c>NO (Note 4)</c>    <c>YES</c>            <c>YES</c>
+            <c>EVOLVE</c>         <c>NO</c>  <c>NO (Note 1)</c>    <c>MAYBE (Note 1)</c> <c>YES (Note 1)</c>
+            <c>STRAT TSK</c>      <c>NO</c>  <c>NO (Note 1)</c>    <c>YES</c>            <c>YES</c>
             <c>OPS TSK</c>        <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
             <c>OVERLOAD SEP</c>   <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
             <c>CLEAR ISOC REL</c> <c>NO</c>  <c>NO</c>             <c>YES</c>            <c>YES</c>
             <c>DIR CONTROL</c>    <c>NO</c>  <c>NO</c>             <c>YES</c>            <c>YES</c>
             <c>CULTURE</c>        <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
             <c>WORK SEP</c>       <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
-            <c>IASA EXP</c>       <c>NO</c>  <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c>
+            <c>IASA EXP</c>       <c>NO</c>  <c>MAYBE (Note 2)</c> <c>MAYBE (Note 2)</c> <c>MAYBE (Note 2)</c>
           </texttable>
 
-          <t>Note 4: Evolution in the current system is more difficult than if IETF was either clearly
+          <t>Note 1: Evolution in the current system is more difficult than if IETF was either clearly
           a subsidiary or its own organisation. This would also ease driving any strategy that the
           IETF wants to drive, as decisions would be more on the IETF side than something that
           today would require negotiation with ISOC.</t>
+
+	  <t>Note 2: Setting expectations is difficult merely based on an
+	  organisational model.  Certainly a clear separation between roles of the
+	  board and staff helps. However, expectations are also a matter of
+	  documentation, which would have be created and communicated. Finally,
+	  expectations are a cultural matter, current IAOC arrangements and community
+	  views have ended up in a situation where there is a lack of trust and unclear
+	  models for what can or cannot be expected.</t>
 
         </section>
 
@@ -694,29 +714,34 @@
 
       <section title="Oversight">
 
-        <t>For the internal organisation, the implications of the current situation and the two
-        options are summarised in <xref target="Internal-Org-assess"/>.</t>
+        <t>For the internal organisation, the implications of the current situation vs. a strategic board model is summarised in <xref target="Internal-Org-assess"/>.</t>
 
         <texttable anchor="Internal-Org-assess" style="all" title="Internal Organization Implications">
-          <ttcol>Criteria</ttcol><ttcol>Current Situation</ttcol><ttcol>Strategic Board</ttcol><ttcol>Strategic Board and an Advisory Council</ttcol>
-          <c>SCALE</c>          <c>NO</c>             <c>YES</c>            <c>YES</c>
-          <c>EVOLVE</c>         <c>MAYBE (Note 1)</c> <c>MAYBE (Note 1)</c> <c>YES (Note 1)</c>
-          <c>STRAT TSK</c>      <c>NO</c>             <c>YES (Note 2)</c>   <c>YES</c>
-          <c>OPS TSK</c>        <c>YES</c>            <c>YES (Note 2)</c>   <c>YES</c>
-          <c>OVERLOAD SEP</c>   <c>NO</c>             <c>YES (Note 2)</c>   <c>YES</c>
-          <c>CLEAR ISOC REL</c> <c>n.a.</c>           <c>n.a.</c>           <c>n.a.</c>
-          <c>DIR CONTROL</c>    <c>n.a.</c>           <c>n.a.</c>           <c>n.a.</c>
-          <c>CULTURE</c>        <c>YES</c>            <c>YES</c>            <c>YES</c>
-          <c>WORK SEP</c>       <c>YES</c>            <c>YES</c>            <c>YES</c>
-          <c>IASA EXP</c>       <c>NO</c>             <c>MAYBE (Note 3)</c> <c>MAYBE (Note 3)</c>
+          <ttcol>Criteria</ttcol><ttcol>Current Situation</ttcol><ttcol>Strategic Board</ttcol>
+          <c>SCALE</c>          <c>NO</c>             <c>YES</c>
+          <c>EVOLVE</c>         <c>MAYBE (Note 1)</c> <c>YES (Note 1)</c>
+          <c>STRAT TSK</c>      <c>NO</c>             <c>YES (Note 2)</c>
+          <c>OPS TSK</c>        <c>YES</c>            <c>YES (Note 2)</c>
+          <c>OVERLOAD SEP</c>   <c>NO</c>             <c>YES (Note 2)</c>
+          <c>CLEAR ISOC REL</c> <c>n.a.</c>           <c>n.a.</c>
+          <c>DIR CONTROL</c>    <c>n.a.</c>           <c>n.a.</c>
+          <c>CULTURE</c>        <c>YES</c>            <c>YES</c>
+          <c>WORK SEP</c>       <c>YES</c>            <c>YES</c>
+          <c>IASA EXP</c>       <c>NO</c>             <c>MAYBE (Note 3)</c>
         </texttable>
 
-        <t>Note 1: Given that the IASA is being reorganised, we acknowledge that the current structure is capable of evolving.
-        However, the operational focus and overload in the current arrangements are making this harder
-        than is necessary. Change requires action from outside of the IASA, rather than being a normal task
-        within the IASA to evolve their own model. A strategic board without an advisory council maybe a bit weaker in evolution,
-        given that a dedicated advisory council can help determine community concerns (though lines of authority between a
-        strategic board and advisory council would need to be clearly delineated).</t>
+        <t>Note 1: Given that the IASA is being reorganised, we
+        acknowledge that the current structure is capable of evolving.
+        However, the operational focus and overload in the current
+        arrangements are making this harder than is necessary. Change
+        requires action from outside of the IASA, rather than being a
+        normal task within the IASA to evolve their own model. A
+        strategic board that is not deeply involved in the operations
+        should be able to look at evolution more easily. Similarly, a
+        dedicated advisory council can help determine community
+        concerns, and might be able to do this even better than a
+        board. However, lines of authority between a strategic board
+        and advisory council would need to be clearly delineated.</t>
 
         <t>Note 2: There may be a difference between the strategic board with and
         without an advisory council, in how overload situations and the separation of
@@ -725,13 +750,9 @@
         board to do its strategic work and staff to concentrate on operations and
         execution.</t>
 
-        <t>Note 3: Setting expectations is difficult merely based on an
-        organisational model.  Certainly a clear separation between roles of the
-        board and staff helps. However, expectations are also a matter of
-        documentation, which would have be created and communicated. Finally,
-        expectations are a cultural matter, current IAOC arrangements and community
-        views have ended up in a situation where there is a lack of trust and unclear
-        models for what can or cannot be expected.</t>
+        <t>Note 3: Setting expecations is difficult merely based on an
+        oganisational model, see Note 2 under <xref
+        target="comp-criteria-overall"/>.</t>
 
       </section>
 
@@ -742,19 +763,24 @@
         even in cases where the actual work or the number of people stays the same. Secondly,
         there are actual increases in required financial resources.</t>
 
-        <t>We expect all the alternatives to lead to somewhat higher funding needs, and in fact
-        shifting more work to staff from volunteers is one of the goals. For the internal
-        reorganisation, the primary position actually being added is having both Executive
-        Director and Operations Director, instead of one IAD. We've already had a Legal Counsel
-        and Communications Director. These chances coincide with other personnel changes in IASA,
-        as the experienced, long-term IAD is retiring. Even from a learning curve point of view
-        more people will be needed, but in this case it also makes sense to have the organisation
-        be less dependent on one central person.</t>
+        <t>We expect all the alternatives to lead to somewhat higher
+        funding needs, and in fact shifting more work to staff from
+        volunteers is one of the goals. For the internal
+        reorganisation, the primary position actually being added is
+        having both Executive Director and Operations Director,
+        instead of one IAD. We've already had a Legal Counsel and
+        roles similar to the Director of Partnerships and
+        Communications Director. These chances coincide with other
+        personnel changes in IASA, as the experienced, long-term IAD
+        is retiring. Even from a learning curve point of view more
+        people will be needed, but in this case it also makes sense to
+        have the organisation be less dependent on one central
+        person.</t>
 
         <t>Given the learning curve effect, and a new organisation, it is expected that the role
         of the Legal Counsel will also increase, e.g., in terms of reviewing contracts.</t>
 
-        <t>The effects of any ISOC relationship on financial resources are for further study.</t>
+        <t>The effects of any ISOC relationship changes on financial resources are for further study.</t>
 
       </section>
 
