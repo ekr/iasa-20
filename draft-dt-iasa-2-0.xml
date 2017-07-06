@@ -152,11 +152,13 @@
 
       <list style="symbols">
         <t>Meeting planning</t>
+	<t>Budget and financial management</t>
         <t>Contracting with and overseeing the secretariat</t>
         <t>Contracting with and overseeing the RFC Editor (together with the IAB)</t>
         <t>Contracting with and overseeing IANA (together with the IAB)</t>
         <t>Legal ownership of IETF materials, domain names and copyright</t>
         <t>Ownership of IANA-related domain names and copyright</t>
+	<t>General legal support (including topics beyond domains and IPR)</t>
         <t>IETF website</t>
         <t>IETF IT services</t>
         <t>Tooling support, maintenance, and development (together with volunteers)</t>
@@ -171,21 +173,29 @@
         <t>The following acronyms are used in this document:
 
         <list style="symbols">
-          <t>IASA - IETF Administrative Support Activity - An organized activity that provides administrative support for the IETF, the IAB and the IESG.</t>
+
+          <t>IASA - IETF Administrative Support Activity - An organized activity that
+	  provides administrative support for the IETF, the IAB and the IESG.</t>
+
           <t>IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely
           IETF-selected committee that oversees and directs IASA.  Accountable to the IETF
           community.</t>
+
           <t>IAOC committees - Recognizing the need for specialized attention for different
           branches of work requiring IAOC oversight, the IAOC expanded its support by creating
           committees. Currently, the committees do the heavy lifting on specific tasks, while
           the IAOC is the one responsible for final decisions.</t>
+
           <t>ISOC - The Internet Society - The organizational home of the IETF, and one that in the
           current IASA system assists the IETF with legal, administrative, and funding tasks.</t>
+
           <t>IAD - IETF Administrative Director - In the current system, the sole staff member
           responsible for carrying out the work of the IASA.  An ISOC employee.</t>
+
           <t>IETF Trust - In the current system the IETF Trust acquires, maintains, and licenses
           intellectual and other property used in connection with the administration of the IETF.
           Same composition as IAOC.</t>
+
         </list></t>
       </section>
     </section>
@@ -298,7 +308,7 @@
 
       <section title="Overall Structure">
 
-        <t>The design team, in discussion with the IETF chair, believes that there
+        <t>The design team believes that there
         are three general approaches to evolving the IASA function. The options
         generally focus on the relationship between the IETF and ISOC. Changes to
         this relationship directly affect how the IASA function gets carried out.</t>
@@ -339,12 +349,22 @@
             for the IAOC and the IETF Trust to address current challenges.</t>
             <t>Establish IETF community consensus about who has policy authority for
             administrative decisions where there is currently a lack of clarity.</t>
-            <t>Improve IAOC transparency.</t>
-          </list></t>
+	  </list></t>
+
+	  <t>Some specific changes to make these improvements are discussed in
+	  <xref target="oversight"/> regarding board and staff work divisions.
+	  While in this option there is no need for a formal board, there is
+	  still a need to redefine the role of the IAOC. The necessary
+	  staff changes are discussed in <xref target="staffresources"/>.</t>
+
+	  <t>It would also be necessary to improve IAOC transparency. In the IASA++ option,
+	  in addition to the general improvement needs in this area, there is an added need
+	  to continue the improvements relating to accurate accounting of resources
+	  and actions on the ISOC side.</t>
 
         </section>
 
-        <section title="ISOC Subsidiary">
+        <section anchor="option2" title="ISOC Subsidiary">
 
           <t>In this option, an ISOC subsidiary would be created as the new legal
           home of the IETF.  A subsidiary can have its own bank account, by-laws,
@@ -354,23 +374,34 @@
           administrative tasks.</t>
 
           <t>As a subsidiary of ISOC, the IETF could eliminate the IAOC and replace
-          it with a board of directors/trustees. Administrative decision-making
+          it with a board of directors/trustees (see <xref target="oversight"/>).
+	  Administrative decision-making
           authority would rest primarily with the administrative staff, with oversight
-          provided by the board. Exception cases could be developed where board
+          provided by the board (see <xref target="staffresources"/>.
+	  Exception cases could be developed where board
           approval would be required to authorize strategic decisions.</t>
 
-          <t>Other possible changes could include:
+          <t>Other likely changes could include:
 
           <list style="symbols">
-            <t>Eliminate the IETF Trust and have the IETF subsidiary assume
-            responsibility for the IETF's intellectual property rights (IPR).</t>
-            <t>Transfer existing ISOC funds earmarked for the IETF to the subsidiary's
-            bank account, and have future IETF income held in that subsidiary's bank
-            account.</t>
             <t>Transfer existing IETF-related contracts between ISOC and contractors
             to be between the subsidiary and contractors.</t>
             <t>Multiple options to structure community involvement in administrative
             decision-making (e.g., committees organized by subsidiary staff).</t>
+          </list></t>
+
+	  <t>There are also other possible changes that would need further
+	  discussion:
+
+	  <list style="symbols">
+            <t>Eliminate the IETF Trust and have the IETF subsidiary assume
+            responsibility for the IETF's intellectual property rights (IPR). This
+	    would simplify the overall structure, but would also bundle the IPR with 
+	    the rest of the IETF operations. Note that the IETF Trust currently holds IPR also on
+	    behalf of the users of IANA.</t>
+            <t>Transfer existing ISOC funds earmarked for the IETF to the subsidiary's
+            bank account, and have future IETF income held in that subsidiary's bank
+            account.</t>
           </list></t>
 
         </section>
@@ -390,13 +421,13 @@
           replace it with a board of directors/trustees. Administrative (day-to-day) decision-making
           authority would rest primarily with IETForg staff and contractors, with oversight
           provided by the board. Exception cases could be developed where board
-          approval would be required to authorize strategic decisions.</t>
+          approval would be required to authorize strategic decisions. Again, further
+	  detais regarding the board and staff changes are in <xref target="oversight"/> 
+	  and <xref target="staffresources"/>.</t>
 
-          <t>Other possible changes could include:
+          <t>Other likely changes could include:
 
           <list style="symbols">
-            <t>Eliminate the IETF Trust and have IETForg assume responsibility for
-            IETF IPR.</t>
             <t>Transfer existing ISOC funds earmarked for the IETF to IETForg, and
             have future IETF income held by IETForg. ISOC would still be largest
             IETForg sponsor, if funding is maintained at current projections.</t>
@@ -405,18 +436,24 @@
             <t>Multiple options to structure community involvement in administrative
             decision-making (e.g., committees organized by subsidiary staff).</t>
           </list></t>
+	  
+          <t>Other possible changes that may need more discussion would
+          include possible change in the role of IETF Trust, as
+          discussed in <xref target="option2"/>.</t>
 
         </section>
 
       </section>
 
-      <section title="Oversight">
+      <section anchor="oversight" title="Oversight">
 
         <t>Oversight is obviously affected by what we decide to do with the
         relationship to ISOC. A bigger, more independent role for the IETF would
-        require an IASA board to be designed for that.</t>
+        require an IASA board to be designed for that. Nevertheless,
+	some change in the role of an oversight body and the work division
+	between it and staff is necessary in any case.</t>
 
-        <t>The design team believes the role of the community members serving in the
+        <t>Also, the design team believes the role of the community members serving in the
         IASA needs to be kept at a level appropriate for volunteer service (see
         community role in <xref target="challenges"/> and limits in <xref
         target="goals"/>).</t>
@@ -447,6 +484,11 @@
           responsible for hiring and assessing the performance of the Executive
           Director (the highest-level staff director, see <xref
           target="staffresources"/>).</t>
+
+	  <t>This option is potentially valid for all overall structure choices
+	  outlined in <xref target="reorg_options"/>. However, for the ISOC Subsidiary and
+	  Independent Organisation options, the board would have to be a formal
+	  board, typical of other non-profit organisations.</t>
 
           <t>The board works with staff who is empowered to carry out the operations
           as directed by the board. The staff is responsible for operating within
@@ -544,7 +586,7 @@
           arrangements, IT, tools, managing contracts (including RFC Editor and
           IANA), and day-to-day budget management.</t>
 
-          <t>Director of Partnerships. This person is responsible for working with IETF's
+          <t>Director of Fundraising. This person is responsible for working with IETF's
           sponsors and other partners, and his or her primary responsibility
           is fundraising for the IETF.</t>
 
@@ -554,14 +596,13 @@
           assisting them in efficient communication and dealing with
           ongoing communications matters.</t>
 
-          <t>Legal Counsel (likely an outside counsel, contracted). This person
-          assists the IASA on legal matters as well as prepares and reviews all
-          contracts that are needed with IETF's contractors.</t>
-
         </list></t>
         <t>Note: The Executive Director likely needs to be a full-time employee,
-        as is likely the case for the other Director-level positions, with the
-        possible exception of the Legal Counsel.</t>
+        as is likely the case for the other Director-level positions.</t>
+
+	<t>These persons also need to rely on a number of contractors
+	and outside specialists. For instance, a Legal Counsel, to assist the IASA on legal matters as well as contracting.</t>
+
       </section>
     </section>
 
@@ -572,7 +613,7 @@
 
       <section title="Criteria">
 
-        <t>We use the following criteria based on the goals stated earlier:
+        <t>We use the following criteria based on the goals stated earlier (<xref target="goals"/>):
 
         <list style="symbols">
 
@@ -695,7 +736,9 @@
           </texttable>
 
           <t>Note 1: Evolution in the current system is more difficult than if IETF was either clearly
-          a subsidiary or its own organisation. This would also ease driving any strategy that the
+          a subsidiary or its own organisation. This is because changes need agreement from two organisations,
+	  and, in the current model, the control of IETF-dedicated resource is not as clear as it could be.
+	  A subsidiary or independent model would also ease driving any strategy that the
           IETF wants to drive, as decisions would be more on the IETF side than something that
           today would require negotiation with ISOC.</t>
 
@@ -760,16 +803,19 @@
 
         <t>There are two different classes of financially-relevant changes. First, both the ISOC interface change and
         staff changes will imply changes in what is being accounted for in budgets and reports,
-        even in cases where the actual work or the number of people stays the same. Secondly,
-        there are actual increases in required financial resources.</t>
+        even in cases where the actual work or the number of people stays the same. That is,
+	depending on the chosen overall organisation model, some items that are currently in ISOC budget
+	may move to become IETF budget items, but the total amount of expenditure stays the same. Note that the
+	IETF already accounts for the expenses related to key IETF support staff (e.g., IAD, communications, etc).</t>
 
-        <t>We expect all the alternatives to lead to somewhat higher
+	<t>Secondly,there are some actual increases in required financial resources.
+        We expect all the alternatives to lead to somewhat higher
         funding needs, and in fact shifting more work to staff from
-        volunteers is one of the goals. For the internal
-        reorganisation, the primary position actually being added is
+        volunteers is one of the goals. For the staff changes,
+        the primary position actually being added is
         having both Executive Director and Operations Director,
         instead of one IAD. We've already had a Legal Counsel and
-        roles similar to the Director of Partnerships and
+        roles similar to the Director of Fundraising and
         Communications Director. These chances coincide with other
         personnel changes in IASA, as the experienced, long-term IAD
         is retiring. Even from a learning curve point of view more
@@ -780,7 +826,9 @@
         <t>Given the learning curve effect, and a new organisation, it is expected that the role
         of the Legal Counsel will also increase, e.g., in terms of reviewing contracts.</t>
 
-        <t>The effects of any ISOC relationship changes on financial resources are for further study.</t>
+	<t>It is important to ensure that IETF funding is arranged in
+	a manner that is satisfactory to the IETF and ISOC
+	communities. Further comments and observations are welcome.</t>
 
       </section>
 
