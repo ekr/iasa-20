@@ -1,0 +1,140 @@
+\documentclass[helvetica]{seminar} 
+\input{xy}
+\xyoption{all}
+\usepackage{graphicx} 
+\usepackage{slidesec} 
+% \usepackage{url}
+\usepackage{hyperref}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{color}
+\usepackage[normalem]{ulem}  
+
+\def\dash---{\unskip\kern.16667em---\penalty\exhyphenpenalty\hskip.16667em\ignorespaces}
+\long\def\symbolfootnote[#1]#2{\begingroup%
+\def\thefootnote{\fnsymbol{footnote}}\footnote[#1]{#2}\endgroup}
+
+% to fix problems making landscape seminar pdfs
+% Letter...
+\pdfpagewidth=11truein
+\pdfpageheight=8.5truein
+\pdfhorigin=1truein     % default value(?), but doesn't work without
+\pdfvorigin=1truein     % default value(?), but doesn't work without
+% A4
+%\pdfpagewidth=297truemm % your milage may vary....
+%\pdfpageheight=210truemm
+%\pdfhorigin=1truein     % default value(?), but doesn't work without
+%\pdfvorigin=1truein     % default value(?), but doesn't work without
+
+
+\renewcommand{\familydefault}{\sfdefault}  
+ 
+\input{seminar.bug} 
+\input{seminar.bg2} % See the Seminar bugs list 
+ 
+\slideframe{none} 
+ 
+ 
+\usepackage{fancyhdr} 
+ 
+% Headers and footers personalization using the `fancyhdr' package 
+\fancyhf{} % Clear all fields 
+\renewcommand{\headrulewidth}{0mm} 
+\renewcommand{\footrulewidth}{0.1mm} 
+ 
+\fancyfoot[L]{\tiny IETF 99} 
+\fancyfoot[C]{\tiny IASA 2.0}
+\fancyfoot[R]{\tiny \theslide} 
+ 
+ 
+% To center horizontally the headers and footers (see seminar.bug) 
+\renewcommand{\headwidth}{\textwidth} 
+
+% To adjust the frame length to the header and footer ones 
+\autoslidemarginstrue 
+\pagestyle{fancy} 
+ 
+
+\newcommand{\heading}[1]{% 
+  \begin{center} 
+    \large\bf 
+    #1 
+  \end{center} 
+  \vspace{.4 in}} 
+
+
+
+\begin{document}
+
+\begin{slide}
+\begin{center}
+\vspace{.5 in}
+\LARGE{{\bf}IASA 2.0 Design Team Update\\{\small \verb^draft-haberman-iasa20dt-recs-00^}}\\
+\vspace{.2in}
+\large{
+\begin{tabular}{ c c c }
+B. Haberman & J. Arkko & L. Daigle \\
+J. Livingood & J.L. Hall & E. Rescorla 
+\end{tabular}
+}
+\end{center}
+\end{slide}
+
+\centerslidesfalse 
+
+\begin{slide}
+\heading{Outline}
+
+%\vspace{-8ex}         %for long lists
+\begin{itemize}
+\item Status and what feedback we're looking for
+\item High-level description of IASA 2.0 options
+\item Overview of feedback received so far
+\end{itemize}
+
+\end{slide}
+
+
+\begin{slide}
+
+\heading{Status and desired feedback}
+
+{\footnotesize
+\begin{itemize}
+\item blah
+\end{itemize}
+}
+
+\end{slide}
+
+
+\begin{slide}
+
+\heading{IASA 2.0 Options the DT is considering}
+
+{\footnotesize
+\begin{itemize}
+\item blah
+\end{itemize}
+}
+
+\end{slide}
+
+
+\begin{slide}
+
+\heading{Overview of feedback so far}
+
+{\footnotesize
+\begin{itemize}
+\item blah
+\end{itemize}
+}
+
+\end{slide}
+
+
+
+
+\end{document} 
+
+                
