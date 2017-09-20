@@ -351,6 +351,21 @@
             administrative decisions where there is currently a lack of clarity.</t>
 	  </list></t>
 
+          <t>The key focus in implementing this option would be sorting out the roles
+          and responsiblities of the IAOC and ISOC. The IETF needs to be able to make
+          its own administrative decisions independent of ISOC. Having a concrete
+          separation of roles and responsibilities will allow each organization to
+          develop their own internal policies that meet their different operational
+          needs. It should be noted that the IETF needs to keep abreast of changes to
+          ISOC policies to ensure that the working arrangement remains smooth. Some
+          examples of where the IAOC needs autonomy from ISOC policies include:
+
+          <list style="symbols">
+            <t>Contract administration</t>
+            <t>Spending authority limits</t>
+            <t>Personnel decisions, including compensation</t>
+          </list></t>
+
 	  <t>Some specific changes to make these improvements are discussed in
 	  <xref target="oversight"/> regarding board and staff work divisions.
 	  While in this option there is no need for a formal board, there is
@@ -360,7 +375,10 @@
 	  <t>It would also be necessary to improve IAOC transparency. In the IASA++ option,
 	  in addition to the general improvement needs in this area, there is an added need
 	  to continue the improvements relating to accurate accounting of resources
-	  and actions on the ISOC side.</t>
+	  and actions on the ISOC side. This relates directly to the delineation of roles
+          and responsibilities necessary for the IAOC to operate independent of ISOC. Improved
+          transparency will allow the IETF community to be more aware of IAOC operations and
+          decisions. Such changes to the IAOC will require changes to <xref target="RFC4071" />.</t>
 
         </section>
 
