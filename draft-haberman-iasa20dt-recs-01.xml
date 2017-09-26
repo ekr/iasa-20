@@ -270,6 +270,155 @@
       for instance, as a subsidiary of ISOC or as a more free-standing, independent organisational
       unit.</t>
 
+      <section anchor="problemstmt" title="Problem Statement">
+
+	<t>The purpose of this part of the document is to describe a
+	few problem areas with enough detail to allow the comparison
+	of potential IASA structure updates (among themselves, as well
+	as comparison to the status quo). This is intentionally
+	illustrative, rather than an exhaustive enumeration of all
+	possible and perceived issues with the current structure and
+	implementation. Nevertheless, the examples are concrete and
+	real.  (For a fuller description of the perceived issues with
+	the current IASA arrangements, see (some other draft, some
+	other part of this draft?)).</t>
+
+	<section title="Lack of Clarity">
+
+	  <t>In general, as the IETF has grown and aged, an increasing
+	  lack of clarity exists in a number of specific areas. We
+	  discuss four areas where this lack of clarity is
+	  specifically acute: responsibility, representation,
+	  authority, and oversight.</t>
+
+	  <section title="Responsibility">
+
+	    <t>The line between the IETF and ISOC is not
+	    organizationally clear-cut, which has led to issues around
+	    transparency, allocation of staff time and priorities,
+	    budgeting, and clarity of who is responsible for what.</t>
+
+	    <t>Often, in can be unclear what part of the IETF or ISOC
+	    is responsible for a particular function. Things as simple
+	    as ensuring there is a lanyard sponsor/coordinator, but
+	    also functions as important as fundraising and sponsorship
+	    development can suffer from a lack of clear
+	    responsibility.</t>
+
+	  </section>
+
+	  <section title="Representation">
+
+	    <t>The respective roles of ISOC, the IETF chair, the IAOC,
+	    and the secretariat in representing the IETF to sponsors
+	    and donors and communicating with them are not clear.</t>
+
+	    <t>Having ISOC represent the IETF to sponsors and donors:
+
+	    <list style="symbols">
+	      <t>creates confusion about why the IETF does not
+	      represent itself,</t>
+	      <t>yields questions about why ISOC does not instead
+	      increase its IETF support and how donations can be
+	      guaranteed to be dedicated to the IETF, and</t>
+	      <t>can result in those soliciting sponsorships and
+	      donations having a lack of familiarity with IETF
+	      work.</t>
+	    </list>
+	    </t>
+	  </section>
+
+	  <section title="Authority">
+	    <t>Another significant problem concerns authority, and to
+	    what extent can IETF make decisions on its own in the
+	    current structure compared to decisions that require ISOC
+	    approval and agreement.</t>
+	  </section>
+
+	  <section title="Oversight">
+	    <t>The IAOC is the primary oversight body in the current
+	    IASA model, but there can be confusion or mismatches in
+	    roles. For example, the IAOC has an administrative staffer
+	    that is an ISOC employee, but does this role ultimately
+	    report to the IAOC committe, the IAD, or ISOC staff?</t>
+	  </section>
+
+	</section>
+
+	<section title="Lack of Resources">
+	  <t>IETF faces growing constraints on resources essential for
+	  IETF to function, notably in volunteers, staff, and
+	  time.</t>
+
+	  <section title="Volunteers">
+	    <t>As the IAD is the sole FTE for IETF, naturally the IASA
+	    arrangement has evolved to encompass a series of volunteer
+	    committees that help to work through issues such as
+	    finance, legal, meetings, technology management, requests
+	    for proposals, and sponsorship.  Volunteers have limited
+	    time and specific interests and there does not ever seem
+	    to be enough volunteers to effectively populate these
+	    committees.</t>
+	  </section>
+
+	  <section title="Staff">
+	    <t>IETF faces serious constraints on staff capacity under
+	    the current IASA model. The one IAD role and support from
+	    contractors have been used to assure that capacity needed
+	    is for the most part in place. However, it seems clear
+	    that the IAD role is overly complex and taxing for a
+	    single human at this point, necessitating measures such as
+	    providing an administrator for the IAOC to better run that
+	    body and their meetings.</t>
+	  </section>
+
+	  <section title="Time">
+	    <t>(JLH: Not sure what to highlight here.)</t>
+	  </section>
+
+	</section>
+
+	<section title="Lack of Transparency">
+	  <t>IAOC has typically been perceived to operate less
+	  transparently than what is the norm for IETF processes and
+	  other IETF leadership bodies.</t>
+
+	  <t>Lack of transparency has some roots in concerns about
+	  confidentiality of contract terms and business
+	  relationships, and fear of community reaction to
+	  administrative decisions.</t>
+
+	  <t>Requirements from the community about IAOC transparency
+	  expectations are not clear.</t>
+
+	</section>
+
+	<section title="Funding/Operating Model Mismatch and Rising Costs">
+
+	  <t>Meeting fees are currently an important source of
+	  revenue, but remote participation and other factors may be
+	  responsible for declining in-person meeting attendance going
+	  forward.  Even if fees were charged for remote
+	  participation, charging the same for remote and in-person
+	  attendance is unlikely to be a viable way to make up the
+	  difference.</t>
+
+	  <t>While there has been a lot of sponsor support for, e.g.,
+	  meeting hosting, getting support for the full sponsorship
+	  program is not easy.  The value to sponsors is not always
+	  obvious, the IETF community is sometimes critical or
+	  unappreciative, and the same sponsors get tapped again and
+	  again for many related but different opportunities.</t>
+
+	  <t>Relying heavily on meeting-based revenue is somewhat at
+	  odds with the fact that much of the IETF's work takes place
+	  outside of in- person meetings.</t>
+
+	  <t>The IETF is increasingly relying on professional services
+	  to support its activities, causing expenses to grow.</t>
+	</section>
+      </section>
+      
       <section anchor="goals" title="Goals">
 
         <t>The IASA redesign effort needs to address the main challenges listed above. More
