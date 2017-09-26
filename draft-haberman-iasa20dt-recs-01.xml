@@ -280,8 +280,7 @@
 	possible and perceived issues with the current structure and
 	implementation. Nevertheless, the examples are concrete and
 	real.  (For a fuller description of the perceived issues with
-	the current IASA arrangements, see (some other draft, some
-	other part of this draft?)).</t>
+	the current IASA arrangements, see TBD).</t>
 
 	<section title="Lack of Clarity">
 
@@ -333,6 +332,18 @@
 	    what extent can IETF make decisions on its own in the
 	    current structure compared to decisions that require ISOC
 	    approval and agreement.</t>
+
+	    <t>Example: Due to IETF's lack of legal status,
+	    contractual agreements must be signed by ISOC on behalf of
+	    the IETF.  There are occasions when a decision that is
+	    right for the IETF and desired by IETF leadership cannot
+	    be executed due to constraints posed by what ISOC can and
+	    cannot agree to itself. For example, when IETF sought to
+	    acquire a recent piece of software for business purposes,
+	    ISOC would initially not agree to entering into an
+	    agreement with the software provider. Ideally, IETF could
+	    make decisions free from operational and other constraints
+	    imposed by its relationship with ISOC.</t>
 	  </section>
 
 	  <section title="Oversight">
