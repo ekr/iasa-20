@@ -942,44 +942,13 @@
 	    normal operations to be run based on that, and would leave only true emergencies
 	    such as cancellation of meetings due to local emergencies for the backstop.</t>
 
-	    <t>Increased funding level.<vspace blankLines="1"/>
+	    <t>Appropriate funding level.<vspace blankLines="1"/>
 
-	    There are two reasons why it is desirable to increase the funding level from ISOC.
-	    First, IASA 2.0 itself will introduce permently slightly higher costs, as more functions
-	    are performed by staff and contractors. Secondly, the authors believe that the
-	    IETF continues to be not sufficiently funded even under the current arrangements,
-	    particularly against the backdrop of providing a host of commercially executed
-	    services. <vspace blankLines="1"/>
-
-	    Accounting improvements under category 1 above will lead to showing slightly
-	    higher numbers, but that is not an actual additional cost. Actual increased
-	    costs are however seen in the following areas: <vspace blankLines="1"/>
-
-	    (a) The increased staffing due to IASA 2.0 (1-2 persons, see Section 6.4). <vspace blankLines="1"/>
-
-	    (b) Other ongoing expenses related to the new organisation, for instance,
-	    legal costs (see Section 6.4). <vspace blankLines="1"/>
-
-	    (c) Currently underfunded services, particularly in area of volunteer efforts that
-	    we expect need to become more commercially driven in the future. <vspace blankLines="1"/>
-
-	    (d) We should assume that some sponsorship hits are likely over any given time
-	    period. They certainly have been, historically, for instance during industry
-	    downturns, or even events affecting a single large IETF-contributing
-	    corporation. <vspace blankLines="1"/>
-
-	    Historically, there have also been cases where a particular meeting location
-	    was desirable for the IETF but not so desirable from a sponsorship point of
-	    view. In the last four years, while IETF sponsorship revenue has continued
-	    to grow, budgeted estimates about the revenue have exceeded the actual
-	    revenue.<vspace blankLines="1"/>
-
-	    The authors estimate that the additional funding level would need to be
-	    in the neighborhood of TBD dollars per year. Actual estimates for this 
-	    should be worked in the IETF budgeting process, and changes agreed with the
-	    ISOC board. We expect that the 2018 process has been executed as closely
-	    following this as possible, but the long-term effects of IASA 2.0 would only
-	    take effect from 2019 onwards.</t>
+	    The IETF operations and funding level obviously need to
+	    match. The specific level is, however, not related to the IASA 2.0
+	    related organisational changes. Those organisatorial
+	    changes only make it hopefully easier to manage both the
+	    IETF operations and the funding.</t>
 
 	  </list></t>
 
@@ -1188,20 +1157,39 @@
 	costs.</t>
 
 	<t>All the suggested models imply some actual increases in expenditure and
-	financial resources on an ongoing basis. This is due to, for instance, shifting
+	financial resources on an ongoing basis. The following applies
+	generally to all chosen models:
+
+	<t>The increases are due to, for instance, shifting
 	more work to staff and contractors. For the staff changes, the primary position
 	actually being added is having both Executive Director and Operations Director,
 	instead of one IAD. We've already had a Legal Counsel and roles similar to the
 	Director of Fundraising and Communications Director. These chances coincide with
-	other personnel changes in IASA, as the experienced, long-term IAD is retiring.
-	Even from a learning curve point of view more people will be needed, but
-	in this case it also makes sense to have the organisation be less
-	dependent on one central person.</t>
+	other personnel changes in IASA, as the experienced, long-term
+	IAD is retiring and a long-term IETF Legal Counsel is also
+	changing.</t>
 
-	<t>Given the learning curve effect, and a new organisation, it is expected that the
+	<t>It is also expected that the
 	role of the Legal Counsel will also increase, e.g., in terms of reviewing
-	contracts. Separate organisations, or even clerarer separation of roles
-	between ISOC and IETF will bring more ongoing legal work as well.</t>
+	contracts.</t>
+
+	<t>For both the subsidiary model or the independent
+	orginisation model, there can be additional and potentially
+	significant costs. For example, having a full-time
+	communications director on staff means paying the person's
+	full salary, health insurance, worker's compensation, sick
+	pay, etc. In general, while under the ISOC model the IETF may
+	have been able to take a particular percentage of a person's
+	base costs, under a more independent arrangements the IETF
+	is an employer and liable for all associated costs at 100%.
+	Similarly, some current contracted or volunteer roles, if
+	turned to staff positions, can increase costs.<t>
+
+	<t>Audits, payroll, HR, office space, equipment - these are things we do
+	not currently account for in the IETF budget, that we wouldn't have to
+	pay for as a subsidiary (assuming we can share overhead with ISOC,
+	since that's part of the point), but that we would have to pay for as
+	an independent org.</t>
 
       </section>
 
