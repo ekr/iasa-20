@@ -440,7 +440,7 @@
         specifically, a new organisational structure needs to do at least the following:
 
         <list style="symbols">
-          <t>Protect the IETF's Culture & Technical Work: Ensure that future IASA organizational structure and 
+          <t>Protect the IETF's culture and technical work: Ensure that future IASA organizational structure and 
 		  processes preserves and protects
           the IETF's unique culture of individual contribution, clear separation of financial
           support from technical work, as well as rough consensus and running code.</t>
@@ -455,7 +455,7 @@
 		  of adjustments and control (e.g., staff resources). This also includes consideration of a new funding model and
 		the historical responsibility for the IETF that ISOC has always had.</t>
 		  
-		<t>Clarify Overall Roles & Respos</t>
+		<t>Clarify Overall Roles and Responsibilities</t>
 		
 		<t>Define a New Long-Term Funding Model: A redesign needs to propose a starting point for the
           financial arrangements between IETF and ISOC, either as they are now or changed in
@@ -464,7 +464,7 @@
           do not affect.</t>
 
 
-          <t>Define Support Staff Roles & Responsibilities: Define the roles of the oversight entities and staff/contractors to 
+          <t>Define Support Staff Roles and Responsibilities: Define the roles of the oversight entities and staff/contractors to 
 		  match the grown
           size of the tasks. Ensure that we have a structure that can adapt to future growth and
           other changes.</t>
@@ -1228,8 +1228,10 @@
 		    given the considerable time  that the IASA 2.0 Design Team has spend studying these 
 	    options, we would particularly like feedback on the draft recommendations below.</t>
 
-	    <section title="Draft Recommendations" anchor="conc_recs">
+	    <section title="Draft Recommendations">
 
+	      <t>The design team recommends the following:
+	      
       		<list style="symbols">
         	<t>Structure: XXX</t>
         	<t>Composition of Board: XXX</t>
