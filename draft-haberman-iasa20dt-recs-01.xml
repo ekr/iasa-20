@@ -1195,13 +1195,38 @@
       </section>
     </section>
 
-    <section title="Conclusions and recommendations" anchor="conc_recs">
+    <section title="Conclusions and Recommendations" anchor="conc_recs">
 
       <t>While there are some initial conclusions in the analysis in the previous
       sections, clearly more work is needed. In particular, we request and welcome thoughts and contributions
       from the IETF community, particularly regarding any potential missed
       options or the implications of options being considered here.</t>
+	    
+	    <t>Nevertheless, rather than leave all options open for consideration by the community, and 
+		    given the considerable time  that the IASA 2.0 Design Team has spend studying these 
+	    options, we would particularly like feedback on the draft recommendations below.</t>
 
+	    <section title="Draft Recommendations" anchor="conc_recs">
+
+      		<list style="symbols">
+        	<t>Structure: XXX</t>
+        	<t>Composition of Board: XXX</t>
+        	<t>Selection of Board: XXX</t>
+		<t>Staffing: XXXX</t>
+		<t>Long-Term Funding: The current level of annual funding from ISOC fluctuates from year-to-year. We propose 
+			creating more funding certainly by ISOC increasing IETF funding to roughly USD $3M per annum, indexed 
+			to rise with inflation annually. This will provide a more predictable revenue base with which the 
+			IETF can perform better long-term planning. ISOC should also commit to remain in their role as a 
+			financial backstop for any potential one-time issues (such a meeting cancelation due to a natural 
+			disaster).</t>
+		<t>IETF Endowment: The initial funding level target when this was created was USD $25M (is that correct?).
+			The current funding is at USD $X. We propose a 10-year endowment finding commitment from ISOC, with
+			a $2M annual contribution to this fund. In parallel, IETF and ISOC will partner to raise additional
+			funds from other organizations and individuals.</t>
+      		</list></t>
+
+    	   </section>
+	    
     </section>
 
     <section title="Acknowledgments" anchor="acks">
