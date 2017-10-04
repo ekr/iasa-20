@@ -407,7 +407,8 @@
 	<section title="Funding/Operating Model Mismatch and Rising Costs">
 
 	  <t>Meeting fees are currently an important source of
-	  revenue, but remote participation and other factors may be
+	  revenue, but the emergence of more viable remote participation tools 
+		  and other factors are likely
 	  responsible for declining in-person meeting attendance going
 	  forward.  Even if fees were charged for remote
 	  participation, charging the same for remote and in-person
@@ -415,18 +416,21 @@
 	  difference.</t>
 
 	  <t>While there has been a lot of sponsor support for, e.g.,
-	  meeting hosting, getting support for the full sponsorship
-	  program is not easy.  The value to sponsors is not always
+	  meeting hosting, getting support for the full costs of operating the IETF
+	   is not easy.  The costs are quite large, the value to sponsors is not always
 	  obvious, the IETF community is sometimes critical or
 	  unappreciative, and the same sponsors get tapped again and
 	  again for many related but different opportunities.</t>
 
-	  <t>Relying heavily on meeting-based revenue is somewhat at
+	  <t>In addition, relying heavily on meeting-based revenue is somewhat at
 	  odds with the fact that much of the IETF's work takes place
 	  outside of in- person meetings.</t>
 
 	  <t>The IETF is increasingly relying on professional services
-	  to support its activities, causing expenses to grow.</t>
+	  to support its activities, in order to more efficiently operate the IETF's 
+		  activities better enable IETF participants to contribute to the IETF's 
+		  core technical work rather than administrative and supporting activities work, 
+		  which is also causing expenses to grow.</t>
 	</section>
       </section>
       
