@@ -436,30 +436,48 @@
         specifically, a new organisational structure needs to do at least the following:
 
         <list style="symbols">
-          <t>Define the roles of IETF and ISOC in a way that helps the above structure be as clear
+          <t>Protect the IETF's Culture & Technical Work: Ensure that future IASA organizational structure and 
+		  processes preserves and protects
+          the IETF's unique culture of individual contribution, clear separation of financial
+          support from technical work, as well as rough consensus and running code.</t>
+		
+		<t>Improve the IETF's Technical Environment: Undertake changes to better enable technical contributors to focus more
+		on that work and less on administrative work or support activities. (NOTE: THIS IS NOT A FULLY FORMED THOUGHT 
+		AND THUS NOT ESPECIALLY WELL ARTICULATED AS OF YET)</t>
+		
+		<t>Define a New IETF-ISOC Relationship: Define the roles of IETF and ISOC in a way that helps the above structure be '
+			as clear
           as possible, in terms of who does what, how are things accounted for, and who is in charge
-          of adjustments and control (e.g., staff resources). A redesign needs to propose a starting point for the
+		  of adjustments and control (e.g., staff resources). This also includes consideration of a new funding model and
+		the historical responsibility for the IETF that ISOC has always had.</t>
+		  
+		<t>Clarify Overall Roles & Respos</t>
+		
+		<t>Define a New Long-Term Funding Model: A redesign needs to propose a starting point for the
           financial arrangements between IETF and ISOC, either as they are now or changed in
           some fashion. It must also be clear to people outside the IETF and ISOC organisation
           (e.g., sponsors) what the arrangements are and what their contributions affect and
           do not affect.</t>
 
 
-          <t>Define the roles of the oversight entities and staff/contractors to match the grown
+          <t>Define Support Staff Roles & Responsibilities: Define the roles of the oversight entities and staff/contractors to 
+		  match the grown
           size of the tasks. Ensure that we have a structure that can adapt to future growth and
           other changes.</t>
 
-          <t>Accommodate strategic, operational, and execution tasks within the administrative
+          <t>Re-define the Role of the IETF Community in Relation to Administrative Activities: Accommodate strategic, operational, 
+		  and execution tasks within the administrative
 	  efforts, and take into account the limited availability of IETF volunteers
           for performing administrative tasks. The new design needs to ensure that overload in such things
-          as operational decisions does not affect the ability to drive strategic changes.</t>
+          as operational decisions does not affect the ability to drive strategic changes. Focus on the lines between responsibility, representation,
+	  authority, and oversight.</t>
 
-          <t>Set expectations and limits of those expectations on the different parts of the system.
+          <t>Define Transparency Requirememts from IETF Administration to the IETF Community: Set expectations and limits of those expectations on the different parts of the system.
           This includes but is not limited to community expectations of transparency.</t>
 
-          <t>Ensure that future IASA organizational structure and processes preserves and protects
-          the IETF's unique culture of individual contribution, clear separation of financial
-          support from technical work, as well as rough consensus and running code.</t>
+		<t>Define a New IAOC/IASA Team: Determine what structure we need and determine a transition plan.</t>
+		
+		
         </list></t>
       </section>
     </section>
