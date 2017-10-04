@@ -782,6 +782,188 @@
 	and outside specialists. For instance, a Legal Counsel, to assist the IASA on legal matters as well as contracting.</t>
 
       </section>
+
+      <section anchor="funding" title="Funding">
+
+	<t>This section discusses the overall changes to IETF funding sources, the level of
+	funding, and how the level of funding is agreed with ISOC. And how the IETF
+	can further develop its funding strategies over time.</t>
+
+	<t>None of the adminstrative arrangements proposed in this document suggest that
+	the fundamental funding arrangements change as a part of the reorganisation.
+	ISOC will continue to support the IETF. There are, however, factors that affect
+	the level of funding. Also, a better administrative organisation will be more
+	capable of adjusting its strategies in the future in all areas, including
+	funding. Any significant future changes require a capability of the IASA to
+	focus on such strategic initiatives, which IASA 2.0 will help enable.</t>
+
+	<t>It is important to ensure that IETF funding is arranged in a manner that is
+	satisfactory to the IETF and ISOC communities. Any changes to arrangements are
+	something that should be mutually agreed with both organisations. Further
+	comments and observations are welcome.</t>
+
+	<section title="One-time costs">
+
+	  <t>There are one time costs associated with an administrative change, regardless of
+	  which of the options discussed in this document are chosen. All the models in
+	  the draft will have associated costs - e.g., to hire additional staff, cover
+	  legal fees, etc.</t>
+
+	  <t>Transition expenses should be considered separately from ongoing
+	  expenses/funding needs. It should be noted that ISOC has promised to cover those
+	  costs <xref target="Camarillo"/>.</t>
+
+	</section>
+	
+	<section title="Funding sources">
+
+	  <t>The key sources of IETF funding are unlikely to radically change in
+	  the short or medium term. This document suggests that ISOC continues as one of
+	  our primary funding source, as it has been. Other primary sources of funding for
+	  an organization like the IETF are well known, and we are already tapping into
+	  all of the most common ones - corporations, individuals, and funds derived from
+	  the registration of domain names. It is possible that we could develop
+	  additional funding sources in the future (e.g., charitable foundations), but
+	  those will require strategic planning and staffing, for which we need to get
+	  IASA 2.0 in place first.</t>
+
+	  <t>It's worth considering short-term (3-5 years) and long-term (5-10+ years) plans
+	  differently. In the short term, we can continue to rely on our existing funding
+	  sources regardless of which organizational model we end up with for IASA 2.0,
+	  including the independent organization model. The role of ISOC as providing the
+	  funding to the IETF and agreeing to help us if we get to trouble should stay
+	  under all of the options, until or if a future funding model change changes
+	  that.</t>
+
+	  <t>Developing a sustainable long-term funding plan for the IETF will be a
+	  key project during the early months and years post-IASA 2.0. Ultimately a
+	  healthier funding model will require raising more funds from the organizations
+	  that benefit from IETF standards and whose employees participate in the IETF,
+	  and may result in less reliance on ISOC funds. Such a model might incorporate
+	  meeting-based sponsorships as we have traditionally had, other kinds of
+	  sponsorships, a fully funded endowment, a different registration fee structure,
+	  or other funding vehicles. But we are not in a position at present to develop
+	  such a model and carry out the fundraising. We do not have sufficient staff,
+	  skills, or resources to do it. We need to complete IASA 2.0 in order to be in a
+	  position to do it. We are fortunate that we can rely on additional funds from
+	  ISOC in the short term in order to bootstrap that process. As the old saying
+	  goes, you have to spend money to make money.</t>
+	  
+	  <t>This isn't to say that we are not already considering how to make the funding
+	  model more sustainable. We have new sponsorship staff this year, we chartered
+	  the IAOC sponsorship committee and it has been discussing new ideas for raising
+	  sponsorship funds, and we'll adopt changes to the present model as those ideas
+	  mature. We'll also cut costs where we can, as always. But we can not expect
+	  volunteers and folks working part-time on current fundraising targets to also
+	  take on the additional substantial project of revamping the entire funding model
+	  and having the additional funds show up on short order.</t>
+
+	</section>
+	
+	<section title="Funding level">
+
+	  <t>Outside the discussion of sources, the level of funding has also been an issue.
+	  The IETF is well supported by ISOC who have ultimately also been the backstop
+	  when income has fallen below expectations. The IETF is also supported by a
+	  number of other sponsors, whose significant contributions provide a big part of
+	  the income.</t>
+
+	  <t>However, at the same time there is an overall rising cost level that affects the
+	  services IETF uses, there is community desire for supporting important new
+	  services, technology that enables more participants to choose to participate
+	  remotely, and industry pressures on optimising their costs. As the organisation
+	  matures, and as more of the services that IETF provides come from professional
+	  sources, it becomes more difficult to rely on significant fraction of any individual
+	  volunteer time. This is visible, for instance, in our tools efforts, which have
+	  become more commercially driven in the last years.</t>
+
+	  <t>It is fair to say that IETF continues to be underfunded in the face of these
+	  trends. In addition, IETF budgets have in recent years been relatively
+	  optimistic. IETF is fortunate that ISOC has been there to provide a backstop
+	  against surprises and the cost trends, but ideally, budgets should be realistic
+	  and exceptions more exceptional than they are today.</t>
+
+	  <t>To correct this, four things are needed:
+
+	  <list style="numbers">
+
+	    <t>Improve the accounting of IETF-related costs<vspace blankLines="1"/>
+
+	    The process that has gone on for several years to better reflect actual
+	    IETF-related costs in the IETF (and ISOC) budget will continue, and depending on
+	    the chosen model, reach a much more concrete and clear structure. This will not
+	    as such, however, change the actual amount of expenditure
+	    or income.
+	    <vspace blankLines="1"/>
+
+	    Note that the IETF already accounts for the expenses related to key IETF support
+	    staff (e.g., IAD, communications, etc).</t>
+
+	    <t>Implement a more realistic budgeting process.<vspace blankLines="1"/>
+
+	    Assumptions about participant numbers, for instance, and the amount of
+	    sponsorship available per meeting need to reflect reality better.<vspace blankLines="1"/>
+
+	    This should also involve appropriate decisions about what services
+	    are essential for the IETF community and which are not.<vspace blankLines="1"/>
+	    
+	    The improved budgeting processes have been a goal of the 2018
+	    process, and need to be also going forward.</t>
+
+	    <t>ISOC as a funder and backstop.<vspace blankLines="1"/>
+
+	    ISOC continues to be the major IETF funding source, as well as the backstop
+	    against emergencies. But a different arrangement regarding these two roles would
+	    make the situation better manageable.<vspace blankLines="1"/>
+
+	    Dedicated, realistically sufficient funds allocated to the IETF would allow the
+	    normal operations to be run based on that, and would leave only true emergencies
+	    such as cancellation of meetings due to local emergencies for the backstop.</t>
+
+	    <t>Increased funding level.<vspace blankLines="1"/>
+
+	    There are two reasons why it is desirable to increase the funding level from ISOC.
+	    First, IASA 2.0 itself will introduce permently slightly higher costs, as more functions
+	    are performed by staff and contractors. Secondly, the authors believe that the
+	    IETF continues to be not sufficiently funded even under the current arrangements,
+	    particularly against the backdrop of providing a host of commercially executed
+	    services. <vspace blankLines="1"/>
+
+	    Accounting improvements under category 1 above will lead to showing slightly
+	    higher numbers, but that is not an actual additional cost. Actual increased
+	    costs are however seen in the following areas: <vspace blankLines="1"/>
+
+	    (a) The increased staffing due to IASA 2.0 (1-2 persons, see Section 6.4). <vspace blankLines="1"/>
+
+	    (b) Other ongoing expenses related to the new organisation, for instance,
+	    legal costs (see Section 6.4). <vspace blankLines="1"/>
+
+	    (c) Currently underfunded services, particularly in area of volunteer efforts that
+	    we expect need to become more commercially driven in the future. <vspace blankLines="1"/>
+
+	    (d) We should assume that some sponsorship hits are likely over any given time
+	    period. They certainly have been, historically, for instance during industry
+	    downturns, or even events affecting a single large IETF-contributing
+	    corporation. <vspace blankLines="1"/>
+
+	    Historically, there have also been cases where a particular meeting location
+	    was desirable for the IETF but not so desirable from a sponsorship point of
+	    view. In the last four years, while IETF sponsorship revenue has continued
+	    to grow, budgeted estimates about the revenue have exceeded the actual
+	    revenue.<vspace blankLines="1"/>
+
+	    The authors estimate that the additional funding level would need to be
+	    in the neighborhood of TBD dollars per year. Actual estimates for this 
+	    should be worked in the IETF budgeting process, and changes agreed with the
+	    ISOC board. We expect that the 2018 process has been executed as closely
+	    following this as possible, but the long-term effects of IASA 2.0 would only
+	    take effect from 2019 onwards.</t>
+
+	  </list></t>
+
+	</section>
+      </section>
+
     </section>
 
     <section anchor="analysis" title="Analysis">
@@ -979,34 +1161,25 @@
 
       <section title="Financial Impacts">
 
-        <t>There are two different classes of financially-relevant changes. First, both the ISOC interface change and
-        staff changes will imply changes in what is being accounted for in budgets and reports,
-        even in cases where the actual work or the number of people stays the same. That is,
-	depending on the chosen overall organisation model, some items that are currently in ISOC budget
-	may move to become IETF budget items, but the total amount of expenditure stays the same. Note that the
-	IETF already accounts for the expenses related to key IETF support staff (e.g., IAD, communications, etc).</t>
+	<t>There are several different classes of financially-relevant changes.
+	Funding-related changes have been covered in <xref target="funding"/>, as have transition
+	costs.</t>
 
-	<t>Secondly,there are some actual increases in required financial resources.
-        We expect all the alternatives to lead to somewhat higher
-        funding needs, and in fact shifting more work to staff from
-        volunteers is one of the goals. For the staff changes,
-        the primary position actually being added is
-        having both Executive Director and Operations Director,
-        instead of one IAD. We've already had a Legal Counsel and
-        roles similar to the Director of Fundraising and
-        Communications Director. These chances coincide with other
-        personnel changes in IASA, as the experienced, long-term IAD
-        is retiring. Even from a learning curve point of view more
-        people will be needed, but in this case it also makes sense to
-        have the organisation be less dependent on one central
-        person.</t>
+	<t>All the suggested models imply some actual increases in expenditure and
+	financial resources on an ongoing basis. This is due to, for instance, shifting
+	more work to staff and contractors. For the staff changes, the primary position
+	actually being added is having both Executive Director and Operations Director,
+	instead of one IAD. We've already had a Legal Counsel and roles similar to the
+	Director of Fundraising and Communications Director. These chances coincide with
+	other personnel changes in IASA, as the experienced, long-term IAD is retiring.
+	Even from a learning curve point of view more people will be needed, but
+	in this case it also makes sense to have the organisation be less
+	dependent on one central person.</t>
 
-        <t>Given the learning curve effect, and a new organisation, it is expected that the role
-        of the Legal Counsel will also increase, e.g., in terms of reviewing contracts.</t>
-
-	<t>It is important to ensure that IETF funding is arranged in
-	a manner that is satisfactory to the IETF and ISOC
-	communities. Further comments and observations are welcome.</t>
+	<t>Given the learning curve effect, and a new organisation, it is expected that the
+	role of the Legal Counsel will also increase, e.g., in terms of reviewing
+	contracts. Separate organisations, or even clerarer separation of roles
+	between ISOC and IETF will bring more ongoing legal work as well.</t>
 
       </section>
 
@@ -1049,6 +1222,15 @@
       <?rfc include="reference.I-D.daigle-iasa-retrospective.xml" ?>
       <?rfc include="reference.I-D.hall-iasa20-workshops-report.xml" ?>
       <?rfc include="reference.I-D.arkko-ietf-iasa-thoughts.xml" ?>
+      <reference anchor="Camarillo">
+        <front>
+          <title>ISOC to cover potential re-structuring costs related to IASA 2.0</title>
+          <author initials="G." surname="Camarillo"></author>
+<date month='September' year='2017 (https://www.ietf.org/mail-archive/web/ietf/current/msg104265.html)'/>
+        </front>
+        <format type='HTML'
+		target='https://www.ietf.org/mail-archive/web/ietf/current/msg104265.html'/>
+      </reference>
     </references>
 
   </back>
