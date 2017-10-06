@@ -80,7 +80,7 @@
       division of responsibilities between IETF and ISOC.</t>
 
       <t>The IETF community has discussed and continues to discuss these topics, most
-      recently on the "IASA20" mailing list and BOF at IETF98. Alissa Cooper, the
+      recently on the "IASA 2.0" mailing list and BOF at IETF98. Alissa Cooper, the
       Chair of the IETF, convened a small design team to start evaluating potential
       options going forward. The purpose of the design team is to provide material
       that informs the community discussion, both in terms of providing a bit more
@@ -93,8 +93,8 @@
       or making any decisions. This draft, the output of the design team's
       considerations, has no particular official standing.</t>
 
-      <t>Once an initial version of this draft is published, the authors
-      would like to ask feedback particularly on two aspects:
+      <t>An initial version of this draft was published, after which the authors
+      sought feedback particularly on two aspects:
       <list style="symbols">
         <t>If the set of options outlined in the draft covers the
         options that should be looked at.</t>
@@ -102,11 +102,11 @@
         correct.</t>
       </list></t>
 
-      <t>Once this discussion completes, it becomes feasible to discuss what the
-      conclusions or recommendations ought to be, and which recommendations the
-      community should adopt. It should also be noted that IETF administrative
+      <t>Following discussion before, during, and after IETF-99, it has become feasible to discuss more
+      concrete conclusions and which recommendations the
+      community should consider adopting. It should also be noted that IETF administrative
       matters have been organised jointly with ISOC, and it is important that
-      ISOC be involved in the process of looking at the reorganisation.</t>
+      ISOC will continue to be involved in the process of looking at the reorganisation.</t>
 
       <t>As a base for this work there was a good articulation of the set of problems we
       are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and
@@ -226,21 +226,22 @@
         </t>
 
         <t>Community expectations of transparency of administrative actions
-        and execution from the administration could be better aligned.</t>
+        and execution from the administration could be improved.</t>
 
-        <t>Lack of predictably of funding levels combined with regular shortfalls.
+        <t>Lack of predictably of funding levels combined with regular shortfalls due to fluctuations in revenue from IETF meetings.
 	<vspace blankLines="1"/>
 
         We face continued challenges related to funding IETF activities on a background of
 	increasing costs. We must properly manage expectations about locations of meetings
-        (broadening of IETF engagement, sponsor preferences) while balancing against
+        (broadening of IETF engagement, sponsor preferences, which can lead to increased costs 
+		or decreased attendance for a specific meeting) while balancing against
         operational practicalities.  And we must ensure that we continue to not be influenced by
         funding entities on the technical work of the IETF.</t>
 
       </list></t>
 
       <t>Of the items above, the first two are largely to be addressed by structural
-      updates, while the last two groups are more about discussing tradeoffs and
+      updates, while the others are more about discussing tradeoffs, improving work processes, and
       updating documented expectations.</t>
     </section>
 
@@ -436,50 +437,66 @@
       
       <section anchor="goals" title="Goals">
 
-        <t>The IASA redesign effort needs to address the main challenges listed above. More
+        <t>The IASA redesign effort needs to address the main issues listed above in the <xref target="problemstmt"/>. More
         specifically, a new organisational structure needs to do at least the following:
 
         <list style="symbols">
-          <t>Protect the IETF's culture and technical work: Ensure that future IASA organizational structure and 
-		  processes preserves and protects
-          the IETF's unique culture of individual contribution, clear separation of financial
-          support from technical work, as well as rough consensus and running code.</t>
+          <t>Protect the IETF's Culture and Technical Work: Ensure that future IASA organizational structure and 
+		  processes preserves and protects the IETF's unique culture of individual contribution, clear 
+		  separation of financial support from technical work, as well as the "rough consensus and running code" approach to
+		  the development of open Internet standards.</t>
 		
-		<t>Improve the IETF's Technical Environment: Undertake changes to better enable technical contributors to focus more
-		on that work and less on administrative work or support activities. (NOTE: THIS IS NOT A FULLY FORMED THOUGHT 
-		AND THUS NOT ESPECIALLY WELL ARTICULATED AS OF YET)</t>
+	  <t>Improve the IETF's Technical Environment: Undertake changes to better enable technical contributors to focus more
+		on that technical work and less on administrative work or support activities. This could for example mean directing more 
+		  financial resources towards the creation of new or improvement of existing tools, which might be produced by 
+		  contractors rather than solely by volunteers. As a result, volunteers could instead focus on developing the 
+		  standards themselves. Thus, if the core competency of IETF attendees and their reason of participating in the IETF 
+		  is to develop standards, then create an environment where they can focus exclusively on that activity and delegate 
+		  to contractors, staff, or other resources the responsibility for creating and maintaining tools and processes to 
+		  support this activity.</t>
 		
-		<t>Define a New IETF-ISOC Relationship: Define the roles of IETF and ISOC in a way that helps the above structure be '
-			as clear
-          as possible, in terms of who does what, how are things accounted for, and who is in charge
-		  of adjustments and control (e.g., staff resources). This also includes consideration of a new funding model and
-		the historical responsibility for the IETF that ISOC has always had.</t>
+	  <t>Define a New IETF-ISOC Relationship: Define the roles of IETF and ISOC in a way that helps the above structure be 
+		  as clear as possible, in terms of who does what, how are things accounted for, and who is in charge
+		  of adjustments and control (e.g., staff resources). This also includes consideration of a new funding model 
+		  that takes into account the historical responsibility for the IETF that ISOC has had since its inception.</t>
 		  
-		<t>Clarify Overall Roles and Responsibilities</t>
+	  <t>Clarify Overall Roles and Responsibilities: Ensure that all staff, contractor, and volunteer roles are clearly documented. 
+		This necessarily includes documenting how each of these parties may interact or interface with one another in order to 
+		  conduct and support the business of the IETF. This also includes documenting key work processes, decision-making 
+		  processes and authority (such as pertaining to meeting venue selection), etc. A key objective is to minimize ambiguity 
+		and uncertainty so that it is clear who is responsible for what and who has the power to make certain decisions.</t>
 		
-		<t>Define a New Long-Term Funding Model: A redesign needs to propose a starting point for the
-          financial arrangements between IETF and ISOC, either as they are now or changed in
-          some fashion. It must also be clear to people outside the IETF and ISOC organisation
-          (e.g., sponsors) what the arrangements are and what their contributions affect and
-          do not affect.</t>
+	  <t>Define a New Long-Term Funding Model: A redesign needs to update and improve the financial arrangement 
+		  between IETF and ISOC. It must also be clear to people outside the IETF and ISOC organisations (e.g., sponsors) 
+		  what the arrangements are and what their contributions affect and do not affect.</t>
 
+          <t>Define Support Staff Roles and Responsibilities: Very clearly define the roles of the oversight entities and 
+		  staff/contractors to match the expanded work scope facing the IETF. Ensure that any changes create a structure that 
+		  can adapt flexibly to future growth and other changes (including changes in IETF community expectations, 
+		  such as increased transparency or more rapid decision-making).</t>
 
-          <t>Define Support Staff Roles and Responsibilities: Define the roles of the oversight entities and staff/contractors to 
-		  match the grown
-          size of the tasks. Ensure that we have a structure that can adapt to future growth and
-          other changes.</t>
+          <t>Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities 
+		  for support staff and volunteer roles are clarified more precisely, the role of the IETF community in 
+		  relation to those staff and voluneer roles must be better defined. This should acknowlege the limited 
+		  time and availability of IETF volunteers, better defining expectations around oversight of and involvement 
+		  in strategic, operational, and execution tasks within the administrative efforts. The new design needs to 
+		  ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated
+		   to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on. 
+		  In particulat, this should focus on clearly documenting the lines between responsibility, representation, 
+		  authority, and oversight.</t>
 
-          <t>Re-define the Role of the IETF Community in Relation to Administrative Activities: Accommodate strategic, operational, 
-		  and execution tasks within the administrative
-	  efforts, and take into account the limited availability of IETF volunteers
-          for performing administrative tasks. The new design needs to ensure that overload in such things
-          as operational decisions does not affect the ability to drive strategic changes. Focus on the lines between responsibility, representation,
-	  authority, and oversight.</t>
+          <t>Define Improved Transparency Requirememts: The general level of transparency and information-sharing between 
+		  IETF administrative staff and groups to the IETF community must be improved. This includes improving the timeliness 
+		  of sharing of information and decisions, as well as seeking comment on prospective decisions. As the same time, 
+		  we need to reset expectations around delegated authority so that once staff or an administrative support organization 
+		  has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as 
+		to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making. However, 
+		it is clear that enabling a group or staff to act within their delegated authority depends upon more clear definition 
+		of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is 
+		  built upon all of those things over time).</t>
 
-          <t>Define Transparency Requirememts from IETF Administration to the IETF Community: Set expectations and limits of those expectations on the different parts of the system.
-          This includes but is not limited to community expectations of transparency.</t>
-
-		<t>Define a New IAOC/IASA Team: Determine what structure we need and determine a transition plan.</t>
+	  <t>Define a New IASA 2.0 Team: Determine what new IASA structure we need and define a transition plan from the model the IETF 
+		  has today to the new structure.</t>
 		
 		
         </list></t>
@@ -512,7 +529,8 @@
           <t>In the IASA++ option, the IETF and ISOC maintain the current structural
           relationship.  This means that the IETF remains an organized activity of
           ISOC, ISOC maintains funds and contracting authority on behalf of the
-          IETF, and all IASA staff are ISOC employees.</t>
+          IETF, and all IASA staff are ISOC employees. In essence, this is today's model 
+		with very minor improvements.</t>
 
           <t>While the relationship remains the same, the IETF and ISOC will make
           improvements to the relationship in order to enhance the functionality of the
@@ -567,7 +585,8 @@
         <section anchor="option2" title="ISOC Subsidiary">
 
           <t>In this option, an ISOC subsidiary would be created as the new legal
-          home of the IETF.  A subsidiary can have its own bank account, by-laws,
+          home of the IETF, similar to how the Public Interest Registry (PIR) is 
+		  organized within ISOC.  A subsidiary can have its own bank account, by-laws,
           charter, board of directors/trustees, staff, and corporate identity. As a
           subsidiary of ISOC, the IETF and ISOC can share overhead and
           resources. The IETF would likely rely heavily on contractors for most
@@ -594,14 +613,15 @@
 	  discussion:
 
 	  <list style="symbols">
-            <t>Eliminate the IETF Trust and have the IETF subsidiary assume
+            <t>Eliminate the IETF Trust (or organize it within the new IETF organization) 
+		    and have the IETF subsidiary assume
             responsibility for the IETF's intellectual property rights (IPR). This
 	    would simplify the overall structure, but would also bundle the IPR with 
 	    the rest of the IETF operations. Note that the IETF Trust currently holds IPR also on
 	    behalf of the users of IANA.</t>
             <t>Transfer existing ISOC funds earmarked for the IETF to the subsidiary's
-            bank account, and have future IETF income held in that subsidiary's bank
-            account.</t>
+            bank account(s), and have future IETF income held in that subsidiary's bank
+            account(s).</t>
           </list></t>
 
         </section>
