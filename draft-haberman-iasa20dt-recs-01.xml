@@ -833,7 +833,8 @@
 
 	<t>None of the adminstrative arrangements proposed in this document suggest that
 	the fundamental funding arrangements change as a part of the reorganisation.
-	ISOC will continue to support the IETF. There are, however, factors that affect
+	ISOC will continue to support the IETF, though perhaps with
+	means that provide better budgetary stability. There are also factors that affect
 	the level of funding. Also, a better administrative organisation will be more
 	capable of adjusting its strategies in the future in all areas, including
 	funding. Any significant future changes require a capability of the IASA to
@@ -857,7 +858,7 @@
 
 	</section>
 	
-	<section title="Funding sources">
+	<section title="Funding Sources and Stability">
 
 	  <t>The key sources of IETF funding are unlikely to radically change in
 	  the short or medium term. This document suggests that ISOC continues as one of
@@ -877,7 +878,19 @@
 	  under all of the options, until or if a future funding model change changes
 	  that.</t>
 
-	  <t>Developing a sustainable long-term funding plan for the IETF will be a
+	  <t>While ISOC continues to support IETF financially as they
+	  have previously, the different reorganisation options affect
+	  the legal, contractual, and accounting related
+	  details. While continuing as-is is possible, adopting a a
+	  more stable and predicatable allocation of funding is
+	  desirable (see <xref target="fundinglevel"/>, and in the
+	  subsidiary and independent options formal contracts about
+	  the funding are also necessary. The exact details of those
+	  contracts and contracting parties are for further study, but
+	  they do not need to change the fundamental arrangement that
+	  is in place today.</t>
+
+	  <t>More long-term, developing a sustainable funding plan for the IETF will be a
 	  key project during the early months and years post-IASA 2.0. Ultimately a
 	  healthier funding model will require raising more funds from the organizations
 	  that benefit from IETF standards and whose employees participate in the IETF,
@@ -891,18 +904,18 @@
 	  ISOC in the short term in order to bootstrap that process. As the old saying
 	  goes, you have to spend money to make money.</t>
 	  
-	  <t>This isn't to say that we are not already considering how to make the funding
-	  model more sustainable. We have new sponsorship staff this year, we chartered
-	  the IAOC sponsorship committee and it has been discussing new ideas for raising
-	  sponsorship funds, and we'll adopt changes to the present model as those ideas
-	  mature. We'll also cut costs where we can, as always. But we can not expect
+	  <t>This isn't to say that the IETF not already considering how to make the funding
+	  model more sustainable. The IAOC has new sponsorship staff this year, the
+	  the IAOC sponsorship committee was recently chartered, and it has been discussing new ideas for raising
+	  sponsorship funds. Changes to the present model will be adopted as those ideas
+	  mature. IETF can cut some costs. But we can not expect
 	  volunteers and folks working part-time on current fundraising targets to also
 	  take on the additional substantial project of revamping the entire funding model
 	  and having the additional funds show up on short order.</t>
 
 	</section>
 	
-	<section title="Funding level">
+	<section anchor="fundinglevel" title="Funding level">
 
 	  <t>Outside the discussion of sources, the level of funding has also been an issue.
 	  The IETF is well supported by ISOC who have ultimately also been the backstop
