@@ -1241,21 +1241,53 @@
 	      <t>The design team recommends the following:
 	      
       		<list style="symbols">
-        	<t>Structure: XXX</t>
-        	<t>Composition of Board: XXX</t>
-        	<t>Selection of Board: XXX</t>
-		<t>Staffing: XXXX</t>
+		<t>Structure: ISOC Subsidiary. This preserves our longstanding and beneficial association with ISOC but takes 
+			important steps to better define roles and responsibilities, creates greater independence for the IETF under  
+			the ISOC umbrella, and can put the IETF on a path towards greater self-sufficiency.</t>
+        	<t>Composition of Board: Board of 9 people (odd number preferred). Assuming a board of 9, then 
+			3 members to be selected via the IETF NomCom, 3 members to be selected by the board itself, and 3 members to 
+			be selected by ISOC. Selections would be confirmed by the IAB, or perhaps the IESG. Board members 
+			would serve for 2 or 3 year terms, and may be term-limited to no more than two or three consecutive terms. 
+			An objective is to confidence that there is IETF oversight but also lets the board select people who 
+			bring necessary business skills and independence, and thus may be unknown to or less known to the IETF (and 
+			for which the IETF NomCom may be unequipped to assess given their technical backgrounds and focus on 
+			selecting primarily for technical skill sets).</t>
+		<t>Staffing: Between IETF-100 and IETF-101, document each specific staff and/or contractor role and map out all 
+			responsibilities.</t>
 		<t>Long-Term Funding: The current level of annual funding from ISOC fluctuates from year-to-year. We propose 
-			creating more funding certainly by ISOC increasing IETF funding to roughly USD $3M per annum, indexed 
-			to rise with inflation annually. This will provide a more predictable revenue base with which the 
+			creating more funding certainly in one of two potential ways, which need further discussion with ISOC. 
+			The first option is to agree on a percentage of ISOC revenue. The second option is to increase IETF funding 
+			to roughly a new flat amount above which IETF has historically received, indexed to rise with inflation 
+			annually. The objective of either option is to provide a more predictable revenue base with which the 
 			IETF can perform better long-term planning. ISOC should also commit to remain in their role as a 
 			financial backstop for any potential one-time issues (such a meeting cancelation due to a natural 
 			disaster).</t>
-		<t>IETF Endowment: The initial funding level target when this was created was USD $25M (is that correct?).
-			The current funding is at USD $X. We propose a 10-year endowment finding commitment from ISOC, with
-			a $2M annual contribution to this fund. In parallel, IETF and ISOC will partner to raise additional
-			funds from other organizations and individuals.</t>
+		<t>IETF Endowment: Either via a new long-term funding agreement with ISOC or as a standalone matter, 
+			we believe a 10-year plan to fully fund the IETF endowment should be a key objective. Once full 
+			funding is received, then theoretically the income from the endowment could provide funding for most or 
+			perhaps even all of the IETF's operating expenses, should ISOC suffer a decline in their primary revenue 
+			source (which is from PIR, from .ORG domain name registrations).</t>
       		</list></t>
+
+    	   </section>
+	    
+	    <section title="Transition Plan" anchor="transition">
+
+		    <t>Following feedback we receive before and during the IETF-100 meeting, we will develop a detailed transition 
+		    plan and include that here. We can then seek feedback on the transition plan between the 100th and 101st IETF 
+		    meetings, with the goal of an actionable recommendation for how to effect the transition presented at IETF-101.</t>
+		    
+		    <t>The transition plan should address items such as the following (and we seek suggestions on areas we may have 
+		    missed):</t><list style="symbols">
+        				<t>Volunteer organisational transition plan and timeframe</t>
+        				<t>Legal, financial, and administrative actions</t>
+        				<t>Staffing actions (e.g. job descriptions)</t>
+		    			<t>Documentation actions (e.g. roles & responsibilities, updates to RFCs)</t>
+		    			<t>Near-term goals for the new board (e.g. develop and release a budget within 90 
+						days of formation)</t>
+					<t>Other</t>
+      				</list></t>
+		    
 
     	   </section>
 	    
