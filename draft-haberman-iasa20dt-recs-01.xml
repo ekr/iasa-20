@@ -1246,7 +1246,7 @@
       options or the implications of options being considered here.</t>
 	    
 	    <t>Nevertheless, rather than leave all options open for consideration by the community, and 
-		    given the considerable time  that the IASA 2.0 Design Team has spend studying these 
+		    given that the IASA 2.0 Design Team has studied these 
 	    options, we would particularly like feedback on the draft recommendations below.</t>
 
 	    <section title="Draft Recommendations">
@@ -1261,7 +1261,7 @@
 			3 members to be selected via the IETF NomCom, 3 members to be selected by the board itself, and 3 members to 
 			be selected by ISOC. Selections would be confirmed by the IAB, or perhaps the IESG. Board members 
 			would serve for 2 or 3 year terms, and may be term-limited to no more than two or three consecutive terms. 
-			An objective is to confidence that there is IETF oversight but also lets the board select people who 
+			An objective is to be confident that there is IETF oversight but also lets the board select people who 
 			bring necessary business skills and independence, and thus may be unknown to or less known to the IETF (and 
 			for which the IETF NomCom may be unequipped to assess given their technical backgrounds and focus on 
 			selecting primarily for technical skill sets).</t>
