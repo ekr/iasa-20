@@ -1191,7 +1191,7 @@
 
 	<t>All the suggested models imply some actual increases in expenditure and
 	financial resources on an ongoing basis. The following applies
-	generally to all chosen models:
+	generally to all chosen models:</t>
 
 	<t>The increases are due to, for instance, shifting
 	more work to staff and contractors. For the staff changes, the primary position
@@ -1216,7 +1216,7 @@
 	base costs, under a more independent arrangements the IETF
 	is an employer and liable for all associated costs at 100%.
 	Similarly, some current contracted or volunteer roles, if
-	turned to staff positions, can increase costs.<t>
+	turned to staff positions, can increase costs.</t>
 
 	<t>Audits, payroll, HR, office space, equipment - these are things we do
 	not currently account for in the IETF budget, that we wouldn't have to
@@ -1291,11 +1291,11 @@
 		    meetings, with the goal of an actionable recommendation for how to effect the transition presented at IETF-101.</t>
 		    
 		    <t>The transition plan should address items such as the following (and we seek suggestions on areas we may have 
-		    missed):</t><list style="symbols">
+		    missed):<list style="symbols">
         				<t>Volunteer organisational transition plan and timeframe</t>
         				<t>Legal, financial, and administrative actions</t>
         				<t>Staffing actions (e.g. job descriptions)</t>
-		    			<t>Documentation actions (e.g. roles & responsibilities, updates to RFCs)</t>
+		    			<t>Documentation actions (e.g. roles and responsibilities, updates to RFCs)</t>
 		    			<t>Near-term goals for the new board (e.g. develop and release a budget within 90 
 						days of formation)</t>
 					<t>Other</t>
