@@ -287,7 +287,12 @@
 	    IASA model, but there can be confusion or mismatches in
 	    roles. For example, the IAOC has an administrative staffer
 	    that is an ISOC employee, but does this role ultimately
-	    report to the IAOC committe, the IAD, or ISOC staff?</t>
+	    report to the IAOC committe, the IAD, or ISOC staff? Even
+	    if the reporting line for this staffer were more clear,
+	    clearly there are power dynamics in this role that might
+	    pull an ISOC-assigned IETF staffer in directions that
+	    might not be in the best interests of IETF, consciously or
+	    unconsciously.</t>
 	  </section>
 
 	</section>
