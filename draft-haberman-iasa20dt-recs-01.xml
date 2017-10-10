@@ -1002,24 +1002,66 @@
 
 	<list style="symbols">
 	  
-     <t>Protect the IETF's Culture and Technical Work: </t>
+	  <t>Protect the IETF's Culture and Technical Work: <vspace blankLines="1"/>
+	  The changes under the IASA++ option are small enough that they clearly cannot have any
+	  undue effect on culture or actual IETF work. <vspace blankLines="1"/>
 
-     <t>Improve the IETF's Technical Environment: </t>
+	  The ISOC subsidiary and independent
+	  organisatorial models are bigger changes, but, still contained within the administrative
+	  support part. To be exact, the IETF will not become an organisation even if the
+	  administrative support for it may. While one may have an opinion that administrative
+	  functions may grow or acquire more staff over time (and there is always some danger of
+	  that), keeping both the IETF and IETF Trust out of the
+	  organisation for administration does provide a level of separation. This separation
+	  ensures that participant, working group, IESG, IETF Chair, and other similar roles should
+	  continue to operate as they are operating now.
+	  </t>
 
-     <t>Define a New IETF-ISOC Relationship: </t>
+	  <t>Improve the IETF's Technical Environment:<vspace blankLines="1"/>
+	  All organisational options target improvements in this area. The options may differ in how
+	  much freedom or organisational agility they provide. Clearly, in the independent
+	  organisation option the IETF has most of these.</t>
 
-     <t>Define a New Long-Term Funding Model: </t>
+	  <t>Define a New IETF-ISOC Relationship:<vspace blankLines="1"/>
+	  Again, all options are forced to define this relationship in a clearer way than it is
+	  defined today. However, the subsidiary and independent organisation models
+	  have a better ability to reach a clear definition. A clear definition is not merely a
+	  matter of specification, it is also affected by practical and even legal constraints
+	  and organisations' goals. For instance, for obvious privacy and legal reasons, IETF may
+	  not have quite as much control and information about ISOC employees as it would on its
+	  own administrative unit's employees.
+	  </t>
 
-     <t>Clarify Overall Roles and Responsibilities: </t>
+	  <t>Define a New Long-Term Funding Model:<vspace blankLines="1"/>
+	  The changes to the funding model are on purpose modest for the reorganisation, with the
+	  intent provide more ability and freedom for the IETF to adjust its model later. However,
+	  the subsidiary and independent organisational models also clearly provide an opportunity
+	  to define exactly what kind of agreements exist between the IETF and the new
+	  organisation. This is important in conveying the role of different parties to potential
+	  sponsors, for instance.</t>
 
-     <t>Define Support Staff Roles and Responsibilities: </t>
+	  <t>Clarify Overall Roles and Responsibilities:<vspace blankLines="1"/>
+	  The reorganisation is an opportunity to rethink what staff roles are needed,
+	  staff levels, whether to organise a function as a staff function or as contracted
+	  service to a vendor. All options are likely to provide clarified roles and responsibilities.
+	  </t>
 
-     <t>Re-Define the Role of the IETF Community in Relation to
-      Administrative Activities: </t>
+	  <t>Define Support Staff Roles and Responsibilities:<vspace blankLines="1"/>
+	  As above.</t>
 
-     <t>Define Improved Transparency Requirememts: </t>
+	  <t>Re-Define the Role of the IETF Community in Relation to
+	  Administrative Activities:<vspace blankLines="1"/>
+	  Again,  this is necessary in all the reorganisation options.
+	  It is particularly important for the discussion of transparency.</t>
 
-      <t>Define a New IASA 2.0 Team: </t>
+	  <t>Define Improved Transparency Requirememts:<vspace blankLines="1"/>
+	  An improvement can be provided in any chosen option, but it will require
+	  (a) adopting the by default open model, (b) agreeing on a list of exceptions, as well as
+	  obviously clear definition of roles.</t>
+
+	  <t>Define a New IASA 2.0 Team:<vspace blankLines="1"/>
+	  This will also be necessary in all options.
+	  </t>
 
     </list></t>
     
