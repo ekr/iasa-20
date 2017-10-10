@@ -551,7 +551,7 @@
 
           <t>In this option, an ISOC subsidiary (placeholder name: IETFAdminOrg)
           would be created as the new legal
-          home of the IETF, similar to how the Public Interest Registry (PIR) is
+          home of the IETF administrative operation, similar to how the Public Interest Registry (PIR) is
 	  organized within ISOC. A subsidiary can have its own bank account, by-laws,
           charter, board of directors/trustees, staff, and corporate identity. As a
           subsidiary of ISOC, the IETF and ISOC can share overhead and
@@ -785,7 +785,7 @@
 
         <t>The design team believes that staff resources need to increase and/or
         be reorganised in order to move from one director to a few more specialised roles (see growth in
-        <xref target="problemstmt"/>). And In addition, the team believes that future
+        <xref target="problemstmt"/>). In addition, the team believes that future
         organisation for IASA may benefit from organising all resources under the more
         clear and direct control of the IETF (see division of
         responsibilities in <xref target="problemstmt"/> and roles in <xref
@@ -995,29 +995,37 @@
       <t>This section provides a basic analysis of the effects of the different
       options.</t>
 
-      <section title="Criteria">
+      <section anchor="comp-criteria-overall" title="Comparison to Goals">
 
-        <t>We use the following criteria based on the goals stated earlier (<xref target="goals"/>):
+	<t>In the following, we analyse how the different options compare with respect to goals set
+	in <xref target="goals"/>:
 
-        <list style="symbols">
+	<list style="symbols">
+	  
+     <t>Protect the IETF's Culture and Technical Work: </t>
 
-          <t>The arrangements match the scale of the task (SCALE)</t>
-          <t>The arrangements are designed to evolve as situations evolve (EVOLVE)</t>
-          <t>Accommodates strategic tasks (STRAT TSK)</t>
-          <t>Accommodates operational and execution tasks (OPS TSK)</t>
-          <t>Avoids overload in one class of tasks preventing progress in other (OVERLOAD SEP)</t>
-          <t>Clarifies the relationship between IETF and ISOC (CLEAR ISOC REL)</t>
-          <t>Allows direct IETF control of resources (e.g., staff) working on a task (DIR CONTROL)</t>
-          <t>Preserves IETF culture and mode of operation (CULTURE)</t>
-          <t>Separates IETF technical work and administrative tasks and funding (WORK SEP)</t>
-          <t>Sets expectations on what can or can not be expected from IASA (IASA EXP)</t>
-        </list></t>
+     <t>Improve the IETF's Technical Environment: </t>
 
-      </section>
+     <t>Define a New IETF-ISOC Relationship: </t>
 
-      <section title="Overall Structure">
+     <t>Define a New Long-Term Funding Model: </t>
 
-        <section title="Pros and Cons">
+     <t>Clarify Overall Roles and Responsibilities: </t>
+
+     <t>Define Support Staff Roles and Responsibilities: </t>
+
+     <t>Re-Define the Role of the IETF Community in Relation to
+      Administrative Activities: </t>
+
+     <t>Define Improved Transparency Requirememts: </t>
+
+      <t>Define a New IASA 2.0 Team: </t>
+
+    </list></t>
+    
+    </section>
+    
+      <section title="Pros and Cons">
 
           <t><xref target="IASA-assess" /> highlights the pros and cons of the IASA++ option.</t>
 
@@ -1025,7 +1033,8 @@
             <ttcol align="left">Pros</ttcol>
             <ttcol align="left">Cons</ttcol>
             <c>Maintains familiar structures and relationships</c>
-            <c>Does not provide the IETF with true independence of funding or staff from ISOC</c>
+            <c>Does not provide the IETF with true independence of funding or staff from ISOC;
+	    lack of clarity inherent in two organisations controlling resources may remain</c>
             <c>Start-up costs limited to those associated with hiring additional staff</c>
             <c>Creates risk that challenges present in the current IASA will not actually be solved or will
             re-emerge over time</c>
@@ -1095,93 +1104,6 @@
           </texttable>
 
         </section>
-
-        <section anchor="comp-criteria-overall" title="Comparison to Criteria">
-
-          <t>For the overall structure, the implications of the current situation and
-          the three options are summarized in <xref target="Relationship-assess"/>.</t>
-
-          <texttable anchor="Relationship-assess" style="all" title="IETF-ISOC Relationship Implications">
-            <ttcol>Criteria</ttcol>
-            <ttcol>Current situation</ttcol>
-            <ttcol>IASA++</ttcol>
-            <ttcol>ISOC Subsidiary</ttcol>
-            <ttcol>Independent Organization</ttcol>
-            <c>SCALE</c>          <c>NO</c>  <c>NO</c>             <c>YES</c>            <c>YES</c>
-            <c>EVOLVE</c>         <c>NO</c>  <c>NO (Note 1)</c>    <c>MAYBE (Note 1)</c> <c>YES (Note 1)</c>
-            <c>STRAT TSK</c>      <c>NO</c>  <c>NO (Note 1)</c>    <c>YES</c>            <c>YES</c>
-            <c>OPS TSK</c>        <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
-            <c>OVERLOAD SEP</c>   <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
-            <c>CLEAR ISOC REL</c> <c>NO</c>  <c>NO</c>             <c>YES</c>            <c>YES</c>
-            <c>DIR CONTROL</c>    <c>NO</c>  <c>NO</c>             <c>YES</c>            <c>YES</c>
-            <c>CULTURE</c>        <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
-            <c>WORK SEP</c>       <c>YES</c> <c>YES</c>            <c>YES</c>            <c>YES</c>
-            <c>IASA EXP</c>       <c>NO</c>  <c>MAYBE (Note 2)</c> <c>MAYBE (Note 2)</c> <c>MAYBE (Note 2)</c>
-          </texttable>
-
-          <t>Note 1: Evolution in the current system is more difficult than if IETF was either clearly
-          a subsidiary or its own organisation. This is because changes need agreement from two organisations,
-	  and, in the current model, the control of IETF-dedicated resource is not as clear as it could be.
-	  A subsidiary or independent model would also ease driving any strategy that the
-          IETF wants to drive, as decisions would be more on the IETF side than something that
-          today would require negotiation with ISOC.</t>
-
-	  <t>Note 2: Setting expectations is difficult merely based on an
-	  organisational model.  Certainly a clear separation between roles of the
-	  board and staff helps. However, expectations are also a matter of
-	  documentation, which would have be created and communicated. Finally,
-	  expectations are a cultural matter, current IAOC arrangements and community
-	  views have ended up in a situation where there is a lack of trust and unclear
-	  models for what can or cannot be expected.</t>
-
-        </section>
-
-
-      </section>
-
-      <section title="Oversight">
-
-        <t>For the internal organisation, the implications of the current situation vs. a strategic board model is summarised in <xref target="Internal-Org-assess"/>.</t>
-
-        <texttable anchor="Internal-Org-assess" style="all" title="Internal Organization Implications">
-          <ttcol>Criteria</ttcol><ttcol>Current Situation</ttcol><ttcol>Strategic Board</ttcol>
-          <c>SCALE</c>          <c>NO</c>             <c>YES</c>
-          <c>EVOLVE</c>         <c>MAYBE (Note 1)</c> <c>YES (Note 1)</c>
-          <c>STRAT TSK</c>      <c>NO</c>             <c>YES (Note 2)</c>
-          <c>OPS TSK</c>        <c>YES</c>            <c>YES (Note 2)</c>
-          <c>OVERLOAD SEP</c>   <c>NO</c>             <c>YES (Note 2)</c>
-          <c>CLEAR ISOC REL</c> <c>n.a.</c>           <c>n.a.</c>
-          <c>DIR CONTROL</c>    <c>n.a.</c>           <c>n.a.</c>
-          <c>CULTURE</c>        <c>YES</c>            <c>YES</c>
-          <c>WORK SEP</c>       <c>YES</c>            <c>YES</c>
-          <c>IASA EXP</c>       <c>NO</c>             <c>MAYBE (Note 3)</c>
-        </texttable>
-
-        <t>Note 1: Given that the IASA is being reorganised, we
-        acknowledge that the current structure is capable of evolving.
-        However, the operational focus and overload in the current
-        arrangements are making this harder than is necessary. Change
-        requires action from outside of the IASA, rather than being a
-        normal task within the IASA to evolve their own model. A
-        strategic board that is not deeply involved in the operations
-        should be able to look at evolution more easily. Similarly, a
-        dedicated advisory council can help determine community
-        concerns, and might be able to do this even better than a
-        board. However, lines of authority between a strategic board
-        and advisory council would need to be clearly delineated.</t>
-
-        <t>Note 2: There may be a difference between the strategic board with and
-        without an advisory council, in how overload situations and the separation of
-        different tasks goes. The existence of an advisory council alleviates some workload on
-        board or staff, particularly in dealing with community opinion determination, freeing the
-        board to do its strategic work and staff to concentrate on operations and
-        execution.</t>
-
-        <t>Note 3: Setting expectations is difficult merely based on an
-        oganisational model, see Note 2 under <xref
-        target="comp-criteria-overall"/>.</t>
-
-      </section>
 
       <section title="Financial Impacts">
 
