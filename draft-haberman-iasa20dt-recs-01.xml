@@ -306,8 +306,7 @@
 
 	<section title="Lack of Resources">
 	  <t>IETF faces growing constraints on resources essential for
-	  IETF to function, notably in volunteers, staff, and
-	  time.</t>
+	  IETF to function, notably in volunteers and staff.</t>
 
 	  <section title="Volunteers">
 	    <t>As the IAD is the sole FTE for IETF, naturally the IASA
@@ -329,10 +328,6 @@
 	    single human at this point, necessitating measures such as
 	    providing an administrator for the IAOC to better run that
 	    body and their meetings.</t>
-	  </section>
-
-	  <section title="Time">
-	    <t>(JLH: Not sure what to highlight here.)</t>
 	  </section>
 
 	</section>
