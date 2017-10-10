@@ -93,18 +93,17 @@
       or making any decisions. This draft, the output of the design team's
       considerations, has no particular official standing.</t>
 
-      <t>An initial version of this draft was published, after which the authors
-      sought feedback particularly on two aspects:
+      <t>The design team seeks feedback particularly on two aspects:
       <list style="symbols">
         <t>If the set of options outlined in the draft covers the
         options that should be looked at.</t>
         <t>If the analysis of the implications of the options is
         correct.</t>
+        <t>If the recommendations in <xref target="conc_recs"/> are a
+	reasonable starting point re-organisation work.</t>
       </list></t>
 
-      <t>Following discussion before, during, and after IETF-99, it has become feasible to discuss more
-      concrete conclusions and which recommendations the
-      community should consider adopting. It should also be noted that IETF administrative
+      <t>It should also be noted that IETF administrative
       matters have been organised jointly with ISOC, and it is important that
       ISOC will continue to be involved in the process of looking at the reorganisation.</t>
 
@@ -117,18 +116,19 @@
       <list style="symbols">
         <t>Structural and organizational changes, both externally (with ISOC and contractors)
         and internally (within the IAOC and subcommittees)</t>
+	<t>Changes to funding arrangements (even if IETF continues to
+	backed by primarily the same entities in the future as today).</t>
         <t>Changes to personnel resources, both volunteer and paid</t>
         <t>Transparency changes</t>
       </list></t>
 
-      <t>Changes to the funding model are out of scope to the extent they fall outside the
-      categories above.</t>
-
-      <t>The rest of the document is organised as follows. The next two sections (<xref target="background" /> and <xref target="challenges" />) describe
-      the background and summarise the challenges noted in the community discussion.
-      The two sections after that (<xref target="consider_change" /> and <xref target="reorg_options" />) explain what categories of changes were considered,
-      and describe the primary options for structural changes. The following two sections (<xref target="analysis" /> and <xref target="conc_recs" />) focus on analysis of the different
-      options along with conclusions and recommendations.</t>
+      <t>The rest of the document is organised as follows. The next two sections (<xref
+      target="background" /> and <xref target="problemstmt" />) describe the background and summarise
+      the challenges noted in the community discussion.  The two sections after that (<xref
+      target="goals" /> and <xref target="reorg_options" />) describe the goals and primary options
+      for changes. The following two sections (<xref target="analysis" /> and <xref
+      target="conc_recs" />) focus on analysis of the different options along with conclusions and
+      recommendations.</t>
     </section>
 
     <section title="Background" anchor="background">
@@ -200,90 +200,25 @@
       </section>
     </section>
 
-    <section anchor="challenges" title="Challenges">
+    <section anchor="problemstmt" title="Problem Statement">
 
-      <t>Discussion leading to this document has been framed by the issues discussed on IETF
-      mailing lists and documented elsewhere  <xref target="I-D.daigle-iasa-retrospective"/>,
-      <xref target="I-D.hall-iasa20-workshops-report"/>,
-      <xref target="I-D.arkko-ietf-iasa-thoughts"/>.  The reader is referred to those
-      documents and ongoing discussion on the IASA20@ietf.org mailing list for fuller
-      details on the range of challenges facing the IETF in its handling of administrative
-      matters.</t>
+	<t>The purpose of this part of the document is to describe a few problem areas with enough
+	detail to allow the comparison of potential IASA structure updates (among themselves, as
+	well as comparison to the status quo). This is intentionally illustrative, rather than an
+	exhaustive enumeration of all possible and perceived issues with the current structure and
+	implementation. Nevertheless, the examples are concrete and real.  (For a fuller description
+	of the perceived issues with the current IASA arrangements, see <xref
+	target="I-D.daigle-iasa-retrospective"/>, <xref target="I-D.hall-iasa20-workshops-report"/>,
+	<xref target="I-D.arkko-ietf-iasa-thoughts"/>, and ongoing discussion on the iasa20@ietf.org
+	mailing list.</t>
 
-      <t>In summary, the key areas of challenge that have shaped this work are:
+       <t>In general, the range of IETF administrative tasks have grown considerably, the division
+       of responsibilities between the IETF and ISOC continues to evolve, expectations on
+       transparency have changed, and we face continued challenges related to funding IETF
+       activities on a background of increasing costs and lack of predictability in our funding
+       streams.</t>
 
-      <list style="symbols">
-
-        <t>The range of IETF administrative tasks have grown considerably; we must ensure that we
-        have the right structure, community involvement and level of staffing to
-        address them effectively and efficiently.</t>
-
-        <t>The relationship and division of responsibilities between the IETF and ISOC have changed,
-        as both organizations have grown considerably in the last decade.
-        <vspace blankLines="1"/>
-        The joint organisation that supports the IETF has grown rather organically, and
-        would benefit from re-assessment and possible reorganisation.
-        </t>
-
-        <t>Community expectations of transparency of administrative actions
-        and execution from the administration could be improved.</t>
-
-        <t>Lack of predictably of funding levels combined with regular shortfalls due to fluctuations in revenue from IETF meetings.
-	<vspace blankLines="1"/>
-
-        We face continued challenges related to funding IETF activities on a background of
-	increasing costs. We must properly manage expectations about locations of meetings
-        (broadening of IETF engagement, sponsor preferences, which can lead to increased costs
-		or decreased attendance for a specific meeting) while balancing against
-        operational practicalities.  And we must ensure that we continue to not be influenced by
-        funding entities on the technical work of the IETF.</t>
-
-      </list></t>
-
-      <t>Of the items above, the first two are largely to be addressed by structural
-      updates, while the others are more about discussing tradeoffs, improving work processes, and
-      updating documented expectations.</t>
-    </section>
-
-    <section title="Considering a Change" anchor="consider_change">
-
-      <t>Given that a change seems necessary, what might that change include? There
-      seem to be three broad categories of IETF organisation that will be affected:
-
-      <list style="numbers">
-        <t>overall structure</t>
-        <t>oversight</t>
-        <t>interfaces and expectations to rest of the IETF</t>
-      </list></t>
-
-      <t>The overall structure also includes questions such as whether IETF is an organisation and its relationship to ISOC.</t>
-
-      <t>There are some interconnections between different aspects of
-      reorganisation. For instance, how IETF defines its relationship to ISOC will
-      have some implications on what kind of oversight structure is needed;
-      a more independent, free-standing organisational model for IETF
-      would imply new functions for the IASA.</t>
-
-      <t>There are a number of choices to make within the reorganisation effort. In particular,
-      IETF's relationship to ISOC could be arranged in a fundamentally similar manner than
-      it is today, but improved, e.g., to make clear who is expected to control a particular
-      part of the operation. But the relationship could also be arranged in a different way,
-      for instance, as a subsidiary of ISOC or as a more free-standing, independent organisational
-      unit.</t>
-
-      <section anchor="problemstmt" title="Problem Statement">
-
-	<t>The purpose of this part of the document is to describe a
-	few problem areas with enough detail to allow the comparison
-	of potential IASA structure updates (among themselves, as well
-	as comparison to the status quo). This is intentionally
-	illustrative, rather than an exhaustive enumeration of all
-	possible and perceived issues with the current structure and
-	implementation. Nevertheless, the examples are concrete and
-	real.  (For a fuller description of the perceived issues with
-	the current IASA arrangements, see TBD).</t>
-
-	<section title="Lack of Clarity">
+      <section title="Lack of Clarity">
 
 	  <t>In general, as the IETF has grown and aged, an increasing
 	  lack of clarity exists in a number of specific areas. We
@@ -501,7 +436,6 @@
 
         </list></t>
       </section>
-    </section>
 
     <section title="Reorganisation Options" anchor="reorg_options">
 
@@ -807,10 +741,10 @@
 
         <t>The design team believes that staff resources need to increase and/or
         be reorganised in order to move from one director to a few more specialised roles (see growth in
-        <xref target="challenges"/>). And In addition, the team believes that future
+        <xref target="problemstmt"/>). And In addition, the team believes that future
         organisation for IASA may benefit from organising all resources under the more
         clear and direct control of the IETF (see division of
-        responsibilities in <xref target="challenges"/> and roles in <xref
+        responsibilities in <xref target="problemstmt"/> and roles in <xref
         target="goals"/>).</t>
 
         <t>The current arrangement involves one officially designated IASA employee,
