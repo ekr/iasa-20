@@ -133,8 +133,7 @@
       the challenges noted in the community discussion.  The two sections after that (<xref
       target="goals" /> and <xref target="reorg_options" />) describe the goals and primary options
       for changes. The following two sections (<xref target="analysis" /> and <xref
-      target="conc_recs" />) focus on analysis of the different options along with conclusions and
-      recommendations.</t>
+      target="conc_recs" />) focus on analysis of the different options along with conclusions.</t>
     </section>
 
     <section title="Background" anchor="background">
@@ -1197,7 +1196,7 @@
       </section>
     </section>
 
-    <section title="Conclusions and Recommendations" anchor="conc_recs">
+    <section title="Conclusions" anchor="conc_recs">
 
       <t>While there are some initial conclusions in the analysis in
       the previous sections, clearly more work is needed. In
@@ -1205,73 +1204,6 @@
       from the IETF community, particularly regarding any potential
       missed options or the implications of options being considered
       here.</t>
-
-      <t>Nevertheless, rather than leave all options open for
-      consideration by the community, and given that the IASA 2.0
-      Design Team has studied these options, we would particularly
-      like feedback on the draft recommendations below.</t>
-
-	    <section title="Draft Recommendations">
-
-	      <t>The design team recommends the following:
-
-      		<list style="symbols">
-		<t>Structure: ISOC Subsidiary. This preserves our
-		longstanding and beneficial association with ISOC but
-		takes important steps to better define roles and
-		responsibilities, creates greater independence for the
-		IETF under the ISOC umbrella, and can put the IETF on
-		a path towards greater self-sufficiency.</t>
-
-		<t>Composition of Board: Board of 9 people (odd number
-		preferred). Assuming a board of 9, then 3 members to
-		be selected via the IETF NomCom, 3 members to be
-		selected by the board itself, and 3 members to be
-		selected by ISOC. Selections would be confirmed by the
-		IAB, or perhaps the IESG. Board members would serve
-		for 2 or 3 year terms, and may be term-limited to no
-		more than two or three consecutive terms.  An
-		objective is to be confident that there is IETF
-		oversight but also lets the board select people who
-		bring necessary business skills and independence, and
-		thus may be unknown to or less known to the IETF (and
-		for which the IETF NomCom may be unequipped to assess
-		given their technical backgrounds and focus on
-		selecting primarily for technical skill sets).</t>
-
-		<t>Staffing: Between IETF-100 and IETF-101, document
-		each specific staff and/or contractor role and map out
-		all responsibilities.</t>
-
-		<t>Long-Term Funding: The current level of annual
-		funding from ISOC fluctuates from year-to-year. We
-		propose creating more funding certainly in one of two
-		potential ways, which need further discussion with
-		ISOC.  The first option is to agree on a percentage of
-		ISOC revenue. The second option is to increase IETF
-		funding to roughly a new flat amount above which IETF
-		has historically received, indexed to rise with
-		inflation annually. The objective of either option is
-		to provide a more predictable revenue base with which
-		the IETF can perform better long-term planning. ISOC
-		should also commit to remain in their role as a
-		financial backstop for any potential one-time issues
-		(such a meeting cancellation due to a natural
-		disaster).</t>
-
-		<t>IETF Endowment: Either via a new long-term funding
-		agreement with ISOC or as a standalone matter, we
-		believe a 10-year plan to fully fund the IETF
-		endowment should be a key objective. Once full funding
-		is received, then theoretically the income from the
-		endowment could provide funding for most or perhaps
-		even all of the IETF's operating expenses, should ISOC
-		suffer a decline in their primary revenue source
-		(which is from PIR, from .ORG domain name
-		registrations).</t>
-		</list>
-	      </t>
-	    </section>
 
 	    <section title="Transition Plan" anchor="transition">
 
