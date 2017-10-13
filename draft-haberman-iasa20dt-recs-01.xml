@@ -111,7 +111,8 @@
 		the goals.  In no case does IETFAdminOrg have anything to do with defining, 
 		changing, or operating the IETF’s standards process and structure 
 		(participants (not members), WGs, IESG and so on) which remain as they stand 
-		today.</t>
+		today. In particular, none of the options change the role of the IETF as not
+		being a formal organisation of any sort.</t>
 
       <t>As a base for this work there was a good articulation of the set of problems we
       are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and
