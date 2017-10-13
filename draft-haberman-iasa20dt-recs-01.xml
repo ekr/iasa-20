@@ -104,6 +104,13 @@
 	reasonable starting point re-organization work.</t>
       </list></t>
 
+      <t>It should of course be acknowledged that there is no perfect, or even
+      great solution. No one should be under illusions that changing
+      organizatorial structure will fix every problem or bring no new problems
+      of its own. But it seems that the current structure is brittle and the
+      issues around lack of staff and authority, clarity, and responsibility are
+      sufficiently serious to warrant exploring different options.</t>
+      
       	<t>This document defines the goals of the IASA 2.0 effort in terms of an abstract
 		administrative structure, called IETFAdminOrg.  Then, 3 possible implementations
 		of IETFAdminOrg are considered in the light of how they could be used to address
@@ -428,7 +435,7 @@
       <section anchor="goals" title="Goals">
 
         <t>The IASA redesign effort needs to address the main issues listed above in the <xref target="problemstmt"/>. More
-        specifically, a new organizational structure needs to do at least the following:
+        specifically, the future organizational structure needs to do at least the following:
 
         <list style="symbols">
           <t>Protect the IETF's Culture and Technical Work: Ensure that future IASA organizational structure and
@@ -450,15 +457,28 @@
 		  of adjustments and control (e.g., staff resources). This also includes consideration of a new funding model
 		  that takes into account the historical responsibility for the IETF that ISOC has had since its inception.</t>
 
-	  <t>Define a New Long-Term Funding Model: A redesign needs to update and improve the financial arrangement
-		  between IETF and ISOC. It must also be clear to people outside the IETF and ISOC organizations (e.g., sponsors)
-		  what the arrangements are and what their contributions affect and do not affect.</t>
+	  <t>Support a re-envisioned funding model: Provide the staff support
+	  and resources needed to adapt the funding model of the IETF to changes
+	  in the industry, participation, and expenses. The structure should
+	  also allow for and be able to support new funding streams or changes
+	  to the proportion of funds from various sources.</t>
+
+	  <t>Provide clarity about the IETF-ISOC financial arrangements: A
+	  redesign needs to clear up ambiguities in the financial arrangements
+	  between IETF and ISOC.  It must also be clear to people outside the
+	  IETF and ISOC organisations (e.g., sponsors) what the arrangements are
+	  and what their contributions affect and do not affect.</t>
 
 	  <t>Clarify Overall Roles and Responsibilities: Ensure that all staff, contractor, and volunteer roles are clearly documented.
 		This necessarily includes documenting how each of these parties may interact or interface with one another in order to
 		  conduct and support the business of the IETF. This also includes documenting key work processes, decision-making
 		  processes and authority (such as pertaining to meeting venue selection), etc. A key objective is to minimize ambiguity
-		and uncertainty so that it is clear who is responsible for what and who has the power to make certain decisions.</t>
+		and uncertainty so that it is clear who is responsible for what
+		and who has the power to make certain decisions.<vspace
+		blankLines="1"/>
+	        There also needs to be a clear definition of what issues belong
+	        to the IESG vs. the IASA organisation or staff. In many cases
+	        that is not clear today.</t>
 
           <t>Define Support Staff Roles and Responsibilities: Very clearly define the roles of the oversight entities and
 		  staff/contractors to match the expanded work scope facing the IETF. Ensure that any changes create a structure that
@@ -475,7 +495,7 @@
 		  In particular, this should focus on clearly documenting the lines between responsibility, representation,
 		  authority, and oversight.</t>
 
-          <t>Define Improved Transparency Requirements: The general level of transparency and information-sharing between
+          <t>Improve Transparency: The general level of transparency and information-sharing between
 		  IETF administrative staff and groups to the IETF community must be improved. This includes improving the timeliness
 		  of sharing of information and decisions, as well as seeking comment on prospective decisions. As the same time,
 		  we need to reset expectations around delegated authority so that once staff or an administrative support organization
@@ -485,7 +505,7 @@
 		of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is
 		  built upon all of those things over time).</t>
 
-	  <t>Define a New IASA 2.0 Team: Determine what new IASA structure we need and define a transition plan from the model the IETF
+	  <t>Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF
 		  has today to the new structure.</t>
 
 
@@ -552,7 +572,7 @@
             <t>Provide clarity about authority of the IAOC in reviewing performance
             of IASA staff.</t>
             <t>Re-structure the internal IETF organization and appointment processes
-            for the IAOC to address current challenges. IETF Trust to be kept separate from IAOC.</t>
+            for the IAOC to address current challenges. IETF Trust may be separated from IAOC.</t>
             <t>Drive IETF community consensus on roles and responsibilities for administrative
 		    decision-making so it is completely clear what people or group has authority
 		    to make decisions, and what type of consultation, if any, should take place with
@@ -600,7 +620,7 @@
 	  organized within ISOC. A subsidiary can have its own bank account, by-laws,
           charter, board, staff, and corporate identity. As a
           subsidiary of ISOC, the IETF and ISOC can share overhead and
-          resources. The IETF would likely rely heavily on contractors for most
+          resources. The IETF would likely continue to rely heavily on contractors for most
           administrative tasks.</t>
 
           <t>In the subsidiary model, IETFAdminOrg would carry out the function in
@@ -693,14 +713,16 @@
         </t>
 
         <t>
-          "The IETF" would remain an unincorporated entity, pretty much just as
-          we know it today, with the relationship between IETF and IETFAdminOrg being
+          "The IETF" would remain pretty much just as
+          we know it today, i.e., the IETF at large would not form any new
+	  organization, nor would IETFAdminOrg take over any current IETF functions.
+	  The relationship between IETF and IETFAdminOrg would be
           a more formalized version of the relationship between IETF and the
           parts of ISOC which support IETF:
         </t>
 
 	<t>Optionally, under the independent organization option, IETF Trust, holding IPR on behalf
-	of the IETF, could still be kept separate from the operational IETF administration aspects. This
+	of the IETF, could be kept separate from the operational IETF administration aspects. This
 	would
 	provide some separation between the copyright ownership functions from other administrative
 	functions, but both would still have to be funded from the same sources.</t>
@@ -714,8 +736,8 @@
           including seating part of the board.</t>
 
           <t>IETFAdminOrg would not have a say over the material direction or content of
-          the IETF, except insofar as there are legal implications and
-          requirements.</t>
+          the IETF, except insofar as IETF Trust-related legal implications and
+          requirements, such as RFC boilerplates.</t>
         </list>
         </t>
 
@@ -744,10 +766,12 @@
 
       <section anchor="oversight" title="Oversight for IETFAdminOrg">
 
-        <t>While IASA++ could have a relatively similar oversight structure to
-        the existing IAOC, either the Subsidiary or Independent models involve
-        the creation of an IETFAdminOrg which needs a more substantial government
-        structure. This structure needs to include the involvement of members
+        <t>While IASA++ could continue to have an oversight structure populated
+	by members of the IETF
+	community, either the Subsidiary or Independent models involve
+        the creation of an IETFAdminOrg which would need to have its governance
+	structure defined.
+	This structure needs to include the involvement of members
         with significant nonprofit governance experience, while also ensuring
         accountability to and involvement from the IETF Community.
         </t>
@@ -1137,14 +1161,23 @@
 	  own administrative unit's employees.
 	  </t>
 
-	  <t>Define a New Long-Term Funding Model:<vspace blankLines="1"/>
+	  <t>Support a re-envisioned funding model: <vspace blankLines="1"/>
 	  The changes to the funding model are on purpose modest for the Reorganization, with the
 	  intent provide more ability and freedom for the IETF to adjust its model later. However,
-	  the subsidiary and independent organization models also clearly provide an opportunity
+	  the subsidiary and independent organization models also clearly
+	  provide more freedom for further evolution.
+	  </t>
+	  
+	  <t>Provide clarity about the IETF-ISOC financial arrangements: <vspace
+	  blankLines="1"/>
+	  All Reorganization options aim to provide clarity. But the subsidiary
+	  and independent organisation options provide an opportunity
 	  to define exactly what kind of agreements exist between the IETF and the new
-	  organization. This is important in conveying the role of different parties to potential
+	  organization, in the form of a formal agreement between organizations
+	  or parts thereof.
+	  This is important in conveying the role of different parties to potential
 	  sponsors, for instance.</t>
-
+	  
 	  <t>Clarify Overall Roles and Responsibilities:<vspace blankLines="1"/>
 	  The Reorganization is an opportunity to rethink what staff roles are needed,
 	  staff levels, whether to organize a function as a staff function or as contracted
@@ -1159,12 +1192,12 @@
 	  Again,  this is necessary in all the Reorganization options.
 	  It is particularly important for the discussion of transparency.</t>
 
-	  <t>Define Improved Transparency Requirements:<vspace blankLines="1"/>
+	  <t>Improve Transparency:<vspace blankLines="1"/>
 	  An improvement can be provided in any chosen option, but it will require
 	  (a) adopting the by default open model, (b) agreeing on a list of exceptions, as well as
 	  obviously clear definition of roles.</t>
 
-	  <t>Define a New IASA 2.0 Team:<vspace blankLines="1"/>
+	  <t>Define a Transition Plan:<vspace blankLines="1"/>
 	  This will also be necessary in all options.
 	  </t>
 
@@ -1320,11 +1353,7 @@
 
 	      <t>Following feedback we receive before and during the
 	      IETF-100 meeting, we will develop a detailed transition
-	      plan and include that here. We can then seek feedback on
-	      the transition plan between the 100th and 101st IETF
-	      meetings, with the goal of an actionable recommendation
-	      for how to effect the transition presented at
-	      IETF-101.</t>
+	      plan and include that here. </t>
 
 	      <t>The transition plan should address items such as the
 	      following (and we seek suggestions on areas we may have
