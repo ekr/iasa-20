@@ -484,11 +484,10 @@
       <section anchor="overallstructure" title="Overall Structure">
 
         <section title="IASA++">
-          <t>In the IASA++ option, the IETF and ISOC maintain the current structural
-          relationship.  This means that the IETF remains an organized activity of
-          ISOC, ISOC maintains funds and contracting authority on behalf of the
-          IETF, and all IASA staff are ISOC employees. In essence, this is today's model
-	  with very minor improvements.</t>
+          <t>In the IASA++ option, IETFAminOrg continues to be implemented as an activity within 
+		  ISOC.   While addressing the requirements above, this does mean that 
+		  ISOC maintains funds and contracting authority on behalf of the IETF, 
+		  and all IASA staff are ISOC employees.</t>
 
           <t>While the relationship remains the same, the IETF and ISOC will make
           improvements to the relationship in order to enhance the functionality of the
