@@ -785,6 +785,32 @@
         </t>
 
         <t>
+          The general structure here is that the board is responsible for
+          setting general policies about how the staff functions and making
+          decisions for the organization as a whole. For instance, the
+          board would be expected to sign off on the meeting locations
+          and schedule, based on recommendations from the staff. For some
+          activities, the board would organize subcommittees which would
+          do work directly. Typical examples would be auditing and hiring
+          and firing, though the board might, for instance, decide meetings
+          were so important that it needed more direct involvement. The
+          board is accountable to the community and would be expected to
+          regularly consult with the advisory council (see below) and
+          consult with the community directly on especially important matters.
+        </t>
+
+        <t>
+          By contrast, the staff is responsible for making day-to-day
+          operational decisions subject to the board's general policies.
+          Examples here would be vendor selection for smaller contracts,
+          and hiring of lower-level staff. These decisions are of course
+          subject to board oversight and matters over a given size
+          (e.g., money limit) would need board approval though would
+          likely be recommended by the staff. In no case would the staff
+          or board have any input on standards activities.
+        </t>
+        
+        <t>
           The composition of the board needs careful attention.  It is
           important to have regular IETF participants in the board, but at
           least some of the board members need to have skills and experience
