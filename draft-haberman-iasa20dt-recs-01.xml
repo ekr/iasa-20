@@ -110,9 +110,9 @@
       of its own. But it seems that the current structure is brittle and the
       issues around lack of staff and authority, clarity, and responsibility are
       sufficiently serious to warrant exploring different options.</t>
-      
+
       	<t>This document defines the goals of the IASA 2.0 effort in terms of an abstract
-		administrative structure, called IETFAdminOrg.  Then, 3 possible implementations
+		administrative structure, called IETFAdminOrg.  Then, three possible implementations
 		of IETFAdminOrg are considered in the light of how they could be used to address
 		the goals.  In no case does IETFAdminOrg have anything to do with defining,
 		changing, or operating the IETF's standards process and structure
@@ -194,7 +194,7 @@
         <t>Legal ownership of IETF materials, domain names and copyright</t>
         <t>Ownership of IANA-related domain names and copyright</t>
 	<t>General legal support (including topics beyond domains and IPR)</t>
-        <t>IETF website</t>
+        <t>The IETF website</t>
         <t>IETF IT services</t>
         <t>Tooling support, maintenance, and development (together with volunteers)</t>
         <t>Meeting network support</t>
@@ -503,8 +503,8 @@
 		  we need to reset expectations around delegated authority so that once staff or an administrative support organization
 		  has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as
 		to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making. However,
-		it is clear that enabling a group or staff to act within their delegated authority depends upon more clear definition
-		of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is
+		it is clear that enabling a group or staff to act within their delegated authority depends upon more clearly defining
+                roles and responsibilities, on improved transparency, on improved communications, and on trust (which is
 		  built upon all of those things over time).</t>
 
 	  <t>Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF
@@ -616,7 +616,11 @@
 
         <section anchor="option2" title="ISOC Subsidiary">
 
+<<<<<<< HEAD
           <t>In this option, IETFAdminOrg is implemented as an ISOC subsidiary, which 
+=======
+          <t>In this option, IETFAdminOrg is implemented as an ISOC subsidiary, which
+>>>>>>> Minor editorial
           would be created as the new legal
           home of the IETF administrative operation, similar to how the Public Interest Registry (PIR) is an
 	  organized subsidiary within ISOC. A subsidiary can have its own bank account, by-laws,
@@ -639,7 +643,7 @@
           it with a board (see <xref target="oversight"/>).
 	  Administrative decision-making
           authority would rest primarily with the administrative staff, with oversight
-          provided by the board (see <xref target="staffresources"/>.
+          provided by the board (see <xref target="oversight"/> and <xref target="staffresources"/>.)
 	  Exception cases could be developed where board
           approval would be required to authorize strategic decisions.</t>
 
@@ -668,7 +672,11 @@
 
         <section title="Independent Organization">
 
+<<<<<<< HEAD
           <t>In this option, a new non-profit organization (e.g., IETFAdminOrg) is
+=======
+          <t>In this option, a new non-profit organization (IETFAdminorg) is
+>>>>>>> Minor editorial
           created independent from ISOC as the new legal home of the IETF. IETFAdminOrg
           would have its own bank account, by-laws, charter, board, staff, and corporate identity. The administrative
           staff for IETFAdminOrg could be kept lean and would likely rely on contractors for the
@@ -838,7 +846,7 @@
           likely be recommended by the staff. In no case would the staff
           or board have any input on standards activities.
         </t>
-        
+
         <t>
           The composition of the board needs careful attention.  It is
           important to have regular IETF participants in the board, but at
@@ -876,7 +884,11 @@
               common structure for nonprofits. The design team recognizes that
               there are concerns about the board drifting away from the IETF
               Community interest, but believes these concerns would be
+<<<<<<< HEAD
               adequately addressed by having some of the board 
+=======
+              adequately addressed by having some of the board (strawman: 1/3)
+>>>>>>> Minor editorial
               directly selected by nomcom and all members subject to IETF
               confirmation.  The details of how the initial board is to be
               constituted would need to be determined, but one possibility would
@@ -1026,7 +1038,7 @@
 	  the short or medium term. This document suggests that ISOC continues as one of
 	  our primary funding sources, as it has been. Other primary sources of funding for
 	  an organization like the IETF are well known, and we are already tapping into
-	  all of the most common ones - corporations, individuals, and funds derived from
+	  all of the most common ones: corporations, individuals, and funds derived from
 	  the registration of domain names. It is possible that we could develop
 	  additional funding sources in the future (e.g., charitable foundations), but
 	  those will require strategic planning and staffing, for which we need to get
@@ -1045,7 +1057,7 @@
 	  the legal, contractual, and accounting related
 	  details. While continuing as-is is possible, adopting a a
 	  more predictable allocation of funding is
-	  desirable (see <xref target="fundinglevel"/>, and in the
+	  desirable (see <xref target="fundinglevel"/>), and in the
 	  subsidiary and independent options formal contracts about
 	  the funding are also necessary. The exact details of those
 	  contracts and contracting parties are for further study, but
@@ -1224,8 +1236,13 @@
 	  This is a double-edged sword, however, as the current arrangements
 	  complicate planning and perceptions by the sponsors.
 	  </t>
+<<<<<<< HEAD
 	  
 	  <t>Provide Clarity About the IETF-ISOC Financial Arrangements: <vspace
+=======
+
+	  <t>Provide clarity about the IETF-ISOC financial arrangements: <vspace
+>>>>>>> Minor editorial
 	  blankLines="1"/>
 	  All reorganization options aim to provide clarity. But the subsidiary
 	  and independent organisation options provide an opportunity
@@ -1233,12 +1250,17 @@
 	  organization, in the form of a formal agreement between organizations
 	  or parts thereof.
 	  This is important in conveying the role of different parties to potential
+<<<<<<< HEAD
 	  sponsors, for instance. <vspace
 	  blankLines="1"/>
 
 	  In the IASA++ option, there is limited improvement on clarity of the
 	  financial arrangements.</t>
 	  
+=======
+	  sponsors, for instance.</t>
+
+>>>>>>> Minor editorial
 	  <t>Clarify Overall Roles and Responsibilities:<vspace blankLines="1"/>
 	  The reorganization is an opportunity to rethink what staff roles are
 	  needed, staff levels, whether to organize a function as a staff
