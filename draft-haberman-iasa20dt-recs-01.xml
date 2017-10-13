@@ -109,7 +109,7 @@
 		administrative structure, called IETFAdminOrg.  Then, 3 possible implementations 
 		of IETFAdminOrg are considered in the light of how they could be used to address 
 		the goals.  In no case does IETFAdminOrg have anything to do with defining, 
-		changing, or operating the IETF’s standards process and structure 
+		changing, or operating the IETF's standards process and structure 
 		(participants (not members), WGs, IESG and so on) which remain as they stand 
 		today. In particular, none of the options change the role of the IETF as not
 		being a formal organisation of any sort.</t>
@@ -301,7 +301,7 @@
 	    imposed by its relationship with ISOC.</t>
 		  
 	   <t>IETFAdminOrg must have enough and appropriate authority 
-		   to carry out the IETF’s administrative requirements 
+		   to carry out the IETF's administrative requirements 
 		   and activities in a timely fashion, and as the IETF 
 		   desires (within reason of normal business and legal 
 		   requirements).</t>
