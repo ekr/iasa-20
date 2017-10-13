@@ -105,13 +105,14 @@
 	reasonable starting point re-organization work.</t>
       </list></t>
 
-      	<t>It should also be noted that while this document discusses various options for organizing
-      	the administrative functions of the IETF, "The IETF" would remain an unincorporated entity,
-      	pretty much just as we know it today, and none of the actual work or structures
-	(participants, WGs, IESG, and so on) would change their nature. Similarly, IETF Trust,
-	holding
-	IPR on behalf of the IETF, should be kept separate from the operational IETF administration
-	aspects.</t>
+      	<t>This document defines the goals of the IASA 2.0 effort in terms of an abstract 
+		administrative structure, called IETFAdminOrg.  Then, 3 possible implementations 
+		of IETFAdminOrg are considered in the light of how they could be used to address 
+		the goals.  In no case does IETFAdminOrg have anything to do with defining, 
+		changing, or operating the IETF’s standards process and structure 
+		(participants (not members), WGs, IESG and so on) which remain as they stand 
+		today. In particular, none of the options change the role of the IETF as not
+		being a formal organisation of any sort.</t>
 
       <t>As a base for this work there was a good articulation of the set of problems we
       are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and
