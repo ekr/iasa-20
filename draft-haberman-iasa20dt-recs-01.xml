@@ -104,12 +104,12 @@
 	reasonable starting point re-organization work.</t>
       </list></t>
 
-      	<t>This document defines the goals of the IASA 2.0 effort in terms of an abstract 
-		administrative structure, called IETFAdminOrg.  Then, 3 possible implementations 
-		of IETFAdminOrg are considered in the light of how they could be used to address 
-		the goals.  In no case does IETFAdminOrg have anything to do with defining, 
-		changing, or operating the IETF's standards process and structure 
-		(participants (not members), WGs, IESG and so on) which remain as they stand 
+      	<t>This document defines the goals of the IASA 2.0 effort in terms of an abstract
+		administrative structure, called IETFAdminOrg.  Then, 3 possible implementations
+		of IETFAdminOrg are considered in the light of how they could be used to address
+		the goals.  In no case does IETFAdminOrg have anything to do with defining,
+		changing, or operating the IETF's standards process and structure
+		(participants (not members), WGs, IESG and so on) which remain as they stand
 		today. In particular, none of the options change the
 		role of the IETF, e.g.,  becoming a formal organisation of any sort.</t>
 
@@ -209,7 +209,7 @@
 
 	<t>The purpose of this part of the document is to describe a few problem areas with enough
 	detail to allow the comparison of potential IASA structure updates (among themselves, as
-	well as comparison to the status quo) that must be addressed by IETFAdminOrg. 
+	well as comparison to the status quo) that must be addressed by IETFAdminOrg.
 		This is intentionally illustrative, rather than an
 	exhaustive enumeration of all possible and perceived issues with the current structure and
 	implementation. Nevertheless, the examples are concrete and real.  (For a fuller description
@@ -246,10 +246,10 @@
 	    also functions as important as fundraising and sponsorship
 	    development have suffered from a lack of clear
 	    responsibility.</t>
-		  
-	    <t>IETFAdminOrg must have lines of responsibility that are 
-		    clear enough for non-IETFers to understand where 
-		    responsibilities lie, and how to make changes as 
+
+	    <t>IETFAdminOrg must have lines of responsibility that are
+		    clear enough for non-IETFers to understand where
+		    responsibilities lie, and how to make changes as
 		    necessary over time.</t>
 
 	  </section>
@@ -271,11 +271,11 @@
 	      <t>can result in those soliciting sponsorships and
 	      donations having a lack of familiarity with IETF
 	      work.</t>
-	      <t>IETFAminOrg must have an integrated and 
-		      understandable representation mode.  
-		      People not familiar with the IETF 
-		      (e.g., potential sponsors) must be able 
-		      to recognize when or how an entity speaks 
+	      <t>IETFAminOrg must have an integrated and
+		      understandable representation mode.
+		      People not familiar with the IETF
+		      (e.g., potential sponsors) must be able
+		      to recognize when or how an entity speaks
 		      for the IETF.</t>
 	    </list>
 	    </t>
@@ -298,11 +298,11 @@
 	    agreement with the software provider. Ideally, IETF could
 	    make decisions free from operational and other constraints
 	    imposed by its relationship with ISOC.</t>
-		  
-	   <t>IETFAdminOrg must have enough and appropriate authority 
-		   to carry out the IETF's administrative requirements 
-		   and activities in a timely fashion, and as the IETF 
-		   desires (within reason of normal business and legal 
+
+	   <t>IETFAdminOrg must have enough and appropriate authority
+		   to carry out the IETF's administrative requirements
+		   and activities in a timely fashion, and as the IETF
+		   desires (within reason of normal business and legal
 		   requirements).</t>
 	  </section>
 
@@ -318,7 +318,7 @@
 	    this role that might pull an ISOC- assigned IETF staffer
 	    in directions that might not be in the best interests of
 	    IETF, consciously or unconsciously. </t>
-	    
+
 	    <t>Furthermore, when we're in a position where we need
 	    more staff support, it's not obvious what the most
 	    appropriate path is to obtain that support and how the
@@ -396,7 +396,7 @@
 		  and other factors are likely
 	  responsible for declining in-person meeting attendance going
 	  forward. </t>
-	  
+
 	  <t>While there has been a lot of sponsor support for, e.g.,
 	  meeting hosting, getting support for the full costs of operating the IETF
 	   is not easy.  The costs are quite large, the value to sponsors is not always
@@ -412,7 +412,7 @@
 	  able to meet the present funding challenges if we do not have people
 	  with the cycles available to dedicate the necessary time to figuring
 	  out how to do that.</t>
-	  
+
 	  <t>In addition, relying heavily on meeting-based revenue is somewhat at
 	  odds with the fact that much of the IETF's work takes place
 	  outside of in- person meetings.</t>
@@ -532,9 +532,9 @@
       <section anchor="overallstructure" title="Overall Structure">
 
         <section title="IASA++">
-          <t>In the IASA++ option, IETFAminOrg continues to be implemented as an activity within 
-		  ISOC.   While addressing the requirements above, this does mean that 
-		  ISOC maintains funds and contracting authority on behalf of the IETF, 
+          <t>In the IASA++ option, IETFAminOrg continues to be implemented as an activity within
+		  ISOC.   While addressing the requirements above, this does mean that
+		  ISOC maintains funds and contracting authority on behalf of the IETF,
 		  and all IASA staff are ISOC employees.</t>
 
           <t>While the relationship remains the same, the IETF and ISOC will make
@@ -553,10 +553,10 @@
             of IASA staff.</t>
             <t>Re-structure the internal IETF organization and appointment processes
             for the IAOC to address current challenges. IETF Trust to be kept separate from IAOC.</t>
-            <t>Drive IETF community consensus on roles and responsibilities for administrative 
-		    decision-making so it is completely clear what people or group has authority 
-		    to make decisions, and what type of consultation, if any, should take place with 
-		    the community in advance so as to eliminate the current lack of clarity and friction 
+            <t>Drive IETF community consensus on roles and responsibilities for administrative
+		    decision-making so it is completely clear what people or group has authority
+		    to make decisions, and what type of consultation, if any, should take place with
+		    the community in advance so as to eliminate the current lack of clarity and friction
 		    that exists today.</t>
 	  </list></t>
 
@@ -704,7 +704,7 @@
 	would
 	provide some separation between the copyright ownership functions from other administrative
 	functions, but both would still have to be funded from the same sources.</t>
-	
+
         <t>
         <list style="symbols">
           <t> IETFAdminorg would have as its mission to support IETF and would
@@ -831,7 +831,7 @@
 	unless it belongs to an agreed list of exceptional information that needs to be
 	confidential. An IETF process is needed to form that list of exceptions.</t>
       </section>
-      
+
       <section anchor="staffresources" title="Staff Structure">
 
         <t>The design team believes that staff resources need to increase and/or
@@ -1052,7 +1052,7 @@
 	in <xref target="goals"/>:
 
 	<list style="symbols">
-	  
+
 	  <t>Protect the IETF's Culture and Technical Work: <vspace blankLines="1"/>
 	  The changes under the IASA++ option are small enough that they clearly cannot have any
 	  undue effect on culture or actual IETF work. <vspace blankLines="1"/>
@@ -1115,9 +1115,9 @@
 	  </t>
 
     </list></t>
-    
+
     </section>
-    
+
       <section title="Pros and Cons">
 
           <t><xref target="IASA-assess" /> highlights the pros and cons of the IASA++ option.</t>
