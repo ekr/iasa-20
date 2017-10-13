@@ -50,10 +50,9 @@
       <t>The arrangements relating to administrative support for the IETF were
       created more than ten years ago. Since then, there has been considerable change in the
       tasks and in our own expectations. The IETF community has
-      discussed these changes and the problems they cause. The community has
-      some sense of the properties they expect from future arrangements,
-      including structural and organizational changes, changes to volunteer and
-      staff personnel resources, and transparency changes.</t>
+      discussed these changes and the problems they cause. The community has some sense of the properties they expect
+      from future arrangements, including those related to structure,
+      organization, personnel, and transparency.</t>
 
       <t>This document is a product of a design team, focused on providing
       additional information to the community about solution options, as well as
@@ -111,8 +110,8 @@
 		the goals.  In no case does IETFAdminOrg have anything to do with defining, 
 		changing, or operating the IETF's standards process and structure 
 		(participants (not members), WGs, IESG and so on) which remain as they stand 
-		today. In particular, none of the options change the role of the IETF as not
-		being a formal organisation of any sort.</t>
+		today. In particular, none of the options change the
+		role of the IETF, e.g.,  becoming a formal organisation of any sort.</t>
 
       <t>As a base for this work there was a good articulation of the set of problems we
       are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and
@@ -245,7 +244,7 @@
 	    is responsible for a particular function. Things as simple
 	    as ensuring there is a lanyard sponsor/coordinator, but
 	    also functions as important as fundraising and sponsorship
-	    development can suffer from a lack of clear
+	    development have suffered from a lack of clear
 	    responsibility.</t>
 		  
 	    <t>IETFAdminOrg must have lines of responsibility that are 
@@ -308,16 +307,32 @@
 	  </section>
 
 	  <section title="Oversight">
+
 	    <t>The IAOC is the primary oversight body in the current
 	    IASA model, but there can be confusion or mismatches in
-	    roles. For example, the IAOC has an administrative staffer
-	    that is an ISOC employee, but does this role ultimately
-	    report to the IAOC committee, the IAD, or ISOC staff? Even
-	    if the reporting line for this staffer were more clear,
-	    clearly there are power dynamics in this role that might
-	    pull an ISOC-assigned IETF staffer in directions that
-	    might not be in the best interests of IETF, consciously or
-	    unconsciously.</t>
+	    roles. For example, to the extent that ISOC staff besides
+	    the IAD become engaged in administrative work for the
+	    IETF, to whom do they report? The IAOC, the IAD, or their
+	    management at ISOC? Even if the reporting line for such
+	    staff were more clear, clearly there are power dynamics in
+	    this role that might pull an ISOC- assigned IETF staffer
+	    in directions that might not be in the best interests of
+	    IETF, consciously or unconsciously. </t>
+	    
+	    <t>Furthermore, when we're in a position where we need
+	    more staff support, it's not obvious what the most
+	    appropriate path is to obtain that support and how the
+	    IAOC's oversight fits into the kind of performance review
+	    and career planning that ISOC staff would expect. We have
+	    used a variety of models for acquiring staff support from
+	    ISOC in the past, ranging from the IAD informally
+	    soliciting help from others at ISOC, to the IAOC
+	    establishing more formal staff relationships with ISOC
+	    personnel, to ISOC taking responsibility for finding staff
+	    with an internal-to-ISOC reporting chain. The role of the
+	    IAOC vis a vis such staff is not defined, nor is the
+	    mechanism for reflecting the work that they do for the
+	    IETF back to their ISOC management.</t>
 	  </section>
 
 	</section>
@@ -327,14 +342,23 @@
 	  IETF to function, notably in volunteers and staff.</t>
 
 	  <section title="Volunteers">
-	    <t>As the IAD is the sole FTE for IETF, naturally the IASA
-	    arrangement has evolved to encompass a series of volunteer
+
+	    <t>The IAD is the sole full-time employee for IETF, and
+	    the IASA arrangement encompasses a series of volunteer
 	    committees that help to work through issues such as
 	    finance, legal, meetings, technology management, requests
-	    for proposals, and sponsorship.  Volunteers have limited
-	    time and specific interests and there does not ever seem
-	    to be enough volunteers to effectively populate these
-	    committees.</t>
+	    for proposals, and sponsorship.  However, it is becoming
+	    close to impossible to find qualified volunteers who are
+	    willing to stand for open slots on the IAOC. In general,
+	    on both the IAOC and the committees, the time that
+	    committee members have to devote to the tasks at hand
+	    falls far short of what is required to do much of anything
+	    beyond keeping the organization afloat. At a time when the
+	    IETF is faced with administrative and financial
+	    challenges, barely having enough volunteers and volunteer
+	    time to keep the current operation running is not a
+	    sustainable model.</t>
+
 	  </section>
 
 	  <section title="Staff">
@@ -371,11 +395,8 @@
 	  revenue, but the emergence of more viable remote participation tools
 		  and other factors are likely
 	  responsible for declining in-person meeting attendance going
-	  forward.  Even if fees were charged for remote
-	  participation, charging the same for remote and in-person
-	  attendance is unlikely to be a viable way to make up the
-	  difference.</t>
-
+	  forward. </t>
+	  
 	  <t>While there has been a lot of sponsor support for, e.g.,
 	  meeting hosting, getting support for the full costs of operating the IETF
 	   is not easy.  The costs are quite large, the value to sponsors is not always
@@ -383,6 +404,15 @@
 	  unappreciative, and the same sponsors get tapped again and
 	  again for many related but different opportunities.</t>
 
+	  <t>At this point we have one part-time
+	  contractor responsible for sponsorship fundraising, and volunteers on
+	  the finance and sponsorship committees with limited cycles
+	  to spend on re-envisioning the fundraising model for the IETF. They
+	  are all putting in good efforts, but ultimately we are unlikely to be
+	  able to meet the present funding challenges if we do not have people
+	  with the cycles available to dedicate the necessary time to figuring
+	  out how to do that.</t>
+	  
 	  <t>In addition, relying heavily on meeting-based revenue is somewhat at
 	  odds with the fact that much of the IETF's work takes place
 	  outside of in- person meetings.</t>
