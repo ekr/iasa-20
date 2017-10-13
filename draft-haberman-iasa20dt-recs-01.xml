@@ -271,7 +271,7 @@
 	      <t>can result in those soliciting sponsorships and
 	      donations having a lack of familiarity with IETF
 	      work.</t>
-	      <t>IETFAminOrg must have an integrated and
+	      <t>IETFAdminOrg must have an integrated and
 		      understandable representation mode.
 		      People not familiar with the IETF
 		      (e.g., potential sponsors) must be able
@@ -532,7 +532,7 @@
       <section anchor="overallstructure" title="Overall Structure">
 
         <section title="IASA++">
-          <t>In the IASA++ option, IETFAminOrg continues to be implemented as an activity within
+          <t>In the IASA++ option, IETFAdminOrg continues to be implemented as an activity within
 		  ISOC.   While addressing the requirements above, this does mean that
 		  ISOC maintains funds and contracting authority on behalf of the IETF,
 		  and all IASA staff are ISOC employees.</t>
@@ -606,8 +606,9 @@
           <t>In the subsidiary model, IETFAdminOrg would carry out the function in
           ISOC's role of supporting the IETF. ISOC itself would no longer
           undertake specific actions to that end, other than supporting IETFAdminOrg. In this
-          model, ISOC's role would consist primarily of committing to a fixed level
-          of financial support for IETFAdminOrg </t>
+          model, ISOC's role would consist primarily of committing to
+	  stable
+	  financial support for IETFAdminOrg </t>
 
           <t>As a subsidiary of ISOC, the IETF could eliminate the IAOC and replace
           it with a board (see <xref target="oversight"/>).
@@ -987,7 +988,7 @@
 	  have previously, the different Reorganization options affect
 	  the legal, contractual, and accounting related
 	  details. While continuing as-is is possible, adopting a a
-	  more stable and predictable allocation of funding is
+	  more predictable allocation of funding is
 	  desirable (see <xref target="fundinglevel"/>, and in the
 	  subsidiary and independent options formal contracts about
 	  the funding are also necessary. The exact details of those
@@ -1281,7 +1282,7 @@
 	full salary, health insurance, worker's compensation, sick
 	pay, etc. In general, while under the ISOC model the IETF may
 	have been able to take a particular percentage of a person's
-	base costs, under a more independent arrangements the IETF
+	predicted base costs, under a more independent arrangements the IETF
 	is an employer and liable for all associated costs at 100%.
 	Similarly, some current contracted or volunteer roles, if
 	turned to staff positions, can increase costs.</t>
