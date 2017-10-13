@@ -247,6 +247,11 @@
 	    also functions as important as fundraising and sponsorship
 	    development can suffer from a lack of clear
 	    responsibility.</t>
+		  
+	    <t>IETFAdminOrg must have lines of responsibility that are 
+		    clear enough for non-IETFers to understand where 
+		    responsibilities lie, and how to make changes as 
+		    necessary over time.</t>
 
 	  </section>
 
@@ -267,6 +272,12 @@
 	      <t>can result in those soliciting sponsorships and
 	      donations having a lack of familiarity with IETF
 	      work.</t>
+	      <t>IETFAminOrg must have an integrated and 
+		      understandable representation mode.  
+		      People not familiar with the IETF 
+		      (e.g., potential sponsors) must be able 
+		      to recognize when or how an entity speaks 
+		      for the IETF.</t>
 	    </list>
 	    </t>
 	  </section>
@@ -288,6 +299,12 @@
 	    agreement with the software provider. Ideally, IETF could
 	    make decisions free from operational and other constraints
 	    imposed by its relationship with ISOC.</t>
+		  
+	   <t>IETFAdminOrg must have enough and appropriate authority 
+		   to carry out the IETF’s administrative requirements 
+		   and activities in a timely fashion, and as the IETF 
+		   desires (within reason of normal business and legal 
+		   requirements).</t>
 	  </section>
 
 	  <section title="Oversight">
