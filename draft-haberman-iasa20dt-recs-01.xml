@@ -820,29 +820,57 @@
           for a non-profit board).
         </t>
 
-        <t>
-          One potential model for populating the board is a Nomcom-selection
-          for 1/3 of the board members and some other type of selection for 2/3
-          of the board members with a view for more independent, well-networked
-          members. In addition, if we follow the ISOC Subsidiary model
-          (see <xref target="option2"/>), then ISOC would likely nominate some subset of the board
-          members. All members of the board should be subject to confirmation
-          from the IETF, most likely via the IAB, though perhaps from the IESG
-          or both. The details of how the initial board is to be constituted
-          need to be determined, but one possibility would be to draw from
-          the existing IAOC and IETF-selected ISOC BOT members, with the
-          board replacing itself within a short period (strawman: two years).
-        </t>
+        <section title="Board Selection" anchor="board-selection">
+          <t>
+            Experience with selection for the IAOC and the ISOC Board
+            shows the difficulty of using the nomcom process to select a board
+            with the kind of business skills necessary to supervise an operation
+            like IETFAdminOrg. These skills are not common -- though also not
+            non-existent -- within the IETF community, which makes it hard to
+            find candidates as well as reducing the chance that nomcom
+            members will have the personal contacts to identify external
+            candidates with the appropriate skills. For this reason,
+            the design team does not believe that direct nomcom selection
+            of the whole board will be successful. In the ISOC
+            Subsidiary model, ISOC might also nominate some board members.
+            Below we present two alternative mechanisms for selecting the
+            remaining board members, though there others would perhaps
+            be successful. Regardless of the nomination mechanism, the entire
+            board should be subject to confirmation by the IETF leadership
+            (strawman: the IAB).
+          </t>
+          <section title="Self-Perpetuating Board" anchor="self-perpetuating">
+            <t>
+              One common way to select board members is to have the existing
+              board select new members. The advantage of this structure is that
+              the existing members have the skills and connections to identify
+              other people with similar skills. For this reason, this is a
+              common structure for nonprofits. The design team recognizes that
+              there are concerns about the board drifting away from the IETF
+              Community interest, but believes these concerns would be
+              adequately addressed by having some of the board (strawman 1/3)
+              directly selected by nomcom and all members subject to IETF
+              confirmation.  The details of how the initial board is to be
+              constituted would need to be determined, but one possibility would
+              be to draw from the existing IAOC and IETF-selected ISOC BOT
+              members, with the board replacing itself within a short period
+              (strawman: two years).
+            </t>
+          </section>
+          <section title="Nomcom-Selected Nomcom" anchor="nomcom-squared">
+            <t>
+              An alternative design would be to have the IETF nomcom select
+              a separate nominating committee which would then select the
+              board members. This suffers from some of the problems with direct
+              nomcom selection, but allows us to expand the scope of the pool
+              to anyone at the IETF with business skills or business contacts,
+              not just those who have time to be a board member. As before,
+              the output of this process would need to be confirmed in the IETF.
+            </t>
 
-        <t>
-          In addition to the Board, IETFAdminOrg would also have an "Advisory Council",
-          which is drawn from the IETF community (in some TBD fashion). This
-          council would have no formal decision-making responsibility but the
-          Board would be expected to consult with the AC on matters strongly
-          affecting the community. The purpose of the AC is to involve IETF
-          members who have strong community ties but do not have the time or
-          administrative experience to serve on a governing board.
-        </t>
+          </section>
+        </section>
+
       </section>
 
       <section anchor="transparency" title="Transparency">
