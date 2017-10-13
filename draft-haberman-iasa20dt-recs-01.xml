@@ -598,19 +598,19 @@
           would be created as the new legal
           home of the IETF administrative operation, similar to how the Public Interest Registry (PIR) is
 	  organized within ISOC. A subsidiary can have its own bank account, by-laws,
-          charter, board of directors/trustees, staff, and corporate identity. As a
+          charter, board, staff, and corporate identity. As a
           subsidiary of ISOC, the IETF and ISOC can share overhead and
           resources. The IETF would likely rely heavily on contractors for most
           administrative tasks.</t>
 
           <t>In the subsidiary model, IETFAdminOrg would carry out the function in
-          ISOC's mission of supporting the IETF. ISOC itself would no longer
+          ISOC's role of supporting the IETF. ISOC itself would no longer
           undertake specific actions to that end, other than supporting IETFAdminOrg. In this
           model, ISOC's role would consist primarily of committing to a fixed level
           of financial support for IETFAdminOrg </t>
 
           <t>As a subsidiary of ISOC, the IETF could eliminate the IAOC and replace
-          it with a board of directors/trustees (see <xref target="oversight"/>).
+          it with a board (see <xref target="oversight"/>).
 	  Administrative decision-making
           authority would rest primarily with the administrative staff, with oversight
           provided by the board (see <xref target="staffresources"/>.
@@ -644,8 +644,7 @@
 
           <t>In this option, a new non-profit organization (e.g., IETFAdminorg) is
           created independent from ISOC as the new legal home of the IETF. IETFAdminOrg
-          would have its own bank account, by-laws, charter, board of
-          directors/trustees, staff, and corporate identity. The administrative
+          would have its own bank account, by-laws, charter, board, staff, and corporate identity. The administrative
           staff for IETFAdminOrg could be kept lean and would likely rely on contractors for the
           bulk of administrative tasks. Minimally, the IETFAdminOrg staff would be
           responsible for administration, development/fundraising, communications,
@@ -658,7 +657,7 @@
           </t>
           <t>
           <list style="symbols">
-            <t>ISOC is missioned to support the IETF [TODO: Citation needed].</t>
+            <t>ISOC's role in supporting the IETF.</t>
             <t>As a practical matter, IETFAdminOrg is not financially viable without
             ISOC's support.</t>
           </list>
@@ -753,7 +752,7 @@
         </t>
 
         <t>In order to achieve these objectives, the design team proposes
-        a model similar to other nonprofits, in which IETFAdminOrg would be governed by a Board of Directors.
+        a model similar to other nonprofits, in which IETFAdminOrg would be governed by a Board of Trustees.
         This board, the IASA Board (IB), acts to set strategic direction for
         IETF administrative matters, sets budgets, provides fiscal oversight,
         provides high-level oversight about major new projects, and so on.
@@ -1127,7 +1126,7 @@
 	  much freedom or organization agility they provide. Clearly, in the independent
 	  organization option the IETF has most of these.</t>
 
-	  <t>Define a New IETF-ISOC Relationship:<vspace blankLines="1"/>
+	  <t>Clearly Define the IETF-ISOC Relationship:<vspace blankLines="1"/>
 	  Again, all options are forced to define this relationship in a clearer way than it is
 	  defined today. However, the subsidiary and independent organization models
 	  have a better ability to reach a clear definition. A clear definition is not merely a
