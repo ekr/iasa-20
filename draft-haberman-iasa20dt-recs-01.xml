@@ -872,7 +872,7 @@
               common structure for nonprofits. The design team recognizes that
               there are concerns about the board drifting away from the IETF
               Community interest, but believes these concerns would be
-              adequately addressed by having some of the board (strawman 1/3)
+              adequately addressed by having some of the board 
               directly selected by nomcom and all members subject to IETF
               confirmation.  The details of how the initial board is to be
               constituted would need to be determined, but one possibility would
@@ -953,6 +953,10 @@
 	<t>These persons also need to rely on a number of contractors
 	and outside specialists. For instance, a Legal Counsel, to assist the IASA on legal matters as well as contracting.</t>
 
+	<t>It should be noted that we expect to retain the secretariat on
+	contract for more or less the same responsibilities that they presently
+	have.</t>
+	  
       </section>
 
       <section anchor="funding" title="Funding">
