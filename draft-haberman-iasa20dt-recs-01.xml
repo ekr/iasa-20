@@ -699,6 +699,12 @@
           parts of ISOC which support IETF:
         </t>
 
+	<t>Optionally, under the independent organization option, IETF Trust, holding IPR on behalf
+	of the IETF, could be kept separate from the operational IETF administration aspects. This
+	would
+	provide some separation between the copyright ownership functions from other administrative
+	functions, but both would still have to be funded from the same sources.</t>
+	
         <t>
         <list style="symbols">
           <t> IETFAdminorg would have as its mission to support IETF and would
@@ -1056,7 +1062,7 @@
 	  support part. To be exact, the IETF will not become an organization even if the
 	  administrative support for it may. While one may have an opinion that administrative
 	  functions may grow or acquire more staff over time (and there is always some danger of
-	  that), keeping both the IETF and IETF Trust out of the
+	  that), keeping the IETF out of the
 	  organization for administration does provide a level of separation. This separation
 	  ensures that participant, working group, IESG, IETF Chair, and other similar roles should
 	  continue to operate as they are operating now.
