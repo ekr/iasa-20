@@ -666,7 +666,7 @@
 
         <section title="Independent Organization">
 
-          <t>In this option, a new non-profit organization (e.g., IETFAdminorg) is
+          <t>In this option, a new non-profit organization (e.g., IETFAdminOrg) is
           created independent from ISOC as the new legal home of the IETF. IETFAdminOrg
           would have its own bank account, by-laws, charter, board, staff, and corporate identity. The administrative
           staff for IETFAdminOrg could be kept lean and would likely rely on contractors for the
