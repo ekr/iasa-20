@@ -614,7 +614,7 @@
 
         <section anchor="option2" title="ISOC Subsidiary">
 
-          <t>In this option, IETFAdminOrg is implemented as an ISOC subsidiary, which Le
+          <t>In this option, IETFAdminOrg is implemented as an ISOC subsidiary, which 
           would be created as the new legal
           home of the IETF administrative operation, similar to how the Public Interest Registry (PIR) is
 	  organized within ISOC. A subsidiary can have its own bank account, by-laws,
