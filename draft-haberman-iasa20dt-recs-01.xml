@@ -79,7 +79,7 @@
       division of responsibilities between IETF and ISOC.</t>
 
       <t>The IETF community has discussed and continues to discuss these topics, most
-      recently on the "IASA 2.0" mailing list and BOF at IETF98. Alissa Cooper, the
+      recently on the "IASA 2.0" mailing list and BOF at IETFs 98 and 99. Alissa Cooper, the
       Chair of the IETF, convened a small design team to start evaluating potential
       options going forward. The purpose of the design team is to provide material
       that informs the community discussion, both in terms of providing a bit more
@@ -100,8 +100,8 @@
         options that should be looked at.</t>
         <t>If the analysis of the implications of the options is
         correct.</t>
-        <t>If the recommendations in <xref target="conc_recs"/> are a
-	reasonable starting point for re-organization work.</t>
+	<t>Which direction the community would like to take the work
+	in evolving IASA.</t>
       </list></t>
 
       <t>It should of course be acknowledged that there is no perfect, or even
@@ -117,25 +117,15 @@
 		the goals.  In no case does IETFAdminOrg have anything to do with defining,
 		changing, or operating the IETF's standards process and structure
 		(participants (not members), WGs, IESG and so on) which remain as they stand
-		today. In particular, none of the options change the
-		role of the IETF, e.g.,  becoming a formal organisation of any sort.</t>
+		today. In particular, none of the options lead to the IETF
+         	becoming a formal organisation of any sort.</t>
 
       <t>As a base for this work there was a good articulation of the set of problems we
       are facing in <xref target="I-D.hall-iasa20-workshops-report"/> and
       <xref target="I-D.daigle-iasa-retrospective"/>. The community discussion
-      seems have indicated also some of the outcome properties that are expected.
-      The scope of the solutions explored included:
+      seems have indicated also some of the outcome properties that are expected.</t>
 
-      <list style="symbols">
-        <t>Structural and organizational changes, both externally (with ISOC and contractors)
-        and internally (within the IAOC and subcommittees)</t>
-	<t>Changes to funding arrangements (even if IETF continues to
-	backed by primarily the same entities in the future as it is today).</t>
-        <t>Changes to personnel resources, both volunteer and paid</t>
-        <t>Transparency changes</t>
-      </list></t>
-
-      <t>The rest of the document is organized as follows. The next two sections (<xref
+      <t>The next two sections (<xref
       target="background" /> and <xref target="problemstmt" />) describe the background and summarize
       the challenges noted in the community discussion.  The two sections after that (<xref
       target="goals" /> and <xref target="reorg_options" />) describe the goals and primary options
@@ -145,6 +135,39 @@
 
     <section title="Background" anchor="background">
 
+      <section title="Terminology"  anchor="terms">
+
+        <t>The following acronyms are used in this document:
+
+        <list style="symbols">
+
+          <t>IASA - IETF Administrative Support Activity - An organized activity that
+	  provides administrative support for the IETF, the IAB and the IESG.</t>
+
+          <t>IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely
+          IETF-selected committee that oversees and directs IASA.  Accountable to the IETF
+          community.</t>
+
+          <t>IAOC committees - Recognizing the need for specialized attention for different
+          branches of work requiring IAOC oversight, the IAOC expanded its support by creating
+          committees. Currently, the committees do the heavy lifting on specific tasks, while
+          the IAOC is the one responsible for final decisions.</t>
+
+          <t>ISOC - The Internet Society - The organizational home of the IETF, and one that in the
+          current IASA system assists the IETF with legal, administrative, and funding tasks.</t>
+
+          <t>IAD - IETF Administrative Director - In the current system, the sole staff member
+          responsible for carrying out the work of the IASA.  An ISOC employee.</t>
+
+          <t>IETF Trust - In the current system, the IETF Trust acquires, maintains, and licenses
+          intellectual and other property used in connection with the administration of the IETF.
+          Same composition as IAOC.</t>
+
+        </list></t>
+      </section>
+
+      <section title="Current IASA Arrangements">
+	
       <t>The administrative support structure is intended to be responsive to the administrative
       needs of the IETF technical community.</t>
 
@@ -180,35 +203,6 @@
         <t>Sponsorship and funding (together with ISOC)</t>
       </list></t>
 
-      <section title="Terminology"  anchor="terms">
-
-        <t>The following acronyms are used in this document:
-
-        <list style="symbols">
-
-          <t>IASA - IETF Administrative Support Activity - An organized activity that
-	  provides administrative support for the IETF, the IAB and the IESG.</t>
-
-          <t>IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely
-          IETF-selected committee that oversees and directs IASA.  Accountable to the IETF
-          community.</t>
-
-          <t>IAOC committees - Recognizing the need for specialized attention for different
-          branches of work requiring IAOC oversight, the IAOC expanded its support by creating
-          committees. Currently, the committees do the heavy lifting on specific tasks, while
-          the IAOC is the one responsible for final decisions.</t>
-
-          <t>ISOC - The Internet Society - The organizational home of the IETF, and one that in the
-          current IASA system assists the IETF with legal, administrative, and funding tasks.</t>
-
-          <t>IAD - IETF Administrative Director - In the current system, the sole staff member
-          responsible for carrying out the work of the IASA.  An ISOC employee.</t>
-
-          <t>IETF Trust - In the current system, the IETF Trust acquires, maintains, and licenses
-          intellectual and other property used in connection with the administration of the IETF.
-          Same composition as IAOC.</t>
-
-        </list></t>
       </section>
     </section>
 
@@ -447,7 +441,7 @@
 		on that technical work and less on administrative work or support activities. This could for example mean directing more
 		  financial resources towards the creation of new or improvement of existing tools, which might be produced by
 		  contractors rather than solely by volunteers. As a result, volunteers could instead focus on developing the
-		  standards themselves. Thus, if the core competency of IETF attendees and their reason of participating in the IETF
+		  standards themselves. Thus, if the core competency of IETF attendees and their reason for participating in the IETF
 		  is to develop standards, then create an environment where they can focus exclusively on that activity and delegate
 		  to contractors, staff, or other resources the responsibility for creating and maintaining tools and processes to
 		  support this activity.</t>
@@ -480,7 +474,7 @@
 	        to the IESG vs. the IASA organisation or staff. In many cases
 	        that is not clear today.</t>
 
-          <t>Define Support Staff Roles and Responsibilities: Very clearly define the roles of the oversight entities and
+          <t>Define Support Staff Roles and Responsibilities: Clearly define the roles of the oversight entities and
 		  staff/contractors to match the expanded work scope facing the IETF. Ensure that any changes create a structure that
 		  can adapt flexibly to future growth and other changes (including changes in IETF community expectations,
 		  such as increased transparency or more rapid decision-making).</t>
@@ -489,7 +483,11 @@
 		  for support staff and volunteer roles are clarified more precisely, the role of the IETF community in
 		  relation to those staff and volunteer roles must be better defined. This should acknowledge the limited
 		  time and availability of IETF volunteers, better defining expectations around oversight of and involvement
-		  in strategic, operational, and execution tasks within the administrative efforts. The new design needs to
+		  in strategic, operational, and execution tasks
+		  within the administrative efforts.<vspace
+		  blankLines="1"/>
+
+		  The new design needs to
 		  ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated
 		   to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on.
 		  In particular, this should focus on clearly documenting the lines between responsibility, representation,
@@ -497,7 +495,11 @@
 
           <t>Improve Transparency: The general level of transparency and information-sharing between
 		  IETF administrative staff and groups to the IETF community must be improved. This includes improving the timeliness
-		  of sharing of information and decisions, as well as seeking comment on forthcoming decisions. As the same time,
+		  of sharing of information and decisions, as well as
+		  seeking comment on forthcoming decisions.<vspace
+		  blankLines="1"/>
+
+		  As the same time,
 		  we need to reset expectations around delegated authority so that once staff or an administrative support organization
 		  has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as
 		to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making. However,
@@ -535,7 +537,7 @@
 	outlines the needs for IASA staff, and <xref target="funding"/> discusses what
 	short term and long term funding arrangement changes are needed. Both staffing and
 	funding arrangements are relevant for all reorganization options, but are of course
-	somewhat affected by the chosen option.</t>
+	affected by the chosen option.</t>
 
 	<t>It
         should be noted that all three options require more administrative budget
@@ -687,8 +689,8 @@
           </list>
           </t>
           <t>
-            In order to establish this model, IETFAdminOrg and ISOC would need some
-            sort of explicit agreement that outlined expected levels of financial
+            In order to establish this model, IETFAdminOrg and ISOC would need an
+            explicit agreement that outlined expected levels of financial
             support going forward, both in terms of founding endowments and in
             terms of ongoing support. These agreements might also cover IETFAdminOrg's
             obligations to ISOC, such as the level of reporting from
@@ -732,7 +734,7 @@
 
         <t>
         <list style="symbols">
-          <t> IETFAdminorg would have as its mission to support IETF and would
+          <t> IETFAdminOrg would have as its mission to support IETF and would
           exist for the benefit of the IETF.</t>
 
           <t>The IETF would provide oversight into the governance of IETFAdminOrg,
@@ -897,12 +899,12 @@
         </section>
 
 	<section title="Advisory Council">
-	  <t>Optionally, the board and staff can be supported by an Advisory
+	  <t>The board and staff are also supported by an Advisory
 	  Council (AC). The AC provides an interface to the community on matters
 	  that require assessing community opinion. For instance, the current
 	  polling of community feedback relating to potential future meeting
 	  locations could be one such matter. An advisory council canvassing and
-	  pulling for this information might be a better approach than either
+	  pulling for this information is expected to be a better approach than either
 	  free-form mailing list discussion, or the relatively opaque process
 	  that is currently used. </t>
         </section>
@@ -1180,7 +1182,7 @@
 	  support are adopted.  A clear interface between the community and the
 	  IETFAdminOrg is helpful in specifying what role the community and
 	  other parts of the system play. The nomcom-appointed board members and
-	  the optional Advisory Council have clearer role, and have a more
+	  the Advisory Council have clearer role, and have a more
 	  community-focused role in the new arrangements to ensure that the
 	  community has a strong voice.
 	  </t>
@@ -1279,10 +1281,10 @@
 	  <t>Define a Transition Plan:<vspace blankLines="1"/>
 	  This will also be necessary in all options.<vspace blankLines="1"/>
 
-	  The IASA++ option has the least actions related to the startup, as
-	  well as costs related to the transition (although of course it may not
+	  The IASA++ option is the easiest one to get going, and
+	  minimal transition cost, although of course it may not
 	  provide as much value in return, creating risk that the challenges
-	  present in current IASA structures will not be sufficiently solved).
+	  present in current IASA structures will not be sufficiently solved.
 	  </t>
 
     </list></t>
