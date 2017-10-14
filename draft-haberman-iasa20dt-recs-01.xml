@@ -863,8 +863,7 @@
             Below we present two alternative mechanisms for selecting the
             remaining board members, though there are others that would perhaps
             be successful. Regardless of the nomination mechanism, the entire
-            board should be subject to confirmation by the IETF leadership
-            (strawman: the IAB).
+            board should be subject to confirmation by the IETF leadership.
           </t>
           <section title="Self-Perpetuating Board" anchor="self-perpetuating">
             <t>
