@@ -76,10 +76,10 @@
       <t>The system has experienced various challenges and frustrations along the
       way, for instance around meeting arrangements. There are also some bigger
       questions about how the organizations are structured, for instance about the
-      division of responsibilities between IETF and ISOC.</t>
+      division of responsibilities between IETF and The Internet Society (ISOC).</t>
 
       <t>The IETF community has discussed and continues to discuss these topics, most
-      recently on the "IASA 2.0" mailing list and BOF at IETFs 98 and 99. Alissa Cooper, the
+      recently on the "IASA 2.0" mailing list and BOFs at IETFs 98 and 99. Alissa Cooper, the
       Chair of the IETF, convened a small design team to start evaluating potential
       options going forward. The purpose of the design team is to provide material
       that informs the community discussion, both in terms of providing a bit more
@@ -92,7 +92,7 @@
       or making any decisions. This draft, the output of the design team's
       considerations, has no particular official standing.   It should also be noted that IETF administrative
       matters have been organized jointly with ISOC, and it is important that
-      ISOC will continue to be involved in IETF's reorganization.</t>
+      ISOC continue to be involved in IETF's reorganization.</t>
 
       <t>The design team seeks feedback particularly on three aspects:
       <list style="symbols">
@@ -116,7 +116,7 @@
 		of IETFAdminOrg are considered in the light of how they could be used to address
 		the goals.  In no case does IETFAdminOrg have anything to do with defining,
 		changing, or operating the IETF's standards process and structure
-		(participants (not members), WGs, IESG and so on) which remain as they stand
+		(participants (not members), WGs, IESG and so on), which remain as they stand
 		today. In particular, none of the options lead to the IETF
          	becoming a formal organisation of any sort.</t>
 
@@ -142,7 +142,7 @@
         <list style="symbols">
 
           <t>IASA - IETF Administrative Support Activity - An organized activity that
-	  provides administrative support for the IETF, the IAB and the IESG.</t>
+	  provides administrative support for the IETF, the IAB, and the IESG.</t>
 
           <t>IAOC - IETF Administrative Oversight Committee in the current IASA system - A largely
           IETF-selected committee that oversees and directs IASA.  Accountable to the IETF
@@ -376,6 +376,7 @@
 	</section>
 
 	<section title="Lack of Transparency">
+<!--
 	  <t>IAOC has typically been perceived to operate less
 	  transparently than what is the norm for IETF processes and
 	  other IETF leadership bodies.</t>
@@ -387,6 +388,20 @@
 
 	  <t>Requirements from the community about IAOC transparency
 	  expectations are not clear.</t>
+-->
+          <t>The IAOC has sometimes been perceived to operate less transparently than what is the norm
+             for IETF processes and other IETF leadership bodies. This can be observed, for example, in
+             the failure to publicly share agreed information in a timely fashion. The reasons behind
+             this vary but can sometimes be caused by lack of resources to review and prepare material
+             for community review, or even fear of community reaction to potential administrative
+             decisions.</t>
+
+          <t>Work to increase transparency has made progress, but we must continue to address and improve
+             this. At the same time, a balance must be struck to reach the right level of transparency, so
+             that certain aspects of contracts, business terms, and negotiations can remain confidential,
+             according to legal and business practice norms. It will be important for the community and
+             any future IASA function to better define this in order to better meet well-defined, balanced
+             community expectations on transparency and information sharing.</t>
 
 	</section>
 
@@ -432,10 +447,10 @@
         specifically, the future organizational structure needs to do at least the following:
 
         <list style="symbols">
-          <t>Protect the IETF's Culture and Technical Work: Ensure that future IASA organizational structure and
-		  processes preserves and protects the IETF's unique culture of individual contribution, clear
-		  separation of financial support from technical work, as well as the "rough consensus and running code" approach to
-		  the development of open Internet standards.</t>
+          <t>Protect the IETF's Culture and Technical Work: Ensure that the future IASA organizational structure and
+		  processes preserve and protect the IETF's unique culture of individual contribution, clear
+		  separation of financial support from technical work, as well as the "rough consensus and running code"
+                  approach to the development of open Internet standards.</t>
 
 	  <t>Improve the IETF's Technical Environment: Undertake changes to better enable technical contributors to focus more
 		on that technical work and less on administrative work or support activities. This could for example mean directing more
@@ -493,6 +508,7 @@
 		  In particular, this should focus on clearly documenting the lines between responsibility, representation,
 		  authority, and oversight.</t>
 
+<!-- Old transparency text
           <t>Improve Transparency: The general level of transparency and information-sharing between
 		  IETF administrative staff and groups to the IETF community must be improved. This includes improving the timeliness
 		  of sharing of information and decisions, as well as
@@ -506,10 +522,24 @@
 		it is clear that enabling a group or staff to act within their delegated authority depends upon more clearly defining
                 roles and responsibilities, on improved transparency, on improved communications, and on trust (which is
 		  built upon all of those things over time).</t>
+-->
 
-	  <t>Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF
-		  has today to the new structure.</t>
+          <t>Improve Transparency: The general level of operational transparency and information-sharing
+             between IETF administrative staff and groups to the IETF community must be kept at an
+             acceptable level, and improved where it makes sense in the future.  This includes ensuring
+             the timeliness of sharing of information and decisions, as well as seeking comment on
+             prospective decisions.
 
+             At the same time, we need to reset expectations around delegated authority so that once
+             staff or an administrative support organization has been delegated certain authority it is
+             clear that they are empowered to proceed in a particular area, so as to improve organizational
+             efficiency, reduce friction, and improve the pace of work and decision-making.  However, it is
+             clear that enabling a group or staff to act within their delegated authority depends upon a
+             clearer definition of roles and responsibilities, on improved transparency, on improved
+             communications, and on trust (which is built upon all of those things over time).</t>
+
+	  <t>Define a Transition Plan: Determine what new IASA structure we need and define a transition
+             plan from the model the IETF has today to the new structure.</t>
 
         </list></t>
       </section>
@@ -748,7 +778,7 @@
 
         <t>
           Beyond negotiation, administering and managing the contracts necessary
-          for the work to support the IETF, IETF org would also start with
+          for the work to support the IETF, IETFAdminOrg would also start with
           sponsorship and communications functions.  Different functions and
           services might be needed as the IETF evolves.  The implementation
           would be determined by the IETFAdminOrg Executive Director, but the need
@@ -814,14 +844,14 @@
         </t>
 
         <t>
-          The general structure here is that the board is responsible for
+          The general structure is that the board is responsible for
           setting general policies about how the staff functions and making
           decisions for the organization as a whole. For instance, the
           board would be expected to sign off on the meeting locations
           and schedule, based on recommendations from the staff. For some
           activities, the board would organize subcommittees which would
-          do work directly. Typical examples would be auditing and hiring
-          and firing, though the board might, for instance, decide meetings
+          do work directly. Typical examples would be auditing, hiring,
+          and firing. The board might, for instance, decide meetings
           were so important that it needed more direct involvement. The
           board is accountable to the community and would be expected to
           regularly consult with the advisory council (see below) and
