@@ -334,6 +334,14 @@
 	    IAOC with respect to such staff is not defined, nor is the
 	    mechanism for reflecting the work that they do for the
 	    IETF back to their ISOC management.</t>
+
+	    <t>IETFAdminOrg's oversight functions must be complete and
+	    coherent.  For example, it might either take on full
+	    oversight responsibility for staff employment functions
+	    (including reporting structures and career development),
+	    or the oversight role must be limited to review input
+	    submitted to the external sources responsible for
+	    employment.</t>
 	  </section>
 
 	</section>
@@ -358,7 +366,9 @@
 	    IETF is faced with administrative and financial
 	    challenges, barely having enough volunteers and volunteer
 	    time to keep the current operation running is not a
-	    sustainable model.</t>
+	    sustainable model. IETFAdminOrg must rely less on
+	    volunteers or be better assured of engagement of willing
+	    and capable volunteers.</t>
 
 	  </section>
 
@@ -370,7 +380,8 @@
 	    that the IAD role is overly complex and taxing for a
 	    single human at this point, necessitating measures such as
 	    providing an administrator for the IAOC to better run that
-	    body and their meetings.</t>
+	    body and their meetings. IETFAdminOrg will require more
+	    paid employment support dedicated to IETF work.</t>
 	  </section>
 
 	</section>
@@ -401,7 +412,7 @@
              that certain aspects of contracts, business terms, and negotiations can remain confidential,
              according to legal and business practice norms. It will be important for the community and
              any future IASA function to better define this in order to better meet well-defined, balanced
-             community expectations on transparency and information sharing.</t>
+             community expectations on transparency and information sharing. IETFAdminOrg will be required to operated in a transparent fashion per community expectations set as part of this IASA 2.0 process.</t>
 
 	</section>
 
@@ -437,7 +448,7 @@
 	  to support its activities -- in order to more efficiently operate the IETF's
 		  activities and better enable IETF participants to contribute to the IETF's
 		  core technical work rather than administrative and supporting activities work --
-		  which is also causing expenses to grow.</t>
+		  which is also causing expenses to grow. IETFAdminOrg must have appropriate authority and tools to adapt the funding model of the IETF to evolving realities.</t>
 	</section>
       </section>
 
@@ -524,7 +535,7 @@
 		  built upon all of those things over time).</t>
 -->
 
-          <t>Improve Transparency: The general level of operational transparency and information-sharing
+          <t>Define Improved Transparency Requirements: The general level of operational transparency and information-sharing
              between IETF administrative staff and groups to the IETF community must be kept at an
              acceptable level, and improved where it makes sense in the future.  This includes ensuring
              the timeliness of sharing of information and decisions, as well as seeking comment on
@@ -764,7 +775,7 @@
 
         <t>
         <list style="symbols">
-          <t> IETFAdminOrg would have as its mission to support IETF and would
+          <t> IETFAdminOrg would have as its mission the administrative support IETF and would
           exist for the benefit of the IETF.</t>
 
           <t>The IETF would provide oversight into the governance of IETFAdminOrg,
@@ -962,10 +973,7 @@
 	and a a "reset" of expectations around delegated authority.</t>
 	<t>In addition, there needs to be an agreement between the IETF community and the
 	administrative entity about the where to draw the line between community's need for
-	information, and the need to keep some business (or personnel) data confidential. This
-	document suggests a "default open" model, where all information is kept openly available,
-	unless it belongs to an agreed list of exceptional information that needs to be
-	confidential. An IETF process is needed to form that list of exceptions.</t>
+	information, and the need to keep some business (or personnel) data confidential. </t>
       </section>
 
       <section anchor="staffresources" title="Staff Structure">
