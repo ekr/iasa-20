@@ -366,7 +366,9 @@
 	    IETF is faced with administrative and financial
 	    challenges, barely having enough volunteers and volunteer
 	    time to keep the current operation running is not a
-	    sustainable model. IETFAdminOrg must rely less on
+	    sustainable model. </t>
+
+<t> IETFAdminOrg must rely less on
 	    volunteers or be better assured of engagement of willing
 	    and capable volunteers.</t>
 
@@ -775,7 +777,7 @@
 
         <t>
         <list style="symbols">
-          <t> IETFAdminOrg would have as its mission the administrative support IETF and would
+          <t> IETFAdminOrg would have as its mission the administrative support of the IETF and would
           exist for the benefit of the IETF.</t>
 
           <t>The IETF would provide oversight into the governance of IETFAdminOrg,
@@ -1154,16 +1156,14 @@
 	    Note that the IETF already accounts for the expenses related to key IETF support
 	    staff (e.g., IAD, communications, etc).</t>
 
-	    <t>Implement a more realistic budgeting process.<vspace blankLines="1"/>
+	    <t>Ensure realism in the budget.<vspace blankLines="1"/>
 
-	    Assumptions about participant numbers, for instance, and the amount of
-	    sponsorship available per meeting need to reflect reality better.<vspace blankLines="1"/>
+For a budget to be realistic, it must be based on correctly anticipated income and expenses.  Since crystal balls are in short supply, flexibility and responsiveness is required in the process, as industry changes can impact both available contributions and number of participants at meetings (i.e., registration fee income).   <vspace blankLines="1"/>
 
-	    This should also involve appropriate decisions about what services
+Further decisions may be necessary to be more conservative in future budgets, including appropriate decisions about what services
 	    are essential for the IETF community and which are not.<vspace blankLines="1"/>
 
-	    Improving the budgeting process has been a goal of the 2018
-	    budget cycle, and will continue to need to be a priority going forward.</t>
+Documenting and discussing the IETF financial model (expectations of sources of income, levels of support, as well as requirements for expenses and levels of service) has been a goal for 2018 and will continue to be a priority going forward. </t>
 
 	    <t>ISOC as a funder and backstop.<vspace blankLines="1"/>
 
